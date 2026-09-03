@@ -1,0 +1,1542 @@
+Executando auditoria...
+
+================================================================================
+AUDITORIA 3 — ANTIGRAVITY STATE / ÍNDICES
+================================================================================
+
+SOMENTE LEITURA — NENHUM ARQUIVO FOI ALTERADO.
+
+================================================================================
+1. STATE.VSCDB
+================================================================================
+Arquivo: C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\globalStorage\state.vscdb
+Existe: True
+Tamanho: 397312
+SHA256: 1d38295e6048992c900aede90919191fba2e54c85fc548af7dadf038a3795ee2
+
+Tabelas:
+  - ItemTable
+
+Chaves relevantes:
+  antigravity.agentViewContainerId.state.hidden [str, 54 bytes]
+  antigravity.notification.100689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.1013ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.102689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.104689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.1083ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.108689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.112689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.114689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.1153ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.116689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.11689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.118689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.120689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.122689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.123ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.124689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.1263ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.126689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.12e3af8518-2344-4d36-b1c4-583d64645d4c [str, 4 bytes]
+  antigravity.notification.1353ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.1403ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.14293a0f5a-1e48-4990-bea8-e0cfa2a3b076 [str, 4 bytes]
+  antigravity.notification.1473ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.14e3af8518-2344-4d36-b1c4-583d64645d4c [str, 4 bytes]
+  antigravity.notification.153ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.1543ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.1613ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.16689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.1683ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.16e3af8518-2344-4d36-b1c4-583d64645d4c [str, 4 bytes]
+  antigravity.notification.1733ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.1823ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.183ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.18689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.1893ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.19293a0f5a-1e48-4990-bea8-e0cfa2a3b076 [str, 4 bytes]
+  antigravity.notification.1963ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.19e3af8518-2344-4d36-b1c4-583d64645d4c [str, 4 bytes]
+  antigravity.notification.2033ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.20689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.2083ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.2133ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.213ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.2183ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.2253ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.22689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.2323ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.2373ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.23e3af8518-2344-4d36-b1c4-583d64645d4c [str, 4 bytes]
+  antigravity.notification.24293a0f5a-1e48-4990-bea8-e0cfa2a3b076 [str, 4 bytes]
+  antigravity.notification.243ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.2443ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.24689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.2513ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.2583ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.2653ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.26689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.26e3af8518-2344-4d36-b1c4-583d64645d4c [str, 4 bytes]
+  antigravity.notification.2703ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.273ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.2773ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.2843ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.2913ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.29293a0f5a-1e48-4990-bea8-e0cfa2a3b076 [str, 4 bytes]
+  antigravity.notification.2983ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.29e3af8518-2344-4d36-b1c4-583d64645d4c [str, 4 bytes]
+  antigravity.notification.3053ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.30689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.3123ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.3193ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.3263ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.3413ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.34293a0f5a-1e48-4990-bea8-e0cfa2a3b076 [str, 4 bytes]
+  antigravity.notification.3483ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.353ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.3553ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.3623ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.36689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.3693ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.3763ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.3833ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.38689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.3903ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.39293a0f5a-1e48-4990-bea8-e0cfa2a3b076 [str, 4 bytes]
+  antigravity.notification.3973ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.4043ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.40689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.4113ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.4163ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.4233ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.423ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.42689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.4303ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.4373ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.43ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.44293a0f5a-1e48-4990-bea8-e0cfa2a3b076 [str, 4 bytes]
+  antigravity.notification.4443ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.44689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.4513ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.4583ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.4653ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.46689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.4689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.4863ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.48689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.49293a0f5a-1e48-4990-bea8-e0cfa2a3b076 [str, 4 bytes]
+  antigravity.notification.4933ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.493ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.5003ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.50689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.5073ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.5143ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.5213ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.52689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.5283ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.5353ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.5423ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.54293a0f5a-1e48-4990-bea8-e0cfa2a3b076 [str, 4 bytes]
+  antigravity.notification.543ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.54689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.5473ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.5543ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.5613ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.56689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.5683ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.58689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.59293a0f5a-1e48-4990-bea8-e0cfa2a3b076 [str, 4 bytes]
+  antigravity.notification.60689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.613ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.62689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.64293a0f5a-1e48-4990-bea8-e0cfa2a3b076 [str, 4 bytes]
+  antigravity.notification.64689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.663ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.66689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.68689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.69293a0f5a-1e48-4990-bea8-e0cfa2a3b076 [str, 4 bytes]
+  antigravity.notification.70689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.72689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.733ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.74293a0f5a-1e48-4990-bea8-e0cfa2a3b076 [str, 4 bytes]
+  antigravity.notification.74689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.76689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.783ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.78689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.80689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.82689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.833ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.84689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.86689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.88689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.90689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.92689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.9293a0f5a-1e48-4990-bea8-e0cfa2a3b076 [str, 4 bytes]
+  antigravity.notification.93ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.94689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.963ad7684f-e18b-48ef-92a1-d9cbec901030 [str, 4 bytes]
+  antigravity.notification.96689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.9689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.98689c0159-68b4-4388-8ad5-fafacb873321 [str, 4 bytes]
+  antigravity.notification.agent-finished-08294426-f727-4f9e-822c-6d3a0807090b-1788446605400 [str, 4 bytes]
+  antigravity.notification.agent-finished-08294426-f727-4f9e-822c-6d3a0807090b-1788447000400 [str, 4 bytes]
+  antigravity.notification.agent-finished-293a0f5a-1e48-4990-bea8-e0cfa2a3b076-1788420877956 [str, 4 bytes]
+  antigravity.notification.agent-finished-293a0f5a-1e48-4990-bea8-e0cfa2a3b076-1788421099956 [str, 4 bytes]
+  antigravity.notification.agent-finished-293a0f5a-1e48-4990-bea8-e0cfa2a3b076-1788421987957 [str, 4 bytes]
+  antigravity.notification.agent-finished-3ad7684f-e18b-48ef-92a1-d9cbec901030-1788436564358 [str, 4 bytes]
+  antigravity.notification.agent-finished-3ad7684f-e18b-48ef-92a1-d9cbec901030-1788436812358 [str, 4 bytes]
+  antigravity.notification.agent-finished-3ad7684f-e18b-48ef-92a1-d9cbec901030-1788437157357 [str, 4 bytes]
+  antigravity.notification.agent-finished-3ad7684f-e18b-48ef-92a1-d9cbec901030-1788437368359 [str, 4 bytes]
+  antigravity.notification.agent-finished-3ad7684f-e18b-48ef-92a1-d9cbec901030-1788437418358 [str, 4 bytes]
+  antigravity.notification.agent-finished-689c0159-68b4-4388-8ad5-fafacb873321-1788418676413 [str, 4 bytes]
+  antigravity.notification.agent-finished-689c0159-68b4-4388-8ad5-fafacb873321-1788419769558 [str, 4 bytes]
+  antigravity.notification.agent-finished-689c0159-68b4-4388-8ad5-fafacb873321-1788419809558 [str, 4 bytes]
+  antigravity.notification.agent-finished-689c0159-68b4-4388-8ad5-fafacb873321-1788420324557 [str, 4 bytes]
+  antigravity.notification.agent-finished-689c0159-68b4-4388-8ad5-fafacb873321-1788420565555 [str, 4 bytes]
+  antigravity.notification.agent-finished-e3af8518-2344-4d36-b1c4-583d64645d4c-1788430895466 [str, 4 bytes]
+  antigravity.notification.agent-finished-e3af8518-2344-4d36-b1c4-583d64645d4c-1788431058466 [str, 4 bytes]
+  antigravity.notification.agent-finished-e3af8518-2344-4d36-b1c4-583d64645d4c-1788431184466 [str, 4 bytes]
+  antigravity.notification.agent-finished-e3af8518-2344-4d36-b1c4-583d64645d4c-1788431388465 [str, 4 bytes]
+  antigravity.notification.didAskUserForPermission [str, 4 bytes]
+  antigravity.profileUrl [str, 96 bytes]
+  antigravityAnalytics.clearcutBuffer [str, 2 bytes]
+  antigravityAnalytics.lastUploadTime [str, 13 bytes]
+  antigravityChangelog/lastVersion [str, 5 bytes]
+  antigravityOnboarding [str, 4 bytes]
+  antigravityUnifiedStateSync.agentPreferences [str, 30404 bytes]
+  antigravityUnifiedStateSync.artifactReview [str, 0 bytes]
+  antigravityUnifiedStateSync.browserPreferences [str, 2380 bytes]
+  antigravityUnifiedStateSync.editorPreferences [str, 0 bytes]
+  antigravityUnifiedStateSync.enterprisePreferences [str, 0 bytes]
+  antigravityUnifiedStateSync.modelCredits [str, 108 bytes]
+  antigravityUnifiedStateSync.modelPreferences [str, 68 bytes]
+  antigravityUnifiedStateSync.oauthToken [str, 1068 bytes]
+  antigravityUnifiedStateSync.overrideStore [str, 56 bytes]
+  antigravityUnifiedStateSync.seenNuxIds [str, 32 bytes]
+  antigravityUnifiedStateSync.sidebarWorkspaces [str, 228 bytes]
+  antigravityUnifiedStateSync.tabPreferences [str, 0 bytes]
+  antigravityUnifiedStateSync.theme [str, 18516 bytes]
+  antigravityUnifiedStateSync.trajectorySummaries [str, 612 bytes]
+  antigravityUnifiedStateSync.userStatus [str, 21136 bytes]
+  antigravityUnifiedStateSync.windowPreferences [str, 0 bytes]
+  chat.ChatSessionStore.index [str, 26 bytes]
+  chat.participantNameRegistry [str, 1331 bytes]
+  chat.workspaceTransfer [str, 2 bytes]
+  editorGroupAntigravityWelcomeKeybindings [str, 194 bytes]
+  google.antigravity [str, 149 bytes]
+  history.recentlyOpenedPathsList [str, 93 bytes]
+  terminal.history.entries.commands [str, 523 bytes]
+  terminal.history.entries.dirs [str, 92 bytes]
+  terminal.history.timestamp.commands [str, 13 bytes]
+  terminal.history.timestamp.dirs [str, 13 bytes]
+  workbench.sideBar.size [str, 3 bytes]
+
+================================================================================
+2. trajectorySummaries
+================================================================================
+CHAVE ENCONTRADA.
+
+Prefixo da informação armazenada:
+CsgDCiQwODI5NDQyNi1mNzI3LTRmOWUtODIyYy02ZDNhMDgwNzA5MGISnwMKnANDaVZKWkdWdWRHbG1hV05odzZmRG8yOGdaR1VnVUhKdmFtVjBieUJsSUVOdmJuWmxjbk5oRUNFYUN3aVlrdWJVQmhDMDkrOUhJaVEzT0dKbU5ESXlOQzAyWXpneExUUmhNamt0T0dVek5pMDVNalprWWpRMk5qYzFOMk1vQVRvTENJZVA1dFFHRVBEVGxIVktHd29YWm1sc1pUb3ZMeTlrT2k5UWNtOXFaWFJ2Y3k5dU9HNGFBRklNQ0w2UjV0UUdFTWlma3NFRGVnQ0FBUVdLQVpFQkNoc0tGMlpwYkdVNkx5OHZaRG92VUhKdmFtVjBiM012YmpodUdnQVNDd2lIaitiVUJoRHcwNVIxR2lSak9EVTBObUZrWXkxaE1tWTJMVFF4Tm1VdE9XUXhaQzB6TWpNMU0yVmxOMlZpTkdVeUpEQTRNamsw
+
+Blocos decodificados:
+
+  Variante: raw
+  Tamanho: 459
+  SHA256: 6599f9f66062a9a532e1ad03b8ca47b8e8580352d454df60161d11d50eb0ab26
+  UUIDs: 1
+    08294426-f727-4f9e-822c-6d3a0807090b
+  Strings legíveis:
+    $08294426-f727-4f9e-822c-6d3a0807090b
+    CiVJZGVudGlmaWNhw6fDo28gZGUgUHJvamV0byBlIENvbnZlcnNhECEaCwiYkubUBhC09+9HIiQ3OGJmNDIyNC02YzgxLTRhMjktOGUzNi05MjZkYjQ2Njc1N2MoAToLCIeP5tQGEPDTlHVKGwoXZmlsZTovLy9kOi9Qcm9qZXRvcy9uOG4aAFIMCL6R5tQGEMifksEDegCAAQWKAZEBChsKF2ZpbGU6Ly8vZDovUHJvamV0b3MvbjhuGgASCwiHj+bUBhDw05R1GiRjODU0NmFkYy1hMmY2LTQxNmUtOWQxZC0zMjM1M2VlN2ViNGUyJDA4Mjk0NDI2LWY3MjctNGY5ZS04MjJjLTZkM2EwODA3MDkwYjoZZmlsZTovLy9kJTNBL1Byb2pldG9zL244brABBA==
+
+================================================================================
+3. UUIDs DO trajectorySummaries
+================================================================================
+  08294426-f727-4f9e-822c-6d3a0807090b
+
+TOTAL: 1
+
+================================================================================
+4. UUIDs DO sidebarWorkspaces
+================================================================================
+
+TOTAL: 0
+
+================================================================================
+5. BANCOS DE CONVERSAÇÃO
+================================================================================
+DBs analisados: 89
+Trajectories únicas: 81
+Cascades únicas: 80
+
+================================================================================
+6. COMPARAÇÃO STATE × DB
+================================================================================
+Trajectories nos DBs: 81
+Trajectories encontradas no state: 0
+Trajectories nos DBs mas AUSENTES do state: 81
+Trajectories no state mas SEM DB: 1
+
+--------------------------------------------------------------------------------
+TRAJECTORIES NOS DBs MAS AUSENTES DO STATE
+--------------------------------------------------------------------------------
+
+TRAJECTORY: 028bb05f-5fdd-4d45-ab55-2666a1d952fa
+  [CURRENT] 028bb05f-5fdd-4d45-ab55-2666a1d952fa.db
+      cascade=028bb05f-5fdd-4d45-ab55-2666a1d952fa
+      steps=0
+      size=57344
+      sha256=e2b10cd2473dc7a68b4b8d0519543373e704e398ddf7359b288a6f32b3730fce
+
+TRAJECTORY: 049b8365-c9cc-42ca-a229-a7922a08e9d0
+  [CURRENT] 049b8365-c9cc-42ca-a229-a7922a08e9d0.db
+      cascade=049b8365-c9cc-42ca-a229-a7922a08e9d0
+      steps=184
+      size=192512
+      sha256=6f6144be949e8525d7289b3ebe5406f4b6a12e3393f0c2b5c5b11223fb0a2dad
+
+TRAJECTORY: 08c49e68-7526-431a-b0c0-0050f4ecf647
+  [CURRENT] 08c49e68-7526-431a-b0c0-0050f4ecf647.db
+      cascade=08c49e68-7526-431a-b0c0-0050f4ecf647
+      steps=56
+      size=86016
+      sha256=583eb64ed4b3897bd7f438275bb1d669d94ee4cd86bef46ce68623473911338d
+
+TRAJECTORY: 09893f72-895d-47b8-98e1-bd173b5a5769
+  [CURRENT] 09893f72-895d-47b8-98e1-bd173b5a5769.db
+      cascade=09893f72-895d-47b8-98e1-bd173b5a5769
+      steps=607
+      size=176128
+      sha256=1fc2ee16648243722d5ceb196f51e007144b189c8762b8bf3f9d271339e77e08
+
+TRAJECTORY: 0dfb94c5-dad4-4d5f-b5d3-514abb612031
+  [CURRENT] 0dfb94c5-dad4-4d5f-b5d3-514abb612031.db
+      cascade=0dfb94c5-dad4-4d5f-b5d3-514abb612031
+      steps=0
+      size=57344
+      sha256=551a4235f44ad1c6b7eb3c43bda9390ead0d1b52db09ff041fd25537ccd536ad
+
+TRAJECTORY: 0ef5c7fb-7856-4dfc-8f6e-db56cdfb5435
+  [CURRENT] 0ef5c7fb-7856-4dfc-8f6e-db56cdfb5435.db
+      cascade=0ef5c7fb-7856-4dfc-8f6e-db56cdfb5435
+      steps=0
+      size=57344
+      sha256=25c413f974ddbec33528161bfb9193a69fd1e3cd906443c1b1c2c535abc9a08e
+
+TRAJECTORY: 0f0caddc-c706-4ed5-a596-46ecdd749512
+  [CURRENT] 0f0caddc-c706-4ed5-a596-46ecdd749512.db
+      cascade=0f0caddc-c706-4ed5-a596-46ecdd749512
+      steps=0
+      size=49152
+      sha256=94843f4dc9c6463aebd8806e35f2168594d1a1c89adb8881b0bcd9f550cf3c9f
+
+TRAJECTORY: 11714e14-f5b9-485d-a0b5-071b79f363ea
+  [CURRENT] 11714e14-f5b9-485d-a0b5-071b79f363ea.db
+      cascade=11714e14-f5b9-485d-a0b5-071b79f363ea
+      steps=1540
+      size=372736
+      sha256=ed0f43382e27f3cee1d3a5e7a990c21e0dfd09967c91d8dd696a774522f3277a
+
+TRAJECTORY: 12e93b22-6b36-4217-a6ba-cd68f4d463a7
+  [CURRENT] 12e93b22-6b36-4217-a6ba-cd68f4d463a7.db
+      cascade=12e93b22-6b36-4217-a6ba-cd68f4d463a7
+      steps=0
+      size=57344
+      sha256=ed404d142dd336d403c2cce56a803b34b30a69be188d8c612ca064aa0b9f7446
+
+TRAJECTORY: 17646095-68d6-4cf4-8290-ca9232bd17cf
+  [CURRENT] 17646095-68d6-4cf4-8290-ca9232bd17cf.db
+      cascade=17646095-68d6-4cf4-8290-ca9232bd17cf
+      steps=1091
+      size=479232
+      sha256=43fa44492d2bde9da498381760f9e2fc8d5b0473973c39fc2ba8530477ba8659
+
+TRAJECTORY: 178d3fb3-9629-467e-af06-eb92b777a617
+  [CURRENT] 178d3fb3-9629-467e-af06-eb92b777a617.db
+      cascade=178d3fb3-9629-467e-af06-eb92b777a617
+      steps=0
+      size=57344
+      sha256=9f0f3b0e97e51bc4ba04b24b1c3b020e4f6f5ee5bf14bedcb294734e4e9381a1
+
+TRAJECTORY: 18fbb440-350b-4c55-a55a-9aa524fe9da4
+  [BACKUP] b9a2da1f-43b2-49db-a983-6b93d78b755c.db
+      cascade=b9a2da1f-43b2-49db-a983-6b93d78b755c
+      steps=0
+      size=196608
+      sha256=1940bffc2a0e23da1b5f88ea1be41b9cdf4601bce2a3d661a66c2350cdb470f6
+
+TRAJECTORY: 1d23474b-5495-4cf3-a66c-932857094cbd
+  [CURRENT] 1d23474b-5495-4cf3-a66c-932857094cbd.db
+      cascade=1d23474b-5495-4cf3-a66c-932857094cbd
+      steps=0
+      size=57344
+      sha256=5067d7fcbd99865abf9e99815ea14e7774038699414092709b3de1fcc7be477d
+
+TRAJECTORY: 1dff3c14-5aa5-4024-ae7a-84552507812b
+  [CURRENT] 1dff3c14-5aa5-4024-ae7a-84552507812b.db
+      cascade=1dff3c14-5aa5-4024-ae7a-84552507812b
+      steps=464
+      size=135168
+      sha256=8bb5939aa1f4d843f4d924120c591022044c1129e56d7a644df5f5e950e77553
+
+TRAJECTORY: 20e3fc0d-5eaf-4b1b-a99f-f24ba79ff87a
+  [CURRENT] 20e3fc0d-5eaf-4b1b-a99f-f24ba79ff87a.db
+      cascade=20e3fc0d-5eaf-4b1b-a99f-f24ba79ff87a
+      steps=0
+      size=57344
+      sha256=33b9db339e35380a892c680838df2663a069f4e8c0229a82f756a568752796b7
+
+TRAJECTORY: 27506737-900f-4796-a1f1-6c97a8237595
+  [CURRENT] 27506737-900f-4796-a1f1-6c97a8237595.db
+      cascade=27506737-900f-4796-a1f1-6c97a8237595
+      steps=2
+      size=57344
+      sha256=5d9857ba607a22be8ee93f63352b52dfd86a6b17c531d23dd5f8e4fbb10e56eb
+
+TRAJECTORY: 2a2e3ca7-82e4-4b96-a616-601fe58357d9
+  [CURRENT] 2a2e3ca7-82e4-4b96-a616-601fe58357d9.db
+      cascade=2a2e3ca7-82e4-4b96-a616-601fe58357d9
+      steps=0
+      size=49152
+      sha256=ace7385b31735a7d8bdd33c621d2bc47062e2952f95f75a8b8b01b4775765a68
+
+TRAJECTORY: 2d4f4c42-57c2-428f-a588-6b29019bdbf2
+  [CURRENT] 2d4f4c42-57c2-428f-a588-6b29019bdbf2.db
+      cascade=2d4f4c42-57c2-428f-a588-6b29019bdbf2
+      steps=142
+      size=110592
+      sha256=eb7f9eb71dc261e7a570d5478210b4137f865c626d162394871bcc50844c9a29
+
+TRAJECTORY: 2e10dc40-a61b-4742-980f-2b1af8cfaee2
+  [CURRENT] e3af8518-2344-4d36-b1c4-583d64645d4c.db
+      cascade=e3af8518-2344-4d36-b1c4-583d64645d4c
+      steps=34
+      size=786432
+      sha256=7fea4e7319d2834510f632a3218784e5749d1b6f82648cc46b63822f3a5da5d7
+  [MIGRADAS] e3af8518-2344-4d36-b1c4-583d64645d4c.db
+      cascade=e3af8518-2344-4d36-b1c4-583d64645d4c
+      steps=34
+      size=786432
+      sha256=4aaaf8b920b7580644a8e50a897a2f327223f3d44cf3d6a4893ac6b43947b14d
+
+TRAJECTORY: 3577ee12-97d6-4b12-90aa-c2f402efff4a
+  [CURRENT] 3577ee12-97d6-4b12-90aa-c2f402efff4a.db
+      cascade=3577ee12-97d6-4b12-90aa-c2f402efff4a
+      steps=0
+      size=57344
+      sha256=7b484369041c916e08c6f39a2ef21f16fd2b60421392b8ba685c0af98b739355
+
+TRAJECTORY: 38d8df64-263c-408f-9ed2-4b596cd8b17a
+  [CURRENT] 38d8df64-263c-408f-9ed2-4b596cd8b17a.db
+      cascade=38d8df64-263c-408f-9ed2-4b596cd8b17a
+      steps=0
+      size=57344
+      sha256=c48a9944231c86e4914d44c151be69874de19defec834831886889b1c7e4e4f1
+
+TRAJECTORY: 394adb27-76ce-4e0a-856f-9731ccebfaa9
+  [CURRENT] 394adb27-76ce-4e0a-856f-9731ccebfaa9.db
+      cascade=394adb27-76ce-4e0a-856f-9731ccebfaa9
+      steps=196
+      size=94208
+      sha256=3164e6cef125275dd3e30b1b2794db05fdab83b134921668a46396c494aa881f
+
+TRAJECTORY: 3e46c188-4dfe-42ac-9fb1-581f67d3d11c
+  [CURRENT] 3e46c188-4dfe-42ac-9fb1-581f67d3d11c.db
+      cascade=3e46c188-4dfe-42ac-9fb1-581f67d3d11c
+      steps=0
+      size=57344
+      sha256=4869fc98f3a416ec950613061acb89b4062450a99a681eb1a03cc126310dd5cb
+
+TRAJECTORY: 4101889e-ac77-4410-91f4-aaaca54f639d
+  [CURRENT] 4101889e-ac77-4410-91f4-aaaca54f639d.db
+      cascade=4101889e-ac77-4410-91f4-aaaca54f639d
+      steps=144
+      size=135168
+      sha256=57401632dee58b91f6ff33c3de774c71fe9215e031e8cef292e491ee61449ac7
+
+TRAJECTORY: 44113961-752f-4c18-b987-bbc330c37343
+  [CURRENT] 44113961-752f-4c18-b987-bbc330c37343.db
+      cascade=44113961-752f-4c18-b987-bbc330c37343
+      steps=1189
+      size=126976
+      sha256=78dbf07a31c515d6cf3bd0af56f07f10b0889d89614e1f0773422aae42b09d0d
+
+TRAJECTORY: 46e272c1-40b6-49a2-b44f-94e10dfebf17
+  [CURRENT] 46e272c1-40b6-49a2-b44f-94e10dfebf17.db
+      cascade=46e272c1-40b6-49a2-b44f-94e10dfebf17
+      steps=455
+      size=217088
+      sha256=ecc3b62a5e53d86485264b6c7550169677c0abfe165e8e2a10675e2ec03e9f75
+
+TRAJECTORY: 52eeb9ec-7991-4171-83e3-aec946fa93bd
+  [CURRENT] 52eeb9ec-7991-4171-83e3-aec946fa93bd.db
+      cascade=52eeb9ec-7991-4171-83e3-aec946fa93bd
+      steps=0
+      size=57344
+      sha256=edec321a22d4f787cae71249aa11c243d881865cbe0a7664a8a92eff1826462e
+
+TRAJECTORY: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+  [MIGRADAS] 1635d2ad-43f1-4300-88d2-4d34122b7cfc.db
+      cascade=1635d2ad-43f1-4300-88d2-4d34122b7cfc
+      steps=522
+      size=6086656
+      sha256=e9b7376408006f6b2f6b78c34e54ef2dd169436819c4c61a160cad199c888f42
+
+TRAJECTORY: 66ad5a3d-1543-4fac-b8e1-32d99160caf8
+  [CURRENT] 66ad5a3d-1543-4fac-b8e1-32d99160caf8.db
+      cascade=66ad5a3d-1543-4fac-b8e1-32d99160caf8
+      steps=19
+      size=57344
+      sha256=8217b614af8777eb4483e5df96d7b5e578b7033425426976cb035543d5b9473c
+
+TRAJECTORY: 6c27f2bf-2aac-478e-82ea-30b63e00aeeb
+  [CURRENT] 6c27f2bf-2aac-478e-82ea-30b63e00aeeb.db
+      cascade=6c27f2bf-2aac-478e-82ea-30b63e00aeeb
+      steps=0
+      size=57344
+      sha256=5edac364e26e673593ac0f894bbf57aebf8f772430df957f1d42c521f01b8210
+
+TRAJECTORY: 7279a8f3-a49f-45a9-8914-52cbf2f7f0bd
+  [CURRENT] 689c0159-68b4-4388-8ad5-fafacb873321.db
+      cascade=689c0159-68b4-4388-8ad5-fafacb873321
+      steps=128
+      size=1175552
+      sha256=107b97c9add86510aea1ef103b59a7419d776ba82137662900075dba0fe1fcea
+  [MIGRADAS] 689c0159-68b4-4388-8ad5-fafacb873321.db
+      cascade=689c0159-68b4-4388-8ad5-fafacb873321
+      steps=128
+      size=1175552
+      sha256=dd5916280a40aee00599dcf7f10dbff5c55968ce568b4d2c440f52a0b5dc6a44
+
+TRAJECTORY: 75209559-1dee-4a32-8031-d80097b97bf6
+  [CURRENT] 75209559-1dee-4a32-8031-d80097b97bf6.db
+      cascade=75209559-1dee-4a32-8031-d80097b97bf6
+      steps=46
+      size=69632
+      sha256=074da3abe7ba9c004ef8ca07a34a9ca0c734e2105358b0fc350514811789cc6f
+
+TRAJECTORY: 78416862-e2a3-484d-96ce-aeb7709eb6d0
+  [CURRENT] 33cc6c37-7243-4173-ad70-20bcf473dcf1.db
+      cascade=33cc6c37-7243-4173-ad70-20bcf473dcf1
+      steps=2
+      size=294912
+      sha256=5254ea3fa6aabc8d8cd5907ba7d90c8cc9da010868f4ee9a68f88869a7387ca9
+  [MIGRADAS] 33cc6c37-7243-4173-ad70-20bcf473dcf1.db
+      cascade=33cc6c37-7243-4173-ad70-20bcf473dcf1
+      steps=2
+      size=294912
+      sha256=1f645af65a1861ff4f2bb513b61868d758334ed4363f5bbf0dcf4b90470fbab7
+
+TRAJECTORY: 7a39ff7f-11b9-44de-960d-3de171d93313
+  [CURRENT] 7a39ff7f-11b9-44de-960d-3de171d93313.db
+      cascade=7a39ff7f-11b9-44de-960d-3de171d93313
+      steps=0
+      size=57344
+      sha256=3b47d144b98b3c91f4a3b140c60e6453698dfdb67952df833a8de02872f51cc9
+
+TRAJECTORY: 7c80c4a7-bc0a-4a3a-933d-1891dded16d8
+  [CURRENT] 7c80c4a7-bc0a-4a3a-933d-1891dded16d8.db
+      cascade=7c80c4a7-bc0a-4a3a-933d-1891dded16d8
+      steps=0
+      size=57344
+      sha256=241e4a9f75ccb17e34c1b4ecbca826868b4d7041a7a002d871332ce19e6fef74
+
+TRAJECTORY: 7f2ca77a-e1d3-4059-a130-fd1440c50f7a
+  [CURRENT] 293a0f5a-1e48-4990-bea8-e0cfa2a3b076.db
+      cascade=293a0f5a-1e48-4990-bea8-e0cfa2a3b076
+      steps=75
+      size=1064960
+      sha256=8aba617810fb435742ed0abe4a8cb47899287181cc1412c22d1d8311c5716d21
+  [MIGRADAS] 293a0f5a-1e48-4990-bea8-e0cfa2a3b076.db
+      cascade=293a0f5a-1e48-4990-bea8-e0cfa2a3b076
+      steps=75
+      size=1064960
+      sha256=d3835461a31b463c1d9e7f894997b4939ac3a91ca2900766b0b4874c556ca2cc
+
+TRAJECTORY: 8421071a-355e-486a-ad36-74e81aff8104
+  [CURRENT] 8421071a-355e-486a-ad36-74e81aff8104.db
+      cascade=8421071a-355e-486a-ad36-74e81aff8104
+      steps=483
+      size=196608
+      sha256=122bef6692016077f9f03e87cd0a0a21b65749bf972f8e14207fe13a9faafd6c
+
+TRAJECTORY: 8eee2561-bb4f-4794-936e-49e1d246a298
+  [CURRENT] 8eee2561-bb4f-4794-936e-49e1d246a298.db
+      cascade=8eee2561-bb4f-4794-936e-49e1d246a298
+      steps=116
+      size=61440
+      sha256=a3d44203cc5f8991c7b9b497b68896d348730870c0f495a13f12aa941892a7fd
+
+TRAJECTORY: 8f9fdd77-caf6-486e-8b3b-281d0bddb00c
+  [CURRENT] 8f9fdd77-caf6-486e-8b3b-281d0bddb00c.db
+      cascade=8f9fdd77-caf6-486e-8b3b-281d0bddb00c
+      steps=16
+      size=57344
+      sha256=0291287ca4adb563b0d8e971ba08cf860dd21e47c97c3c9d0bc8afcf264505d5
+
+TRAJECTORY: 911306bc-5d91-4452-8665-cc78dd598dae
+  [CURRENT] 911306bc-5d91-4452-8665-cc78dd598dae.db
+      cascade=911306bc-5d91-4452-8665-cc78dd598dae
+      steps=340
+      size=266240
+      sha256=a8e0977c2c5524a8b8a2bd3ec897aada9f5e08b42fbc474c9f15a2ac9c18be93
+
+TRAJECTORY: 95c60e1c-c32b-4cbe-8015-e0525b26cea6
+  [CURRENT] 95c60e1c-c32b-4cbe-8015-e0525b26cea6.db
+      cascade=95c60e1c-c32b-4cbe-8015-e0525b26cea6
+      steps=778
+      size=675840
+      sha256=3fcaf3cf9db056c326397d21dea38304efee609d9915f775637ad9a4a9b2f4a4
+
+TRAJECTORY: 9a49858f-ce5f-4345-9f2b-40e41850e987
+  [CURRENT] 9a49858f-ce5f-4345-9f2b-40e41850e987.db
+      cascade=9a49858f-ce5f-4345-9f2b-40e41850e987
+      steps=0
+      size=57344
+      sha256=7df47c4fab992df1994a21dc3c6b3311179a68a7aa3c78d3b1677b48e2a94c37
+
+TRAJECTORY: 9ab11487-0a5c-40ec-849e-d6a49f7594af
+  [CURRENT] 9ab11487-0a5c-40ec-849e-d6a49f7594af.db
+      cascade=9ab11487-0a5c-40ec-849e-d6a49f7594af
+      steps=112
+      size=102400
+      sha256=16d1c5273095d32ef73359c18ed9fedb0ec27ce82d824c22db7ba0a85fff267c
+
+TRAJECTORY: 9cd7f3e7-1ef6-40c4-9967-a387059dde1a
+  [CURRENT] 9cd7f3e7-1ef6-40c4-9967-a387059dde1a.db
+      cascade=9cd7f3e7-1ef6-40c4-9967-a387059dde1a
+      steps=116
+      size=102400
+      sha256=5a2d6c510835f02466a375296163db6cc74feb3269cece421bfcc1d981178390
+
+TRAJECTORY: 9eba16f3-be86-44e4-aed0-d2b08dafe1d6
+  [CURRENT] 9eba16f3-be86-44e4-aed0-d2b08dafe1d6.db
+      cascade=9eba16f3-be86-44e4-aed0-d2b08dafe1d6
+      steps=0
+      size=57344
+      sha256=d5b5510cbe0f58b807559a0ecfcb10f60f98cee4f7ef260b811cfd6fbfbef362
+
+TRAJECTORY: a2b4fead-a3d2-47ae-bb60-03e685371f62
+  [CURRENT] a2b4fead-a3d2-47ae-bb60-03e685371f62.db
+      cascade=a2b4fead-a3d2-47ae-bb60-03e685371f62
+      steps=149
+      size=110592
+      sha256=9d10acfd53a9e583fe8fdffcecde8f948c37f960217569cb0e74ec7a60048adf
+
+TRAJECTORY: a5afce61-7753-4822-a844-71e17ad2c8af
+  [CURRENT] a5afce61-7753-4822-a844-71e17ad2c8af.db
+      cascade=a5afce61-7753-4822-a844-71e17ad2c8af
+      steps=0
+      size=57344
+      sha256=fe94efea685d703689e73c6b43d047ea9ee79eeccb378ccc0cc9eab2dd671073
+
+TRAJECTORY: aab1ca54-3c8d-484d-a0c5-1d3354b51f9d
+  [CURRENT] aab1ca54-3c8d-484d-a0c5-1d3354b51f9d.db
+      cascade=aab1ca54-3c8d-484d-a0c5-1d3354b51f9d
+      steps=817
+      size=376832
+      sha256=429307d69baa2f9220d3d049e67e18c6df615a44dceeb7e6c2934b1a4d51231f
+
+TRAJECTORY: ae88c814-5973-45da-980e-a966ff9c0061
+  [CURRENT] ae88c814-5973-45da-980e-a966ff9c0061.db
+      cascade=ae88c814-5973-45da-980e-a966ff9c0061
+      steps=226
+      size=176128
+      sha256=6b1a081cdfe70d5a0774fcfb4b4f0f03e8ef4eee068533f4b79b5ad5dbbff9c3
+
+TRAJECTORY: b36720da-2a28-4cf3-a625-232c3e23c150
+  [CURRENT] b36720da-2a28-4cf3-a625-232c3e23c150.db
+      cascade=b36720da-2a28-4cf3-a625-232c3e23c150
+      steps=109
+      size=69632
+      sha256=3fdf4db67d0a0c6d46929964ce904614bafc628d4d3898a2826827dfd9a8b921
+
+TRAJECTORY: b6ada397-8c60-4234-857f-b3faec45ba38
+  [CURRENT] b6ada397-8c60-4234-857f-b3faec45ba38.db
+      cascade=b6ada397-8c60-4234-857f-b3faec45ba38
+      steps=0
+      size=57344
+      sha256=114b6be279b1db9c01b5479f3b485dfbe044befff98fb8de71d7ccc119ea1dc9
+
+TRAJECTORY: ba8e22fb-b3dc-4aaf-9c5f-528ee3df7ecc
+  [CURRENT] ba8e22fb-b3dc-4aaf-9c5f-528ee3df7ecc.db
+      cascade=ba8e22fb-b3dc-4aaf-9c5f-528ee3df7ecc
+      steps=546
+      size=323584
+      sha256=9d3351f8c73ffe705a418d86a98331ac056b5a04c57528fa599105158ae4317a
+
+TRAJECTORY: bcf392b0-9e68-486f-8d90-f729ad9e55d1
+  [CURRENT] bcf392b0-9e68-486f-8d90-f729ad9e55d1.db
+      cascade=bcf392b0-9e68-486f-8d90-f729ad9e55d1
+      steps=456
+      size=167936
+      sha256=49926f6b0382d87d951037271f8282776cd712b0de75dd631e3edc48fe88fc08
+
+TRAJECTORY: c125fdc1-519f-4bab-a2cf-46f6837deb27
+  [CURRENT] c125fdc1-519f-4bab-a2cf-46f6837deb27.db
+      cascade=c125fdc1-519f-4bab-a2cf-46f6837deb27
+      steps=0
+      size=57344
+      sha256=2cbc9a90c52479156ed1ede5c37245045139987ced2a40fc9448df6bcf74e279
+
+TRAJECTORY: c697a44d-a88d-47d2-80ea-7326d1dcdff3
+  [CURRENT] 2992f223-6aed-48b3-8b83-ff6e535a1dce.db
+      cascade=2992f223-6aed-48b3-8b83-ff6e535a1dce
+      steps=40
+      size=5791744
+      sha256=eb4cecc9af70b451d10c5627771084e0e5efb5300b74790604761a63413040ec
+  [MIGRADAS] 2992f223-6aed-48b3-8b83-ff6e535a1dce.db
+      cascade=2992f223-6aed-48b3-8b83-ff6e535a1dce
+      steps=40
+      size=5791744
+      sha256=0690778b5d09cde2bd19e40be3629ad60c1623012821b74651ad656f933f0871
+  [BACKUP] 2992f223-6aed-48b3-8b83-ff6e535a1dce.db
+      cascade=2992f223-6aed-48b3-8b83-ff6e535a1dce
+      steps=40
+      size=5791744
+      sha256=742fa594e0357564f2598cb62d7ca6f365eead9775ed91b7616929d05c803ee5
+
+TRAJECTORY: c8203d6f-b7ed-4f3a-bad3-2a435d4c36a0
+  [CURRENT] c8203d6f-b7ed-4f3a-bad3-2a435d4c36a0.db
+      cascade=c8203d6f-b7ed-4f3a-bad3-2a435d4c36a0
+      steps=0
+      size=57344
+      sha256=d1fc52e8657626466c9f6c10d63439a3f89813711bdb58156ccf3fb2d3679787
+
+TRAJECTORY: c97edbd6-4d0d-4353-b7ba-9266cc49c879
+  [CURRENT] c97edbd6-4d0d-4353-b7ba-9266cc49c879.db
+      cascade=c97edbd6-4d0d-4353-b7ba-9266cc49c879
+      steps=1116
+      size=307200
+      sha256=5cc08c7ad6b3dbda7a29ea876b0747588dbf6c7e261793a937e9c5faaa47872c
+
+TRAJECTORY: c9fa6fa4-c7c9-4b42-9f81-07de5ebbafae
+  [CURRENT] 0dfd08dc-a251-4160-921d-7098d860f818.db
+      cascade=0dfd08dc-a251-4160-921d-7098d860f818
+      steps=474
+      size=6397952
+      sha256=ed01df3def84e84cb9ae18ff286f5e22c4f45a249bc44b970bc20874e15066f3
+  [MIGRADAS] 0dfd08dc-a251-4160-921d-7098d860f818.db
+      cascade=0dfd08dc-a251-4160-921d-7098d860f818
+      steps=474
+      size=6397952
+      sha256=231b169cec0320fea78b680d7cd762475cd55a9f7c56b849896ceb3edae2ea12
+  [BACKUP] 0dfd08dc-a251-4160-921d-7098d860f818.db
+      cascade=0dfd08dc-a251-4160-921d-7098d860f818
+      steps=474
+      size=6397952
+      sha256=06daee8bd56eb22df3fa29650b264eab00d88d5f60b80df6b20e80461587a0b5
+
+TRAJECTORY: cb3834a9-7acd-44a9-95eb-cdcb799fa8dc
+  [CURRENT] cb3834a9-7acd-44a9-95eb-cdcb799fa8dc.db
+      cascade=cb3834a9-7acd-44a9-95eb-cdcb799fa8dc
+      steps=61
+      size=77824
+      sha256=7de3510c870520d72ec03a90a1bfc95e54b8cbb727635d85466ab598f6fed34c
+
+TRAJECTORY: ce3b2cfe-5e90-482c-880b-a17b9af5b89f
+  [CURRENT] ce3b2cfe-5e90-482c-880b-a17b9af5b89f.db
+      cascade=ce3b2cfe-5e90-482c-880b-a17b9af5b89f
+      steps=0
+      size=57344
+      sha256=eddbd573166855584a9e12ed3537a40e5d0c64c8594bfcb418e36f33b0999178
+
+TRAJECTORY: d680c2d4-3130-4fa5-a204-0baac37a0826
+  [CURRENT] 1635d2ad-43f1-4300-88d2-4d34122b7cfc.db
+      cascade=1635d2ad-43f1-4300-88d2-4d34122b7cfc
+      steps=782
+      size=8720384
+      sha256=63f2143f898d5ed411222f5de6306863982275cada960fd5e9325d6706fa3c9c
+
+TRAJECTORY: db04872d-1616-4b9c-b045-805006a768b1
+  [CURRENT] db04872d-1616-4b9c-b045-805006a768b1.db
+      cascade=db04872d-1616-4b9c-b045-805006a768b1
+      steps=519
+      size=233472
+      sha256=327fed18f5c4b1e5be8193a4b66acb25bd4f9a3a186add2c64b8893b975b214e
+
+TRAJECTORY: db4bb1ed-8e13-4895-a92d-cae0b39180c2
+  [CURRENT] db4bb1ed-8e13-4895-a92d-cae0b39180c2.db
+      cascade=db4bb1ed-8e13-4895-a92d-cae0b39180c2
+      steps=0
+      size=57344
+      sha256=afc97b3f5a23312c0d72e2b00fe86e6be85ad67f14fc3273540d5552956859dc
+
+TRAJECTORY: dc5d624c-b3f3-4ac7-ab3c-3c98152a45c6
+  [CURRENT] dc5d624c-b3f3-4ac7-ab3c-3c98152a45c6.db
+      cascade=dc5d624c-b3f3-4ac7-ab3c-3c98152a45c6
+      steps=0
+      size=57344
+      sha256=84c0289c60e5a48481690d94ffd2245a0f6cfbf10f423a22e7b1f6fd05ee9674
+
+TRAJECTORY: dcc1ef42-2801-4c06-924b-03e57600601a
+  [CURRENT] dcc1ef42-2801-4c06-924b-03e57600601a.db
+      cascade=dcc1ef42-2801-4c06-924b-03e57600601a
+      steps=60
+      size=77824
+      sha256=41d2080ff6c3af82f85602e977e0373d05b87d72e5cf84ead068f987e465cd4a
+
+TRAJECTORY: ddb820be-120e-4f6d-8666-a72ad9077981
+  [CURRENT] ddb820be-120e-4f6d-8666-a72ad9077981.db
+      cascade=ddb820be-120e-4f6d-8666-a72ad9077981
+      steps=0
+      size=57344
+      sha256=4e3044ac8931da5f62522e6ded1a1e37014af81f2a2b2d24bd7bad7495c9223f
+
+TRAJECTORY: e14b8548-ca4a-41a1-9efc-bd7ea6e2f436
+  [CURRENT] e14b8548-ca4a-41a1-9efc-bd7ea6e2f436.db
+      cascade=e14b8548-ca4a-41a1-9efc-bd7ea6e2f436
+      steps=208
+      size=118784
+      sha256=b35e1a2983f934f39a8b11e06739885eaf24aab5cae0ac7be2fba49559cb062e
+
+TRAJECTORY: e78faea2-ce98-4ac0-aab8-0fa314c27acd
+  [CURRENT] e78faea2-ce98-4ac0-aab8-0fa314c27acd.db
+      cascade=e78faea2-ce98-4ac0-aab8-0fa314c27acd
+      steps=106
+      size=102400
+      sha256=563b95c54c454d59b1642a7e8366a2532f83fe37f96d757bab6a50af747dd216
+
+TRAJECTORY: e892189f-e664-4ba7-a7a2-3f13a5e0b723
+  [CURRENT] e892189f-e664-4ba7-a7a2-3f13a5e0b723.db
+      cascade=e892189f-e664-4ba7-a7a2-3f13a5e0b723
+      steps=242
+      size=69632
+      sha256=b9e3a3f6b733381b6f7c9d77a754099c927d1309c318fff786059e7c28371941
+
+TRAJECTORY: ea8cfb53-2578-4582-8799-6f95a63216a2
+  [CURRENT] ea8cfb53-2578-4582-8799-6f95a63216a2.db
+      cascade=ea8cfb53-2578-4582-8799-6f95a63216a2
+      steps=0
+      size=57344
+      sha256=41d102191d1c540461e7ae5adf2db5b635a94908156c5458db6ba16d76396534
+
+TRAJECTORY: ebadd804-1572-4a8c-9ef2-714b2ae0d68d
+  [CURRENT] ebadd804-1572-4a8c-9ef2-714b2ae0d68d.db
+      cascade=ebadd804-1572-4a8c-9ef2-714b2ae0d68d
+      steps=0
+      size=57344
+      sha256=984e56be4e10c44b3a8d8aadb98d99852bbfd885150356765873ae07efaead53
+
+TRAJECTORY: ebe340cd-cc27-41f9-8559-fbef88b255c3
+  [CURRENT] ebe340cd-cc27-41f9-8559-fbef88b255c3.db
+      cascade=ebe340cd-cc27-41f9-8559-fbef88b255c3
+      steps=0
+      size=57344
+      sha256=43e3a67853776d4083180119296027e7520eaae6c9d44a3f69c47c7432ca427f
+
+TRAJECTORY: efd2084c-d89b-4099-85f7-d98b4a941d37
+  [CURRENT] efd2084c-d89b-4099-85f7-d98b4a941d37.db
+      cascade=efd2084c-d89b-4099-85f7-d98b4a941d37
+      steps=0
+      size=57344
+      sha256=a1dbc0bc6fcfcce7c8e555f4ab711fa3c41449f94e90050c69b7d1e111395b73
+
+TRAJECTORY: f07d81c0-a6f6-4fdc-ab18-fe9827df09a7
+  [CURRENT] f07d81c0-a6f6-4fdc-ab18-fe9827df09a7.db
+      cascade=f07d81c0-a6f6-4fdc-ab18-fe9827df09a7
+      steps=1442
+      size=249856
+      sha256=ad6565ee0f4a105083651141c3a5b4398be5a496982b67d038d4025f8a38fee0
+
+TRAJECTORY: f2a16c04-f7a2-40b5-acb4-12b517bd470b
+  [CURRENT] 7f1ac345-6c2e-4bea-99df-40c56fbc7f47.db
+      cascade=7f1ac345-6c2e-4bea-99df-40c56fbc7f47
+      steps=623
+      size=5263360
+      sha256=bc81ffc424486bc468e4e53cfe4f50f4c18c172f2738491f05e65dfd30709e41
+
+TRAJECTORY: f2f5fa1a-3d5f-4410-9473-6dffd0853d5a
+  [CURRENT] f2f5fa1a-3d5f-4410-9473-6dffd0853d5a.db
+      cascade=f2f5fa1a-3d5f-4410-9473-6dffd0853d5a
+      steps=470
+      size=233472
+      sha256=aa766da2aab94815a845bc6164c04fc229367f772ff11e31e54aebec7f6bf00d
+
+TRAJECTORY: f420524e-5296-4d94-9e50-a16c145ab0a5
+  [CURRENT] f420524e-5296-4d94-9e50-a16c145ab0a5.db
+      cascade=f420524e-5296-4d94-9e50-a16c145ab0a5
+      steps=397
+      size=217088
+      sha256=c06d68fb2e93c9774d58c05278e2c2197b2160d2b9a0bef746f69d05655ad0cc
+
+TRAJECTORY: f7ebf566-fe91-4f0c-9d1e-3d25c3a75efa
+  [CURRENT] f7ebf566-fe91-4f0c-9d1e-3d25c3a75efa.db
+      cascade=f7ebf566-fe91-4f0c-9d1e-3d25c3a75efa
+      steps=376
+      size=167936
+      sha256=73f623f1e27f1904e23712f3dbb82a2fcc42c47343e5445c13efe75daf988001
+
+TRAJECTORY: f8c0c8ae-c29a-4544-876f-ba39a2f8c6ca
+  [CURRENT] f8c0c8ae-c29a-4544-876f-ba39a2f8c6ca.db
+      cascade=f8c0c8ae-c29a-4544-876f-ba39a2f8c6ca
+      steps=1037
+      size=651264
+      sha256=0fe8f38888db8cb357eb397176b091371f6fba4a3029cae4bc50b34f30089ab5
+
+TRAJECTORY: fa090ae4-be73-4c36-ba42-512a729847eb
+  [CURRENT] fa090ae4-be73-4c36-ba42-512a729847eb.db
+      cascade=fa090ae4-be73-4c36-ba42-512a729847eb
+      steps=169
+      size=135168
+      sha256=9213882daaf06cda2abb02e9651508da20afb7c0093c7722d7623d3e5521a717
+
+TRAJECTORY: fd457f42-c2e1-481f-af7d-69a3164102eb
+  [CURRENT] fd457f42-c2e1-481f-af7d-69a3164102eb.db
+      cascade=fd457f42-c2e1-481f-af7d-69a3164102eb
+      steps=918
+      size=233472
+      sha256=8e18021529ce6652760ab29b1303324389faaf02cd081c8193e5083b9d1127b7
+
+--------------------------------------------------------------------------------
+TRAJECTORIES NO STATE MAS SEM DB
+--------------------------------------------------------------------------------
+  08294426-f727-4f9e-822c-6d3a0807090b
+
+================================================================================
+7. TRAJECTORIES REPETIDAS ENTRE CAMADAS
+================================================================================
+
+TRAJECTORY: 2e10dc40-a61b-4742-980f-2b1af8cfaee2
+Fontes: CURRENT, MIGRADAS
+  [CURRENT] e3af8518-2344-4d36-b1c4-583d64645d4c.db steps=34 size=786432
+  [MIGRADAS] e3af8518-2344-4d36-b1c4-583d64645d4c.db steps=34 size=786432
+
+TRAJECTORY: 7279a8f3-a49f-45a9-8914-52cbf2f7f0bd
+Fontes: CURRENT, MIGRADAS
+  [CURRENT] 689c0159-68b4-4388-8ad5-fafacb873321.db steps=128 size=1175552
+  [MIGRADAS] 689c0159-68b4-4388-8ad5-fafacb873321.db steps=128 size=1175552
+
+TRAJECTORY: 78416862-e2a3-484d-96ce-aeb7709eb6d0
+Fontes: CURRENT, MIGRADAS
+  [CURRENT] 33cc6c37-7243-4173-ad70-20bcf473dcf1.db steps=2 size=294912
+  [MIGRADAS] 33cc6c37-7243-4173-ad70-20bcf473dcf1.db steps=2 size=294912
+
+TRAJECTORY: 7f2ca77a-e1d3-4059-a130-fd1440c50f7a
+Fontes: CURRENT, MIGRADAS
+  [CURRENT] 293a0f5a-1e48-4990-bea8-e0cfa2a3b076.db steps=75 size=1064960
+  [MIGRADAS] 293a0f5a-1e48-4990-bea8-e0cfa2a3b076.db steps=75 size=1064960
+
+TRAJECTORY: c697a44d-a88d-47d2-80ea-7326d1dcdff3
+Fontes: BACKUP, CURRENT, MIGRADAS
+  [CURRENT] 2992f223-6aed-48b3-8b83-ff6e535a1dce.db steps=40 size=5791744
+  [MIGRADAS] 2992f223-6aed-48b3-8b83-ff6e535a1dce.db steps=40 size=5791744
+  [BACKUP] 2992f223-6aed-48b3-8b83-ff6e535a1dce.db steps=40 size=5791744
+
+TRAJECTORY: c9fa6fa4-c7c9-4b42-9f81-07de5ebbafae
+Fontes: BACKUP, CURRENT, MIGRADAS
+  [CURRENT] 0dfd08dc-a251-4160-921d-7098d860f818.db steps=474 size=6397952
+  [MIGRADAS] 0dfd08dc-a251-4160-921d-7098d860f818.db steps=474 size=6397952
+  [BACKUP] 0dfd08dc-a251-4160-921d-7098d860f818.db steps=474 size=6397952
+
+================================================================================
+8. AGYHUB SUMMARIES
+================================================================================
+
+Arquivo: C:\Users\usuario\.gemini\antigravity\agyhub_summaries_proto.pb
+Existe: True
+Tamanho: 14718
+SHA256: 27ec174e2e697529c06ad02fe7d8ed698d2069c899f87d3d6537e2a870aef42a
+UUIDs encontrados: 126
+  028bb05f-5fdd-4d45-ab55-2666a1d952fa
+  865b1168-2b28-43e7-bfd3-72903ca085cc
+  79e5d0c0-a385-4cc4-9676-210afb9376f2
+  18a6097f-dea2-460c-98a8-37e285677537
+  ebadd804-1572-4a8c-9ef2-714b2ae0d68d
+  5326939e-567b-49cd-803e-a04f5c766846
+  c082c684-8f7b-49b3-acf1-9bb597d6e521
+  80886d7d-e7ec-4484-8802-5e47036d87f7
+  dc5d624c-b3f3-4ac7-ab3c-3c98152a45c6
+  5cd248e8-ef94-4399-bff7-22f89238b3b2
+  8164acc9-1c62-4db7-8b20-5247b3eca556
+  1d23474b-5495-4cf3-a66c-932857094cbd
+  44657b22-17d2-4f88-beeb-5e2a21992d5b
+  8c2bf13d-4fd5-4e4a-95dc-ebf9c11545f9
+  8421071a-355e-486a-ad36-74e81aff8104
+  9eba16f3-be86-44e4-aed0-d2b08dafe1d6
+  c751dd9e-6705-4e9b-b4e6-2711f101262f
+  6724c714-82d7-410f-b797-c9b6b26501ea
+  049b8365-c9cc-42ca-a229-a7922a08e9d0
+  ae7dd077-44f7-481e-a017-ba0fe7ad5667
+  6145dc8f-e295-4e73-b99a-3360857c5768
+  08c0fb19-3440-47b0-b5d1-d562ffe92cf9
+  9a49858f-ce5f-4345-9f2b-40e41850e987
+  cd0f64f6-e643-41b9-970b-a4e666fff237
+  6bbc054f-fecb-4c49-a1f1-75a9c3e6948a
+  ebe340cd-cc27-41f9-8559-fbef88b255c3
+  b6fcc2ea-10f7-4edd-bdc8-bfc8bc7403c6
+  c30fd6f3-d177-4b4c-8ef1-489cf3b61d3f
+  c125fdc1-519f-4bab-a2cf-46f6837deb27
+  2e5c4d95-8ee7-4e95-a07b-da4144d08245
+  f990f755-b4dd-4a75-ad95-fd9856346279
+  12e93b22-6b36-4217-a6ba-cd68f4d463a7
+  4bd5a429-e343-4b22-ad21-d4cd0a3accef
+  3c79c87a-27d9-43a9-b692-1b1f417af7be
+  2a2e3ca7-82e4-4b96-a616-601fe58357d9
+  7c80c4a7-bc0a-4a3a-933d-1891dded16d8
+  718617ee-ad4f-4959-9f53-4a4644176616
+  2665e7a1-b135-41fb-b963-3cd679bd0aa1
+  5f3a54f1-dfcf-4da6-b7eb-8e41dc5e50e1
+  0f0caddc-c706-4ed5-a596-46ecdd749512
+  ea8cfb53-2578-4582-8799-6f95a63216a2
+  adc9691f-7d16-4b1c-8b82-d718a7d268fa
+  f65bbab8-fbe3-4c8c-9534-3a751ae5a966
+  33cc6c37-7243-4173-ad70-20bcf473dcf1
+  78416862-e2a3-484d-96ce-aeb7709eb6d0
+  6c290734-c8ef-4258-ac35-d5572912176a
+  6a3ea2bd-9a6c-4063-b8df-2408e914d37f
+  6c27f2bf-2aac-478e-82ea-30b63e00aeeb
+  8698bd3f-ac09-4c67-a6f1-4d3c83b4426a
+  38ff777f-d6b1-4323-918d-14259a8bbe7a
+  7f1ac345-6c2e-4bea-99df-40c56fbc7f47
+  f2a16c04-f7a2-40b5-acb4-12b517bd470b
+  b6d4431b-c73e-406a-9b52-90203c67f446
+  0dfb94c5-dad4-4d5f-b5d3-514abb612031
+  24bd0dd4-b62c-4229-98b7-5d8a36805183
+  13b17ecc-4c42-46c2-acb5-a8a894b071b4
+  f8c0c8ae-c29a-4544-876f-ba39a2f8c6ca
+  cecdd1ad-b169-47e0-8c85-eb17f2f8057e
+  8eee2561-bb4f-4794-936e-49e1d246a298
+  394adb27-76ce-4e0a-856f-9731ccebfaa9
+  2a9e33ae-0e86-460d-8572-530a4aa30bd1
+  46e272c1-40b6-49a2-b44f-94e10dfebf17
+  38d8df64-263c-408f-9ed2-4b596cd8b17a
+  957ffe0b-8bc4-4e04-8b51-039acec7c57b
+  c89f52dd-47a4-4178-9437-2f422ee32952
+  5049b5cb-4f3c-465b-b0bb-e2bffe135549
+  3577ee12-97d6-4b12-90aa-c2f402efff4a
+  ee8b050b-e89d-4a62-b202-754ba9468393
+  04806721-f006-4665-8e00-9a031ee132a1
+  3e46c188-4dfe-42ac-9fb1-581f67d3d11c
+  90db9dba-9b41-4867-a06b-cbb3c623141a
+  3ae91276-83b8-4124-b99b-1942fa99c727
+  beb2d9f2-4022-4c09-a75a-c060b350a202
+  2d4f4c42-57c2-428f-a588-6b29019bdbf2
+  a4a7439d-a698-48da-a18f-3d756473bb49
+  d90e8043-6882-4cd7-8973-ba81a803c327
+  0a1541e8-c44e-4252-bcf9-e550fb17f0cf
+  b6ada397-8c60-4234-857f-b3faec45ba38
+  472072f9-33d2-44a2-a048-a0dad2a95897
+  da0f3a0e-ab21-455e-902f-51b6078e3f6e
+  a5afce61-7753-4822-a844-71e17ad2c8af
+  66fd4aa1-25f7-4863-ac25-e33dda640d58
+  f89e146d-b131-4cc9-a9ea-85e94029f162
+  dcc1ef42-2801-4c06-924b-03e57600601a
+  6c584bd5-1f03-4c65-8716-94621eede571
+  ce3b2cfe-5e90-482c-880b-a17b9af5b89f
+  815c2376-a391-4efb-b5f7-30aa8997f681
+  ed88444f-d296-496a-ab71-2869f404ae36
+  7a39ff7f-11b9-44de-960d-3de171d93313
+  645a2d4e-1472-436c-be1d-df75e2aced8f
+  1469933b-5db5-4364-967f-104705ba955d
+  0ef5c7fb-7856-4dfc-8f6e-db56cdfb5435
+  09ee377d-3aa7-421f-b4a9-09cea7e4105b
+  676153bc-1d25-43df-b385-5f2c4b2ff9c9
+  20e3fc0d-5eaf-4b1b-a99f-f24ba79ff87a
+  79ff83df-cefc-4aa1-8b5d-ce2156782a60
+  b13afa82-8a2d-45a2-9e9e-d7fc17009e1c
+  52eeb9ec-7991-4171-83e3-aec946fa93bd
+  4a3a1c77-4cbc-43e5-a6e7-346b25131918
+  efc7c124-fad0-41e8-a5ff-ca4e669b01f6
+  db4bb1ed-8e13-4895-a92d-cae0b39180c2
+  2e63e1a2-14b1-48db-b957-c844131084a4
+  018b10dd-9fae-4404-b3a4-45efaa9f86ef
+  1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  d680c2d4-3130-4fa5-a204-0baac37a0826
+  1120d8ba-6ce8-4eb0-89b4-00632e043ecd
+  aab1ca54-3c8d-484d-a0c5-1d3354b51f9d
+  762265e7-9a12-43a6-a9f6-639f65285960
+  efd2084c-d89b-4099-85f7-d98b4a941d37
+  009159b0-84ff-494d-9bc7-c4c8c2332c8e
+  128d25aa-943b-4c32-9428-10018f11e974
+  0dfd08dc-a251-4160-921d-7098d860f818
+  c9fa6fa4-c7c9-4b42-9f81-07de5ebbafae
+  07d87ef9-6727-4b8f-a679-2d72f3ec0fc4
+  223e97b9-506b-41e9-8066-b0a88434ef8d
+  178d3fb3-9629-467e-af06-eb92b777a617
+  a5e69ced-07f8-4a16-b864-753f4ea0b056
+  3c6b7ceb-499c-45a3-9211-0b2c11699494
+  44113961-752f-4c18-b987-bbc330c37343
+  1930f03c-e72c-4154-afe8-7e37d13351ab
+  c8203d6f-b7ed-4f3a-bad3-2a435d4c36a0
+  90e95f17-267d-49a5-adff-585ceaa5f00e
+  9d9e3451-d5ed-49c3-b810-4f017f9f1291
+  2992f223-6aed-48b3-8b83-ff6e535a1dce
+  c697a44d-a88d-47d2-80ea-7326d1dcdff3
+  538d90ac-6260-4718-8301-d8c9c4222661
+
+Strings legíveis:
+  $028bb05f-5fdd-4d45-ab55-2666a1d952fa
+  Writing The Story Of Drisana
+  "$865b1168-2b28-43e7-bfd3-72903ca085cc(
+  Mfile:///c:/Users/usuario/Documents/Projetos/Historias/Historia%20de%20Drisana
+  Mfile:///c:/Users/usuario/Documents/Projetos/Historias/Historia%20de%20Drisana
+  $79e5d0c0-a385-4cc4-9676-210afb9376f2:Ofile:///c%3A/Users/usuario/Documents/Projetos/Historias/Historia%20de%20Drisana
+  $18a6097f-dea2-460c-98a8-37e285677537
+  $ebadd804-1572-4a8c-9ef2-714b2ae0d68d
+  &Real-Time Character Dashboard Redesign
+  "$5326939e-567b-49cd-803e-a04f5c766846(
+  8file:///c:/Users/usuario/Documents/Projetos/GameWebBased
+  8file:///c:/Users/usuario/Documents/Projetos/GameWebBased
+  $c082c684-8f7b-49b3-acf1-9bb597d6e521::file:///c%3A/Users/usuario/Documents/Projetos/GameWebBased
+  $80886d7d-e7ec-4484-8802-5e47036d87f7
+  $dc5d624c-b3f3-4ac7-ab3c-3c98152a45c6
+  Opening Video Editor App
+  "$5cd248e8-ef94-4399-bff7-22f89238b3b2(
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo
+  $8164acc9-1c62-4db7-8b20-5247b3eca556
+  outside-of-project
+  $1d23474b-5495-4cf3-a66c-932857094cbd
+  Foundry VTT Agent Monitoring
+  "$44657b22-17d2-4f88-beeb-5e2a21992d5b(
+  Ffile:///c:/Users/usuario/.gemini/antigravity/playground/glowing-planck
+  Ffile:///c:/Users/usuario/.gemini/antigravity/playground/glowing-planck
+  $8c2bf13d-4fd5-4e4a-95dc-ebf9c11545f9
+  outside-of-project
+  $8421071a-355e-486a-ad36-74e81aff8104
+  "$8421071a-355e-486a-ad36-74e81aff8104(
+  $9eba16f3-be86-44e4-aed0-d2b08dafe1d6
+  YouTube Video Player App
+  "$c751dd9e-6705-4e9b-b4e6-2711f101262f(
+  >file:///c:/Users/usuario/Documents/Projetos/Tradutor%20YouTube
+  >file:///c:/Users/usuario/Documents/Projetos/Tradutor%20YouTube
+  $6724c714-82d7-410f-b797-c9b6b26501ea
+  outside-of-project
+  $049b8365-c9cc-42ca-a229-a7922a08e9d0
+  %Converting Pickpocket Macro To Module
+  "$ae7dd077-44f7-481e-a017-ba0fe7ad5667(
+  ;file:///d:/Jogos/FoundryVTT/Data/modules/steal-items-module
+  ;file:///d:/Jogos/FoundryVTT/Data/modules/steal-items-module
+  $6145dc8f-e295-4e73-b99a-3360857c5768:=file:///d%3A/Jogos/FoundryVTT/Data/modules/steal-items-module
+  $08c0fb19-3440-47b0-b5d1-d562ffe92cf9
+  $9a49858f-ce5f-4345-9f2b-40e41850e987
+  !Beta Test WorldBuilderPro Buttons
+  "$cd0f64f6-e643-41b9-970b-a4e666fff237(
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro
+  $6bbc054f-fecb-4c49-a1f1-75a9c3e6948a
+  outside-of-project
+  $ebe340cd-cc27-41f9-8559-fbef88b255c3
+  Planning Social Network App
+  "$b6fcc2ea-10f7-4edd-bdc8-bfc8bc7403c6(
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social
+  $c30fd6f3-d177-4b4c-8ef1-489cf3b61d3f
+  outside-of-project
+  $c125fdc1-519f-4bab-a2cf-46f6837deb27
+  Steal Items Module Analysis
+  "$2e5c4d95-8ee7-4e95-a07b-da4144d08245(
+  Nfile:///d:/RPG/BackUp%20LocalHost/FoundryVTT12/Data/modules/steal-items-module
+  Nfile:///d:/RPG/BackUp%20LocalHost/FoundryVTT12/Data/modules/steal-items-module
+  $f990f755-b4dd-4a75-ad95-fd9856346279
+  outside-of-project
+  $12e93b22-6b36-4217-a6ba-cd68f4d463a7
+  Building Hamachi Clone
+  "$4bd5a429-e343-4b22-ad21-d4cd0a3accef(
+  2file:///c:/Users/usuario/Documents/Projetos/Client
+  2file:///c:/Users/usuario/Documents/Projetos/Client
+  $3c79c87a-27d9-43a9-b692-1b1f417af7be
+  outside-of-project
+  $2a2e3ca7-82e4-4b96-a616-601fe58357d9
+  >"$2a2e3ca7-82e4-4b96-a616-601fe58357d9(
+  $7c80c4a7-bc0a-4a3a-933d-1891dded16d8
+  %Creating Hilarian Language Translator
+  q"$718617ee-ad4f-4959-9f53-4a4644176616(
+  <file:///c:/Users/usuario/Documents/Projetos/Tradutor%20Hilar
+  <file:///c:/Users/usuario/Documents/Projetos/Tradutor%20Hilar
+  $2665e7a1-b135-41fb-b963-3cd679bd0aa1:>file:///c%3A/Users/usuario/Documents/Projetos/Tradutor%20Hilar
+  $5f3a54f1-dfcf-4da6-b7eb-8e41dc5e50e1
+  $0f0caddc-c706-4ed5-a596-46ecdd749512
+  ="$0f0caddc-c706-4ed5-a596-46ecdd749512(
+  $ea8cfb53-2578-4582-8799-6f95a63216a2
+  Enforce Web API Connection
+  A"$adc9691f-7d16-4b1c-8b82-d718a7d268fa(
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro
+  $f65bbab8-fbe3-4c8c-9534-3a751ae5a966
+  outside-of-project
+  $33cc6c37-7243-4173-ad70-20bcf473dcf1
+  "$78416862-e2a3-484d-96ce-aeb7709eb6d0(
+  file:///d:/Projetos/n8n
+  file:///d:/Projetos/n8n
+  $6c290734-c8ef-4258-ac35-d5572912176a2$33cc6c37-7243-4173-ad70-20bcf473dcf1:
+  file:///d%3A/Projetos/n8n
+  $6a3ea2bd-9a6c-4063-b8df-2408e914d37f
+  $6c27f2bf-2aac-478e-82ea-30b63e00aeeb
+  "Client-Side Video Frame Extraction
+  "$8698bd3f-ac09-4c67-a6f1-4d3c83b4426a(
+
+Arquivo: C:\Users\usuario\.gemini\antigravity\agyhub_summaries_proto.pb.bak
+Existe: True
+Tamanho: 16876
+SHA256: 88ebf9ae728a90c077dfd29942c00a24d6dd81a2d1f2eccd8d39a39d5d44a445
+UUIDs encontrados: 136
+  b6ada397-8c60-4234-857f-b3faec45ba38
+  472072f9-33d2-44a2-a048-a0dad2a95897
+  da0f3a0e-ab21-455e-902f-51b6078e3f6e
+  0ef5c7fb-7856-4dfc-8f6e-db56cdfb5435
+  09ee377d-3aa7-421f-b4a9-09cea7e4105b
+  676153bc-1d25-43df-b385-5f2c4b2ff9c9
+  6c27f2bf-2aac-478e-82ea-30b63e00aeeb
+  8698bd3f-ac09-4c67-a6f1-4d3c83b4426a
+  38ff777f-d6b1-4323-918d-14259a8bbe7a
+  ce3b2cfe-5e90-482c-880b-a17b9af5b89f
+  815c2376-a391-4efb-b5f7-30aa8997f681
+  ed88444f-d296-496a-ab71-2869f404ae36
+  178d3fb3-9629-467e-af06-eb92b777a617
+  a5e69ced-07f8-4a16-b864-753f4ea0b056
+  3c6b7ceb-499c-45a3-9211-0b2c11699494
+  c125fdc1-519f-4bab-a2cf-46f6837deb27
+  2e5c4d95-8ee7-4e95-a07b-da4144d08245
+  f990f755-b4dd-4a75-ad95-fd9856346279
+  2992f223-6aed-48b3-8b83-ff6e535a1dce
+  c697a44d-a88d-47d2-80ea-7326d1dcdff3
+  538d90ac-6260-4718-8301-d8c9c4222661
+  0dfd08dc-a251-4160-921d-7098d860f818
+  223e97b9-506b-41e9-8066-b0a88434ef8d
+  f8c0c8ae-c29a-4544-876f-ba39a2f8c6ca
+  25dc0a94-0fe4-48f1-acb1-596304f2ff08
+  73eac944-70d1-45e5-8ea4-9ce83f3cafaa
+  44113961-752f-4c18-b987-bbc330c37343
+  692c2e47-296a-4e9e-b6b3-0e90534f295f
+  27762c63-c5d4-4e58-bcd7-eaab88e80b14
+  12e93b22-6b36-4217-a6ba-cd68f4d463a7
+  4bd5a429-e343-4b22-ad21-d4cd0a3accef
+  3c79c87a-27d9-43a9-b692-1b1f417af7be
+  dc5d624c-b3f3-4ac7-ab3c-3c98152a45c6
+  5cd248e8-ef94-4399-bff7-22f89238b3b2
+  8164acc9-1c62-4db7-8b20-5247b3eca556
+  52eeb9ec-7991-4171-83e3-aec946fa93bd
+  4a3a1c77-4cbc-43e5-a6e7-346b25131918
+  efc7c124-fad0-41e8-a5ff-ca4e669b01f6
+  7a39ff7f-11b9-44de-960d-3de171d93313
+  645a2d4e-1472-436c-be1d-df75e2aced8f
+  1469933b-5db5-4364-967f-104705ba955d
+  028bb05f-5fdd-4d45-ab55-2666a1d952fa
+  865b1168-2b28-43e7-bfd3-72903ca085cc
+  79e5d0c0-a385-4cc4-9676-210afb9376f2
+  18a6097f-dea2-460c-98a8-37e285677537
+  db4bb1ed-8e13-4895-a92d-cae0b39180c2
+  2e63e1a2-14b1-48db-b957-c844131084a4
+  018b10dd-9fae-4404-b3a4-45efaa9f86ef
+  c8203d6f-b7ed-4f3a-bad3-2a435d4c36a0
+  90e95f17-267d-49a5-adff-585ceaa5f00e
+  9d9e3451-d5ed-49c3-b810-4f017f9f1291
+  3577ee12-97d6-4b12-90aa-c2f402efff4a
+  ee8b050b-e89d-4a62-b202-754ba9468393
+  04806721-f006-4665-8e00-9a031ee132a1
+  c9fa6fa4-c7c9-4b42-9f81-07de5ebbafae
+  07d87ef9-6727-4b8f-a679-2d72f3ec0fc4
+  3e46c188-4dfe-42ac-9fb1-581f67d3d11c
+  90db9dba-9b41-4867-a06b-cbb3c623141a
+  3ae91276-83b8-4124-b99b-1942fa99c727
+  beb2d9f2-4022-4c09-a75a-c060b350a202
+  2a2e3ca7-82e4-4b96-a616-601fe58357d9
+  14b196be-fa6c-4d1a-8b68-d6c8384b629e
+  54af5c5e-eef2-4070-a459-3d851aef6d1e
+  ebe340cd-cc27-41f9-8559-fbef88b255c3
+  b6fcc2ea-10f7-4edd-bdc8-bfc8bc7403c6
+  c30fd6f3-d177-4b4c-8ef1-489cf3b61d3f
+  8421071a-355e-486a-ad36-74e81aff8104
+  1944ac21-f7a3-4809-b78e-ddca13f05b28
+  4c2a8d5a-d850-42ae-9799-741271ede221
+  38d8df64-263c-408f-9ed2-4b596cd8b17a
+  957ffe0b-8bc4-4e04-8b51-039acec7c57b
+  c89f52dd-47a4-4178-9437-2f422ee32952
+  5049b5cb-4f3c-465b-b0bb-e2bffe135549
+  aab1ca54-3c8d-484d-a0c5-1d3354b51f9d
+  d798c690-c640-48c1-a472-fe024dbc20b6
+  5fd9a862-a945-4b33-ac35-2a1cba94e971
+  efd2084c-d89b-4099-85f7-d98b4a941d37
+  009159b0-84ff-494d-9bc7-c4c8c2332c8e
+  128d25aa-943b-4c32-9428-10018f11e974
+  0dfb94c5-dad4-4d5f-b5d3-514abb612031
+  24bd0dd4-b62c-4229-98b7-5d8a36805183
+  13b17ecc-4c42-46c2-acb5-a8a894b071b4
+  ea8cfb53-2578-4582-8799-6f95a63216a2
+  adc9691f-7d16-4b1c-8b82-d718a7d268fa
+  f65bbab8-fbe3-4c8c-9534-3a751ae5a966
+  9eba16f3-be86-44e4-aed0-d2b08dafe1d6
+  c751dd9e-6705-4e9b-b4e6-2711f101262f
+  6724c714-82d7-410f-b797-c9b6b26501ea
+  20e3fc0d-5eaf-4b1b-a99f-f24ba79ff87a
+  79ff83df-cefc-4aa1-8b5d-ce2156782a60
+  b13afa82-8a2d-45a2-9e9e-d7fc17009e1c
+  a5afce61-7753-4822-a844-71e17ad2c8af
+  66fd4aa1-25f7-4863-ac25-e33dda640d58
+  f89e146d-b131-4cc9-a9ea-85e94029f162
+  1d23474b-5495-4cf3-a66c-932857094cbd
+  44657b22-17d2-4f88-beeb-5e2a21992d5b
+  8c2bf13d-4fd5-4e4a-95dc-ebf9c11545f9
+  394adb27-76ce-4e0a-856f-9731ccebfaa9
+  2d9f1d61-2d4b-4cea-abac-b8cfc3d7920c
+  9e96c4fc-9f40-4d9d-a81a-1723f84d4f18
+  bc745751-0cef-4c5e-8d13-56ae53a91c56
+  7c80c4a7-bc0a-4a3a-933d-1891dded16d8
+  718617ee-ad4f-4959-9f53-4a4644176616
+  2665e7a1-b135-41fb-b963-3cd679bd0aa1
+  5f3a54f1-dfcf-4da6-b7eb-8e41dc5e50e1
+  1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+  1120d8ba-6ce8-4eb0-89b4-00632e043ecd
+  dcc1ef42-2801-4c06-924b-03e57600601a
+  e36851f2-c837-4fa2-a8b3-81deafde0da0
+  d96bd448-405d-46e3-9dfd-827560cbb3d1
+  46e272c1-40b6-49a2-b44f-94e10dfebf17
+  4e0c6008-5f34-4170-8f63-b4f09dabaf9c
+  9195a3f9-f0df-4670-9b00-d02ccfab21a6
+  8eee2561-bb4f-4794-936e-49e1d246a298
+  9600bf7f-cda7-4ee5-bac9-a30b36982a0e
+  a7337196-4d7e-4750-8550-953371a8c23f
+  9a49858f-ce5f-4345-9f2b-40e41850e987
+  cd0f64f6-e643-41b9-970b-a4e666fff237
+  6bbc054f-fecb-4c49-a1f1-75a9c3e6948a
+  ebadd804-1572-4a8c-9ef2-714b2ae0d68d
+  5326939e-567b-49cd-803e-a04f5c766846
+  c082c684-8f7b-49b3-acf1-9bb597d6e521
+  80886d7d-e7ec-4484-8802-5e47036d87f7
+  049b8365-c9cc-42ca-a229-a7922a08e9d0
+  ae7dd077-44f7-481e-a017-ba0fe7ad5667
+  6145dc8f-e295-4e73-b99a-3360857c5768
+  08c0fb19-3440-47b0-b5d1-d562ffe92cf9
+  2d4f4c42-57c2-428f-a588-6b29019bdbf2
+  a4a7439d-a698-48da-a18f-3d756473bb49
+  d90e8043-6882-4cd7-8973-ba81a803c327
+  0a1541e8-c44e-4252-bcf9-e550fb17f0cf
+  0f0caddc-c706-4ed5-a596-46ecdd749512
+  5dc85201-0bca-4da8-9c1d-60b64d4e6a88
+  7ebbfac8-fac3-4781-89d0-110251a37981
+  6db8b33c-80b1-46a1-85be-8c8eb3b0b5f2
+
+Strings legíveis:
+  $b6ada397-8c60-4234-857f-b3faec45ba38
+  Test MCP Context7 Access
+  5"$472072f9-33d2-44a2-a048-a0dad2a95897(
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e
+  $da0f3a0e-ab21-455e-902f-51b6078e3f6e
+  outside-of-project
+  $0ef5c7fb-7856-4dfc-8f6e-db56cdfb5435
+  Deleting Unspecified Content
+  ="$09ee377d-3aa7-421f-b4a9-09cea7e4105b(
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro
+  $676153bc-1d25-43df-b385-5f2c4b2ff9c9
+  outside-of-project
+  $6c27f2bf-2aac-478e-82ea-30b63e00aeeb
+  "Client-Side Video Frame Extraction
+  "$8698bd3f-ac09-4c67-a6f1-4d3c83b4426a(
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social
+  $38ff777f-d6b1-4323-918d-14259a8bbe7a
+  outside-of-project
+  $ce3b2cfe-5e90-482c-880b-a17b9af5b89f
+  Gemini API Key Debugging
+  N"$815c2376-a391-4efb-b5f7-30aa8997f681(
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro
+  $ed88444f-d296-496a-ab71-2869f404ae36
+  outside-of-project
+  $178d3fb3-9629-467e-af06-eb92b777a617
+   Creating a Simple Social Network
+  "$a5e69ced-07f8-4a16-b864-753f4ea0b056(
+  2file:///c:/Users/usuario/Documents/Projetos/Client
+  2file:///c:/Users/usuario/Documents/Projetos/Client
+  $3c6b7ceb-499c-45a3-9211-0b2c11699494
+  outside-of-project
+  $c125fdc1-519f-4bab-a2cf-46f6837deb27
+  Steal Items Module Analysis
+  "$2e5c4d95-8ee7-4e95-a07b-da4144d08245(
+  Nfile:///d:/RPG/BackUp%20LocalHost/FoundryVTT12/Data/modules/steal-items-module
+  Nfile:///d:/RPG/BackUp%20LocalHost/FoundryVTT12/Data/modules/steal-items-module
+  $f990f755-b4dd-4a75-ad95-fd9856346279
+  outside-of-project
+  $2992f223-6aed-48b3-8b83-ff6e535a1dce
+  Configuring Ef
+   Pix Webhooks
+  "$c697a44d-a88d-47d2-80ea-7326d1dcdff3(
+  &file:///c:/Users/usuario/Downloads/n8n
+  &file:///c:/Users/usuario/Downloads/n8n
+  $538d90ac-6260-4718-8301-d8c9c4222661"
+  research*$0dfd08dc-a251-4160-921d-7098d860f818:&file:///c:/Users/usuario/Downloads/n8nB3
+  research
+   Previous conversation researcher8
+  $223e97b9-506b-41e9-8066-b0a88434ef8d
+  $f8c0c8ae-c29a-4544-876f-ba39a2f8c6ca
+  "Integrating Evolution API With N8N
+  "$25dc0a94-0fe4-48f1-acb1-596304f2ff08(
+  &file:///c:/Users/usuario/Downloads/n8n
+  &file:///c:/Users/usuario/Downloads/n8n
+  $73eac944-70d1-45e5-8ea4-9ce83f3cafaa:(file:///c%3A/Users/usuario/Downloads/n8n
+  $223e97b9-506b-41e9-8066-b0a88434ef8d
+  $44113961-752f-4c18-b987-bbc330c37343
+  Calibragem Iscas
+  M"$692c2e47-296a-4e9e-b6b3-0e90534f295f(
+  &file:///c:/Users/usuario/Downloads/n8n
+  Calibragem Iscas:
+  &file:///c:/Users/usuario/Downloads/n8n
+  $27762c63-c5d4-4e58-bcd7-eaab88e80b14:(file:///c%3A/Users/usuario/Downloads/n8n
+  $223e97b9-506b-41e9-8066-b0a88434ef8d
+  $12e93b22-6b36-4217-a6ba-cd68f4d463a7
+  Building Hamachi Clone
+  "$4bd5a429-e343-4b22-ad21-d4cd0a3accef(
+  2file:///c:/Users/usuario/Documents/Projetos/Client
+  2file:///c:/Users/usuario/Documents/Projetos/Client
+  $3c79c87a-27d9-43a9-b692-1b1f417af7be
+  outside-of-project
+  $dc5d624c-b3f3-4ac7-ab3c-3c98152a45c6
+  Opening Video Editor App
+  "$5cd248e8-ef94-4399-bff7-22f89238b3b2(
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo
+  $8164acc9-1c62-4db7-8b20-5247b3eca556
+  outside-of-project
+  $52eeb9ec-7991-4171-83e3-aec946fa93bd
+  D&D5e PDF Data Extraction
+  "$4a3a1c77-4cbc-43e5-a6e7-346b25131918(
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e
+  $efc7c124-fad0-41e8-a5ff-ca4e669b01f6
+  outside-of-project
+  $7a39ff7f-11b9-44de-960d-3de171d93313
+  Adding Video Player Controls
+  A"$645a2d4e-1472-436c-be1d-df75e2aced8f(
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo
+  $1469933b-5db5-4364-967f-104705ba955d
+  outside-of-project
+  $028bb05f-5fdd-4d45-ab55-2666a1d952fa
+  Writing The Story Of Drisana
+  "$865b1168-2b28-43e7-bfd3-72903ca085cc(
+  Mfile:///c:/Users/usuario/Documents/Projetos/Historias/Historia%20de%20Drisana
+
+================================================================================
+9. PB × TRAJECTORIES DOS DBs
+================================================================================
+
+agyhub_summaries_proto.pb
+UUIDs em comum com DBs: 44
+  028bb05f-5fdd-4d45-ab55-2666a1d952fa
+  049b8365-c9cc-42ca-a229-a7922a08e9d0
+  0dfb94c5-dad4-4d5f-b5d3-514abb612031
+  0ef5c7fb-7856-4dfc-8f6e-db56cdfb5435
+  0f0caddc-c706-4ed5-a596-46ecdd749512
+  12e93b22-6b36-4217-a6ba-cd68f4d463a7
+  178d3fb3-9629-467e-af06-eb92b777a617
+  1d23474b-5495-4cf3-a66c-932857094cbd
+  20e3fc0d-5eaf-4b1b-a99f-f24ba79ff87a
+  2a2e3ca7-82e4-4b96-a616-601fe58357d9
+  2d4f4c42-57c2-428f-a588-6b29019bdbf2
+  3577ee12-97d6-4b12-90aa-c2f402efff4a
+  38d8df64-263c-408f-9ed2-4b596cd8b17a
+  394adb27-76ce-4e0a-856f-9731ccebfaa9
+  3e46c188-4dfe-42ac-9fb1-581f67d3d11c
+  44113961-752f-4c18-b987-bbc330c37343
+  46e272c1-40b6-49a2-b44f-94e10dfebf17
+  52eeb9ec-7991-4171-83e3-aec946fa93bd
+  6c27f2bf-2aac-478e-82ea-30b63e00aeeb
+  78416862-e2a3-484d-96ce-aeb7709eb6d0
+  7a39ff7f-11b9-44de-960d-3de171d93313
+  7c80c4a7-bc0a-4a3a-933d-1891dded16d8
+  8421071a-355e-486a-ad36-74e81aff8104
+  8eee2561-bb4f-4794-936e-49e1d246a298
+  9a49858f-ce5f-4345-9f2b-40e41850e987
+  9eba16f3-be86-44e4-aed0-d2b08dafe1d6
+  a5afce61-7753-4822-a844-71e17ad2c8af
+  aab1ca54-3c8d-484d-a0c5-1d3354b51f9d
+  b6ada397-8c60-4234-857f-b3faec45ba38
+  c125fdc1-519f-4bab-a2cf-46f6837deb27
+  c697a44d-a88d-47d2-80ea-7326d1dcdff3
+  c8203d6f-b7ed-4f3a-bad3-2a435d4c36a0
+  c9fa6fa4-c7c9-4b42-9f81-07de5ebbafae
+  ce3b2cfe-5e90-482c-880b-a17b9af5b89f
+  d680c2d4-3130-4fa5-a204-0baac37a0826
+  db4bb1ed-8e13-4895-a92d-cae0b39180c2
+  dc5d624c-b3f3-4ac7-ab3c-3c98152a45c6
+  dcc1ef42-2801-4c06-924b-03e57600601a
+  ea8cfb53-2578-4582-8799-6f95a63216a2
+  ebadd804-1572-4a8c-9ef2-714b2ae0d68d
+  ebe340cd-cc27-41f9-8559-fbef88b255c3
+  efd2084c-d89b-4099-85f7-d98b4a941d37
+  f2a16c04-f7a2-40b5-acb4-12b517bd470b
+  f8c0c8ae-c29a-4544-876f-ba39a2f8c6ca
+
+agyhub_summaries_proto.pb.bak
+UUIDs em comum com DBs: 42
+  028bb05f-5fdd-4d45-ab55-2666a1d952fa
+  049b8365-c9cc-42ca-a229-a7922a08e9d0
+  0dfb94c5-dad4-4d5f-b5d3-514abb612031
+  0ef5c7fb-7856-4dfc-8f6e-db56cdfb5435
+  0f0caddc-c706-4ed5-a596-46ecdd749512
+  12e93b22-6b36-4217-a6ba-cd68f4d463a7
+  178d3fb3-9629-467e-af06-eb92b777a617
+  1d23474b-5495-4cf3-a66c-932857094cbd
+  20e3fc0d-5eaf-4b1b-a99f-f24ba79ff87a
+  2a2e3ca7-82e4-4b96-a616-601fe58357d9
+  2d4f4c42-57c2-428f-a588-6b29019bdbf2
+  3577ee12-97d6-4b12-90aa-c2f402efff4a
+  38d8df64-263c-408f-9ed2-4b596cd8b17a
+  394adb27-76ce-4e0a-856f-9731ccebfaa9
+  3e46c188-4dfe-42ac-9fb1-581f67d3d11c
+  44113961-752f-4c18-b987-bbc330c37343
+  46e272c1-40b6-49a2-b44f-94e10dfebf17
+  52eeb9ec-7991-4171-83e3-aec946fa93bd
+  652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+  6c27f2bf-2aac-478e-82ea-30b63e00aeeb
+  7a39ff7f-11b9-44de-960d-3de171d93313
+  7c80c4a7-bc0a-4a3a-933d-1891dded16d8
+  8421071a-355e-486a-ad36-74e81aff8104
+  8eee2561-bb4f-4794-936e-49e1d246a298
+  9a49858f-ce5f-4345-9f2b-40e41850e987
+  9eba16f3-be86-44e4-aed0-d2b08dafe1d6
+  a5afce61-7753-4822-a844-71e17ad2c8af
+  aab1ca54-3c8d-484d-a0c5-1d3354b51f9d
+  b6ada397-8c60-4234-857f-b3faec45ba38
+  c125fdc1-519f-4bab-a2cf-46f6837deb27
+  c697a44d-a88d-47d2-80ea-7326d1dcdff3
+  c8203d6f-b7ed-4f3a-bad3-2a435d4c36a0
+  c9fa6fa4-c7c9-4b42-9f81-07de5ebbafae
+  ce3b2cfe-5e90-482c-880b-a17b9af5b89f
+  db4bb1ed-8e13-4895-a92d-cae0b39180c2
+  dc5d624c-b3f3-4ac7-ab3c-3c98152a45c6
+  dcc1ef42-2801-4c06-924b-03e57600601a
+  ea8cfb53-2578-4582-8799-6f95a63216a2
+  ebadd804-1572-4a8c-9ef2-714b2ae0d68d
+  ebe340cd-cc27-41f9-8559-fbef88b255c3
+  efd2084c-d89b-4099-85f7-d98b4a941d37
+  f8c0c8ae-c29a-4544-876f-ba39a2f8c6ca
+
+================================================================================
+10. ERROS
+================================================================================
+Nenhum erro crítico.
+
+================================================================================
+11. RESUMO FINAL
+================================================================================
+DBs: 89
+Trajectories únicas: 81
+No trajectorySummaries: 1
+Encontradas em ambos: 0
+DBs sem entrada no state: 81
+Entradas do state sem DB: 1
+
+================================================================================
+FIM
+================================================================================
+
+================================================================================
+RELATÓRIO SALVO:
+C:\Users\usuario\Desktop\analise3_state.txt
+================================================================================
+
+============================================
+AUDITORIA CONCLUIDA
+============================================
+
+Relatorio:
+C:\Users\usuario\Desktop\analise3_state.txt
+
+O script NAO alterou os arquivos do Antigravity.
