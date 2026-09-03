@@ -1,0 +1,1179 @@
+==============================================================================
+AUDITORIA 7.1 — SQLITE REAL + PROTOBUF + STATE.VSCDB
+==============================================================================
+Data: 2026-09-03 14:31:57
+Usuario: usuario
+Base Antigravity: C:\Users\usuario\.gemini\antigravity
+
+
+==============================================================================
+1. DETECCAO DO PYTHON
+==============================================================================
+PYTHON=C:\Users\usuario\AppData\Local\Programs\Python\Python312\python.exe
+PYTHON_VERSION=Python 3.12.4
+
+==============================================================================
+2. TESTE DO MODULO SQLITE3
+==============================================================================
+SQLITE3_OK
+SQLITE_VERSION=3.45.3
+
+==============================================================================
+3. PREPARANDO ANALISE SQLITE
+==============================================================================
+
+==============================================================================
+4. EXECUTANDO SQLITE REAL
+==============================================================================
+
+Isso pode levar alguns segundos...
+
+
+==============================================================================
+4. DATABASES
+==============================================================================
+CURRENT_CONVERSATIONS_COUNT=79
+CONVERSATIONS_MIGRADAS_COUNT=7
+BACKUP_MIGRATION_COUNT=3
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\1635d2ad-43f1-4300-88d2-4d34122b7cfc.db
+SIZE=8720384
+SHA256=63F2143F898D5ED411222F5DE6306863982275CADA960FD5E9325D6706FA3C9C
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CONVERSATIONS_MIGRADAS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations_migradas_separadas\1635d2ad-43f1-4300-88d2-4d34122b7cfc.db
+SIZE=6086656
+SHA256=E9B7376408006F6B2F6B78C34E54EF2DD169436819C4C61A160CAD199C888F42
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\028bb05f-5fdd-4d45-ab55-2666a1d952fa.db
+SIZE=57344
+SHA256=E2B10CD2473DC7A68B4B8D0519543373E704E398DDF7359B288A6F32B3730FCE
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\049b8365-c9cc-42ca-a229-a7922a08e9d0.db
+SIZE=192512
+SHA256=6F6144BE949E8525D7289B3EBE5406F4B6A12E3393F0C2B5C5B11223FB0A2DAD
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\08c49e68-7526-431a-b0c0-0050f4ecf647.db
+SIZE=86016
+SHA256=583EB64ED4B3897BD7F438275BB1D669D94EE4CD86BEF46CE68623473911338D
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\09893f72-895d-47b8-98e1-bd173b5a5769.db
+SIZE=176128
+SHA256=1FC2EE16648243722D5CEB196F51E007144B189C8762B8BF3F9D271339E77E08
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\0dfb94c5-dad4-4d5f-b5d3-514abb612031.db
+SIZE=57344
+SHA256=551A4235F44AD1C6B7EB3C43BDA9390EAD0D1B52DB09FF041FD25537CCD536AD
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\0dfd08dc-a251-4160-921d-7098d860f818.db
+SIZE=6397952
+SHA256=ED01DF3DEF84E84CB9AE18FF286F5E22C4F45A249BC44B970BC20874E15066F3
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\0ef5c7fb-7856-4dfc-8f6e-db56cdfb5435.db
+SIZE=57344
+SHA256=25C413F974DDBEC33528161BFB9193A69FD1E3CD906443C1B1C2C535ABC9A08E
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\0f0caddc-c706-4ed5-a596-46ecdd749512.db
+SIZE=49152
+SHA256=94843F4DC9C6463AEBD8806E35F2168594D1A1C89ADB8881B0BCD9F550CF3C9F
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\11714e14-f5b9-485d-a0b5-071b79f363ea.db
+SIZE=372736
+SHA256=ED0F43382E27F3CEE1D3A5E7A990C21E0DFD09967C91D8DD696A774522F3277A
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\12e93b22-6b36-4217-a6ba-cd68f4d463a7.db
+SIZE=57344
+SHA256=ED404D142DD336D403C2CCE56A803B34B30A69BE188D8C612CA064AA0B9F7446
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\17646095-68d6-4cf4-8290-ca9232bd17cf.db
+SIZE=479232
+SHA256=43FA44492D2BDE9DA498381760F9E2FC8D5B0473973C39FC2BA8530477BA8659
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\178d3fb3-9629-467e-af06-eb92b777a617.db
+SIZE=57344
+SHA256=9F0F3B0E97E51BC4BA04B24B1C3B020E4F6F5EE5BF14BEDCB294734E4E9381A1
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\1d23474b-5495-4cf3-a66c-932857094cbd.db
+SIZE=57344
+SHA256=5067D7FCBD99865ABF9E99815EA14E7774038699414092709B3DE1FCC7BE477D
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\1dff3c14-5aa5-4024-ae7a-84552507812b.db
+SIZE=135168
+SHA256=8BB5939AA1F4D843F4D924120C591022044C1129E56D7A644DF5F5E950E77553
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\20e3fc0d-5eaf-4b1b-a99f-f24ba79ff87a.db
+SIZE=57344
+SHA256=33B9DB339E35380A892C680838DF2663A069F4E8C0229A82F756A568752796B7
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\27506737-900f-4796-a1f1-6c97a8237595.db
+SIZE=57344
+SHA256=5D9857BA607A22BE8EE93F63352B52DFD86A6B17C531D23DD5F8E4FBB10E56EB
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\293a0f5a-1e48-4990-bea8-e0cfa2a3b076.db
+SIZE=1064960
+SHA256=8ABA617810FB435742ED0ABE4A8CB47899287181CC1412C22D1D8311C5716D21
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\2992f223-6aed-48b3-8b83-ff6e535a1dce.db
+SIZE=5791744
+SHA256=EB4CECC9AF70B451D10C5627771084E0E5EFB5300B74790604761A63413040EC
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\2a2e3ca7-82e4-4b96-a616-601fe58357d9.db
+SIZE=49152
+SHA256=ACE7385B31735A7D8BDD33C621D2BC47062E2952F95F75A8B8B01B4775765A68
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\2d4f4c42-57c2-428f-a588-6b29019bdbf2.db
+SIZE=110592
+SHA256=EB7F9EB71DC261E7A570D5478210B4137F865C626D162394871BCC50844C9A29
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\33cc6c37-7243-4173-ad70-20bcf473dcf1.db
+SIZE=294912
+SHA256=5254EA3FA6AABC8D8CD5907BA7D90C8CC9DA010868F4EE9A68F88869A7387CA9
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\3577ee12-97d6-4b12-90aa-c2f402efff4a.db
+SIZE=57344
+SHA256=7B484369041C916E08C6F39A2EF21F16FD2B60421392B8BA685C0AF98B739355
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\38d8df64-263c-408f-9ed2-4b596cd8b17a.db
+SIZE=57344
+SHA256=C48A9944231C86E4914D44C151BE69874DE19DEFEC834831886889B1C7E4E4F1
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\394adb27-76ce-4e0a-856f-9731ccebfaa9.db
+SIZE=94208
+SHA256=3164E6CEF125275DD3E30B1B2794DB05FDAB83B134921668A46396C494AA881F
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\3e46c188-4dfe-42ac-9fb1-581f67d3d11c.db
+SIZE=57344
+SHA256=4869FC98F3A416EC950613061ACB89B4062450A99A681EB1A03CC126310DD5CB
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\4101889e-ac77-4410-91f4-aaaca54f639d.db
+SIZE=135168
+SHA256=57401632DEE58B91F6FF33C3DE774C71FE9215E031E8CEF292E491EE61449AC7
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\44113961-752f-4c18-b987-bbc330c37343.db
+SIZE=126976
+SHA256=78DBF07A31C515D6CF3BD0AF56F07F10B0889D89614E1F0773422AAE42B09D0D
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\46e272c1-40b6-49a2-b44f-94e10dfebf17.db
+SIZE=217088
+SHA256=ECC3B62A5E53D86485264B6C7550169677C0ABFE165E8E2A10675E2EC03E9F75
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\52eeb9ec-7991-4171-83e3-aec946fa93bd.db
+SIZE=57344
+SHA256=EDEC321A22D4F787CAE71249AA11C243D881865CBE0A7664A8A92EFF1826462E
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\66ad5a3d-1543-4fac-b8e1-32d99160caf8.db
+SIZE=57344
+SHA256=8217B614AF8777EB4483E5DF96D7B5E578B7033425426976CB035543D5B9473C
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\689c0159-68b4-4388-8ad5-fafacb873321.db
+SIZE=1175552
+SHA256=107B97C9ADD86510AEA1EF103B59A7419D776BA82137662900075DBA0FE1FCEA
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\6c27f2bf-2aac-478e-82ea-30b63e00aeeb.db
+SIZE=57344
+SHA256=5EDAC364E26E673593AC0F894BBF57AEBF8F772430DF957F1D42C521F01B8210
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\75209559-1dee-4a32-8031-d80097b97bf6.db
+SIZE=69632
+SHA256=074DA3ABE7BA9C004EF8CA07A34A9CA0C734E2105358B0FC350514811789CC6F
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\7a39ff7f-11b9-44de-960d-3de171d93313.db
+SIZE=57344
+SHA256=3B47D144B98B3C91F4A3B140C60E6453698DFDB67952DF833A8DE02872F51CC9
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\7c80c4a7-bc0a-4a3a-933d-1891dded16d8.db
+SIZE=57344
+SHA256=241E4A9F75CCB17E34C1B4ECBCA826868B4D7041A7A002D871332CE19E6FEF74
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\7f1ac345-6c2e-4bea-99df-40c56fbc7f47.db
+SIZE=5263360
+SHA256=BC81FFC424486BC468E4E53CFE4F50F4C18C172F2738491F05E65DFD30709E41
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\8421071a-355e-486a-ad36-74e81aff8104.db
+SIZE=196608
+SHA256=122BEF6692016077F9F03E87CD0A0A21B65749BF972F8E14207FE13A9FAAFD6C
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\8eee2561-bb4f-4794-936e-49e1d246a298.db
+SIZE=61440
+SHA256=A3D44203CC5F8991C7B9B497B68896D348730870C0F495A13F12AA941892A7FD
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\8f9fdd77-caf6-486e-8b3b-281d0bddb00c.db
+SIZE=57344
+SHA256=0291287CA4ADB563B0D8E971BA08CF860DD21E47C97C3C9D0BC8AFCF264505D5
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\911306bc-5d91-4452-8665-cc78dd598dae.db
+SIZE=266240
+SHA256=A8E0977C2C5524A8B8A2BD3EC897AADA9F5E08B42FBC474C9F15A2AC9C18BE93
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\95c60e1c-c32b-4cbe-8015-e0525b26cea6.db
+SIZE=675840
+SHA256=3FCAF3CF9DB056C326397D21DEA38304EFEE609D9915F775637AD9A4A9B2F4A4
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\9a49858f-ce5f-4345-9f2b-40e41850e987.db
+SIZE=57344
+SHA256=7DF47C4FAB992DF1994A21DC3C6B3311179A68A7AA3C78D3B1677B48E2A94C37
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\9ab11487-0a5c-40ec-849e-d6a49f7594af.db
+SIZE=102400
+SHA256=16D1C5273095D32EF73359C18ED9FEDB0EC27CE82D824C22DB7BA0A85FFF267C
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\9cd7f3e7-1ef6-40c4-9967-a387059dde1a.db
+SIZE=102400
+SHA256=5A2D6C510835F02466A375296163DB6CC74FEB3269CECE421BFCC1D981178390
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\9eba16f3-be86-44e4-aed0-d2b08dafe1d6.db
+SIZE=57344
+SHA256=D5B5510CBE0F58B807559A0ECFCB10F60F98CEE4F7EF260B811CFD6FBFBEF362
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\a2b4fead-a3d2-47ae-bb60-03e685371f62.db
+SIZE=110592
+SHA256=9D10ACFD53A9E583FE8FDFFCECDE8F948C37F960217569CB0E74EC7A60048ADF
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\a5afce61-7753-4822-a844-71e17ad2c8af.db
+SIZE=57344
+SHA256=FE94EFEA685D703689E73C6B43D047EA9EE79EECCB378CCC0CC9EAB2DD671073
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\aab1ca54-3c8d-484d-a0c5-1d3354b51f9d.db
+SIZE=376832
+SHA256=429307D69BAA2F9220D3D049E67E18C6DF615A44DCEEB7E6C2934B1A4D51231F
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\ae88c814-5973-45da-980e-a966ff9c0061.db
+SIZE=176128
+SHA256=6B1A081CDFE70D5A0774FCFB4B4F0F03E8EF4EEE068533F4B79B5AD5DBBFF9C3
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\b36720da-2a28-4cf3-a625-232c3e23c150.db
+SIZE=69632
+SHA256=3FDF4DB67D0A0C6D46929964CE904614BAFC628D4D3898A2826827DFD9A8B921
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\b6ada397-8c60-4234-857f-b3faec45ba38.db
+SIZE=57344
+SHA256=114B6BE279B1DB9C01B5479F3B485DFBE044BEFFF98FB8DE71D7CCC119EA1DC9
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\ba8e22fb-b3dc-4aaf-9c5f-528ee3df7ecc.db
+SIZE=323584
+SHA256=9D3351F8C73FFE705A418D86A98331AC056B5A04C57528FA599105158AE4317A
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\bcf392b0-9e68-486f-8d90-f729ad9e55d1.db
+SIZE=167936
+SHA256=49926F6B0382D87D951037271F8282776CD712B0DE75DD631E3EDC48FE88FC08
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\c125fdc1-519f-4bab-a2cf-46f6837deb27.db
+SIZE=57344
+SHA256=2CBC9A90C52479156ED1EDE5C37245045139987CED2A40FC9448DF6BCF74E279
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\c8203d6f-b7ed-4f3a-bad3-2a435d4c36a0.db
+SIZE=57344
+SHA256=D1FC52E8657626466C9F6C10D63439A3F89813711BDB58156CCF3FB2D3679787
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\c97edbd6-4d0d-4353-b7ba-9266cc49c879.db
+SIZE=307200
+SHA256=5CC08C7AD6B3DBDA7A29EA876B0747588DBF6C7E261793A937E9C5FAAA47872C
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\cb3834a9-7acd-44a9-95eb-cdcb799fa8dc.db
+SIZE=77824
+SHA256=7DE3510C870520D72EC03A90A1BFC95E54B8CBB727635D85466AB598F6FED34C
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\ce3b2cfe-5e90-482c-880b-a17b9af5b89f.db
+SIZE=57344
+SHA256=EDDBD573166855584A9E12ED3537A40E5D0C64C8594BFCB418E36F33B0999178
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\db04872d-1616-4b9c-b045-805006a768b1.db
+SIZE=233472
+SHA256=327FED18F5C4B1E5BE8193A4B66ACB25BD4F9A3A186ADD2C64B8893B975B214E
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\db4bb1ed-8e13-4895-a92d-cae0b39180c2.db
+SIZE=57344
+SHA256=AFC97B3F5A23312C0D72E2B00FE86E6BE85AD67F14FC3273540D5552956859DC
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\dc5d624c-b3f3-4ac7-ab3c-3c98152a45c6.db
+SIZE=57344
+SHA256=84C0289C60E5A48481690D94FFD2245A0F6CFBF10F423A22E7B1F6FD05EE9674
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\dcc1ef42-2801-4c06-924b-03e57600601a.db
+SIZE=77824
+SHA256=41D2080FF6C3AF82F85602E977E0373D05B87D72E5CF84EAD068F987E465CD4A
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\ddb820be-120e-4f6d-8666-a72ad9077981.db
+SIZE=57344
+SHA256=4E3044AC8931DA5F62522E6DED1A1E37014AF81F2A2B2D24BD7BAD7495C9223F
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\e14b8548-ca4a-41a1-9efc-bd7ea6e2f436.db
+SIZE=118784
+SHA256=B35E1A2983F934F39A8B11E06739885EAF24AAB5CAE0AC7BE2FBA49559CB062E
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\e3af8518-2344-4d36-b1c4-583d64645d4c.db
+SIZE=786432
+SHA256=7FEA4E7319D2834510F632A3218784E5749D1B6F82648CC46B63822F3A5DA5D7
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\e78faea2-ce98-4ac0-aab8-0fa314c27acd.db
+SIZE=102400
+SHA256=563B95C54C454D59B1642A7E8366A2532F83FE37F96D757BAB6A50AF747DD216
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\e892189f-e664-4ba7-a7a2-3f13a5e0b723.db
+SIZE=69632
+SHA256=B9E3A3F6B733381B6F7C9D77A754099C927D1309C318FFF786059E7C28371941
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\ea8cfb53-2578-4582-8799-6f95a63216a2.db
+SIZE=57344
+SHA256=41D102191D1C540461E7AE5ADF2DB5B635A94908156C5458DB6BA16D76396534
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\ebadd804-1572-4a8c-9ef2-714b2ae0d68d.db
+SIZE=57344
+SHA256=984E56BE4E10C44B3A8D8AADB98D99852BBFD885150356765873AE07EFAEAD53
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\ebe340cd-cc27-41f9-8559-fbef88b255c3.db
+SIZE=57344
+SHA256=43E3A67853776D4083180119296027E7520EAAE6C9D44A3F69C47C7432CA427F
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\efd2084c-d89b-4099-85f7-d98b4a941d37.db
+SIZE=57344
+SHA256=A1DBC0BC6FCFCCE7C8E555F4AB711FA3C41449F94E90050C69B7D1E111395B73
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\f07d81c0-a6f6-4fdc-ab18-fe9827df09a7.db
+SIZE=249856
+SHA256=AD6565EE0F4A105083651141C3A5B4398BE5A496982B67D038D4025F8A38FEE0
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\f2f5fa1a-3d5f-4410-9473-6dffd0853d5a.db
+SIZE=233472
+SHA256=AA766DA2AAB94815A845BC6164C04FC229367F772FF11E31E54AEBEC7F6BF00D
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\f420524e-5296-4d94-9e50-a16c145ab0a5.db
+SIZE=217088
+SHA256=C06D68FB2E93C9774D58C05278E2C2197B2160D2B9A0BEF746F69D05655AD0CC
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\f7ebf566-fe91-4f0c-9d1e-3d25c3a75efa.db
+SIZE=167936
+SHA256=73F623F1E27F1904E23712F3DBB82A2FCC42C47343E5445C13EFE75DAF988001
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\f8c0c8ae-c29a-4544-876f-ba39a2f8c6ca.db
+SIZE=651264
+SHA256=0FE8F38888DB8CB357EB397176B091371F6FBA4A3029CAE4BC50B34F30089AB5
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\fa090ae4-be73-4c36-ba42-512a729847eb.db
+SIZE=135168
+SHA256=9213882DAAF06CDA2ABB02E9651508DA20AFB7C0093C7722D7623D3E5521A717
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CURRENT_CONVERSATIONS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations\fd457f42-c2e1-481f-af7d-69a3164102eb.db
+SIZE=233472
+SHA256=8E18021529CE6652760AB29B1303324389FAAF02CD081C8193E5083B9D1127B7
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CONVERSATIONS_MIGRADAS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations_migradas_separadas\0dfd08dc-a251-4160-921d-7098d860f818.db
+SIZE=6397952
+SHA256=231B169CEC0320FEA78B680D7CD762475CD55A9F7C56B849896CEB3EDAE2EA12
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CONVERSATIONS_MIGRADAS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations_migradas_separadas\293a0f5a-1e48-4990-bea8-e0cfa2a3b076.db
+SIZE=1064960
+SHA256=D3835461A31B463C1D9E7F894997B4939AC3A91CA2900766B0B4874C556CA2CC
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CONVERSATIONS_MIGRADAS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations_migradas_separadas\2992f223-6aed-48b3-8b83-ff6e535a1dce.db
+SIZE=5791744
+SHA256=0690778B5D09CDE2BD19E40BE3629AD60C1623012821B74651AD656F933F0871
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CONVERSATIONS_MIGRADAS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations_migradas_separadas\33cc6c37-7243-4173-ad70-20bcf473dcf1.db
+SIZE=294912
+SHA256=1F645AF65A1861FF4F2BB513B61868D758334ED4363F5BBF0DCF4B90470FBAB7
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CONVERSATIONS_MIGRADAS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations_migradas_separadas\689c0159-68b4-4388-8ad5-fafacb873321.db
+SIZE=1175552
+SHA256=DD5916280A40AEE00599DCF7F10DBFF5C55968CE568B4D2C440F52A0B5DC6A44
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — CONVERSATIONS_MIGRADAS
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\conversations_migradas_separadas\e3af8518-2344-4d36-b1c4-583d64645d4c.db
+SIZE=786432
+SHA256=4AAAF8B920B7580644A8E50A897A2F327223F3D44CF3D6A4893AC6B43947B14D
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — BACKUP_MIGRATION
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\backup_migration_20260903_042737\0dfd08dc-a251-4160-921d-7098d860f818.db
+SIZE=6397952
+SHA256=06DAEE8BD56EB22DF3FA29650B264EAB00D88D5F60B80DF6B20E80461587A0B5
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — BACKUP_MIGRATION
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\backup_migration_20260903_042737\2992f223-6aed-48b3-8b83-ff6e535a1dce.db
+SIZE=5791744
+SHA256=742FA594E0357564F2598CB62D7CA6F365EEAD9775ED91B7616929D05C803EE5
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+DATABASE — BACKUP_MIGRATION
+==============================================================================
+FILE=C:\Users\usuario/.gemini/antigravity\backup_migration_20260903_042737\b9a2da1f-43b2-49db-a983-6b93d78b755c.db
+SIZE=196608
+SHA256=1940BFFC2A0E23DA1B5F88EA1BE41B9CDF4601BCE2A3D661A66C2350CDB470F6
+TABLE_COUNT=7
+SQLITE_ANALYSIS_ERROR=TypeError('sequence item 0: expected str instance, bytes found')
+
+==============================================================================
+5. STATE.VSCDB
+==============================================================================
+FILE=C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\globalStorage\state.vscdb
+STATE_EXISTS=YES
+STATE_SIZE=397312
+STATE_SHA256=1D38295E6048992C900AEDE90919191FBA2E54C85FC548AF7DADF038A3795EE2
+STATE_TABLES=[b'ItemTable']
+
+TABLE=b'ItemTable'
+COLUMNS:
+ROW_COUNT=None
+SAMPLE_ERROR=OperationalError("no such table: b'ItemTable'")
+
+==============================================================================
+6. PROTOBUF — FILE METADATA
+==============================================================================
+
+CURRENT_PB
+EXISTS=YES
+SIZE=14718
+SHA256=27EC174E2E697529C06AD02FE7D8ED698D2069C899F87D3D6537E2A870AEF42A
+RAW_BYTES=14718
+UUIDS_TEXT_SCAN=126
+UUID=009159b0-84ff-494d-9bc7-c4c8c2332c8e
+UUID=018b10dd-9fae-4404-b3a4-45efaa9f86ef
+UUID=028bb05f-5fdd-4d45-ab55-2666a1d952fa
+UUID=04806721-f006-4665-8e00-9a031ee132a1
+UUID=049b8365-c9cc-42ca-a229-a7922a08e9d0
+UUID=07d87ef9-6727-4b8f-a679-2d72f3ec0fc4
+UUID=08c0fb19-3440-47b0-b5d1-d562ffe92cf9
+UUID=09ee377d-3aa7-421f-b4a9-09cea7e4105b
+UUID=0a1541e8-c44e-4252-bcf9-e550fb17f0cf
+UUID=0dfb94c5-dad4-4d5f-b5d3-514abb612031
+UUID=0dfd08dc-a251-4160-921d-7098d860f818
+UUID=0ef5c7fb-7856-4dfc-8f6e-db56cdfb5435
+UUID=0f0caddc-c706-4ed5-a596-46ecdd749512
+UUID=1120d8ba-6ce8-4eb0-89b4-00632e043ecd
+UUID=128d25aa-943b-4c32-9428-10018f11e974
+UUID=12e93b22-6b36-4217-a6ba-cd68f4d463a7
+UUID=13b17ecc-4c42-46c2-acb5-a8a894b071b4
+UUID=1469933b-5db5-4364-967f-104705ba955d
+UUID=1635d2ad-43f1-4300-88d2-4d34122b7cfc
+UUID=178d3fb3-9629-467e-af06-eb92b777a617
+UUID=18a6097f-dea2-460c-98a8-37e285677537
+UUID=1930f03c-e72c-4154-afe8-7e37d13351ab
+UUID=1d23474b-5495-4cf3-a66c-932857094cbd
+UUID=20e3fc0d-5eaf-4b1b-a99f-f24ba79ff87a
+UUID=223e97b9-506b-41e9-8066-b0a88434ef8d
+UUID=24bd0dd4-b62c-4229-98b7-5d8a36805183
+UUID=2665e7a1-b135-41fb-b963-3cd679bd0aa1
+UUID=2992f223-6aed-48b3-8b83-ff6e535a1dce
+UUID=2a2e3ca7-82e4-4b96-a616-601fe58357d9
+UUID=2a9e33ae-0e86-460d-8572-530a4aa30bd1
+UUID=2d4f4c42-57c2-428f-a588-6b29019bdbf2
+UUID=2e5c4d95-8ee7-4e95-a07b-da4144d08245
+UUID=2e63e1a2-14b1-48db-b957-c844131084a4
+UUID=33cc6c37-7243-4173-ad70-20bcf473dcf1
+UUID=3577ee12-97d6-4b12-90aa-c2f402efff4a
+UUID=38d8df64-263c-408f-9ed2-4b596cd8b17a
+UUID=38ff777f-d6b1-4323-918d-14259a8bbe7a
+UUID=394adb27-76ce-4e0a-856f-9731ccebfaa9
+UUID=3ae91276-83b8-4124-b99b-1942fa99c727
+UUID=3c6b7ceb-499c-45a3-9211-0b2c11699494
+UUID=3c79c87a-27d9-43a9-b692-1b1f417af7be
+UUID=3e46c188-4dfe-42ac-9fb1-581f67d3d11c
+UUID=44113961-752f-4c18-b987-bbc330c37343
+UUID=44657b22-17d2-4f88-beeb-5e2a21992d5b
+UUID=46e272c1-40b6-49a2-b44f-94e10dfebf17
+UUID=472072f9-33d2-44a2-a048-a0dad2a95897
+UUID=4a3a1c77-4cbc-43e5-a6e7-346b25131918
+UUID=4bd5a429-e343-4b22-ad21-d4cd0a3accef
+UUID=5049b5cb-4f3c-465b-b0bb-e2bffe135549
+UUID=52eeb9ec-7991-4171-83e3-aec946fa93bd
+UUID=5326939e-567b-49cd-803e-a04f5c766846
+UUID=538d90ac-6260-4718-8301-d8c9c4222661
+UUID=5cd248e8-ef94-4399-bff7-22f89238b3b2
+UUID=5f3a54f1-dfcf-4da6-b7eb-8e41dc5e50e1
+UUID=6145dc8f-e295-4e73-b99a-3360857c5768
+UUID=645a2d4e-1472-436c-be1d-df75e2aced8f
+UUID=66fd4aa1-25f7-4863-ac25-e33dda640d58
+UUID=6724c714-82d7-410f-b797-c9b6b26501ea
+UUID=676153bc-1d25-43df-b385-5f2c4b2ff9c9
+UUID=6a3ea2bd-9a6c-4063-b8df-2408e914d37f
+UUID=6bbc054f-fecb-4c49-a1f1-75a9c3e6948a
+UUID=6c27f2bf-2aac-478e-82ea-30b63e00aeeb
+UUID=6c290734-c8ef-4258-ac35-d5572912176a
+UUID=6c584bd5-1f03-4c65-8716-94621eede571
+UUID=718617ee-ad4f-4959-9f53-4a4644176616
+UUID=762265e7-9a12-43a6-a9f6-639f65285960
+UUID=78416862-e2a3-484d-96ce-aeb7709eb6d0
+UUID=79e5d0c0-a385-4cc4-9676-210afb9376f2
+UUID=79ff83df-cefc-4aa1-8b5d-ce2156782a60
+UUID=7a39ff7f-11b9-44de-960d-3de171d93313
+UUID=7c80c4a7-bc0a-4a3a-933d-1891dded16d8
+UUID=7f1ac345-6c2e-4bea-99df-40c56fbc7f47
+UUID=80886d7d-e7ec-4484-8802-5e47036d87f7
+UUID=815c2376-a391-4efb-b5f7-30aa8997f681
+UUID=8164acc9-1c62-4db7-8b20-5247b3eca556
+UUID=8421071a-355e-486a-ad36-74e81aff8104
+UUID=865b1168-2b28-43e7-bfd3-72903ca085cc
+UUID=8698bd3f-ac09-4c67-a6f1-4d3c83b4426a
+UUID=8c2bf13d-4fd5-4e4a-95dc-ebf9c11545f9
+UUID=8eee2561-bb4f-4794-936e-49e1d246a298
+UUID=90db9dba-9b41-4867-a06b-cbb3c623141a
+UUID=90e95f17-267d-49a5-adff-585ceaa5f00e
+UUID=957ffe0b-8bc4-4e04-8b51-039acec7c57b
+UUID=9a49858f-ce5f-4345-9f2b-40e41850e987
+UUID=9d9e3451-d5ed-49c3-b810-4f017f9f1291
+UUID=9eba16f3-be86-44e4-aed0-d2b08dafe1d6
+UUID=a4a7439d-a698-48da-a18f-3d756473bb49
+UUID=a5afce61-7753-4822-a844-71e17ad2c8af
+UUID=a5e69ced-07f8-4a16-b864-753f4ea0b056
+UUID=aab1ca54-3c8d-484d-a0c5-1d3354b51f9d
+UUID=adc9691f-7d16-4b1c-8b82-d718a7d268fa
+UUID=ae7dd077-44f7-481e-a017-ba0fe7ad5667
+UUID=b13afa82-8a2d-45a2-9e9e-d7fc17009e1c
+UUID=b6ada397-8c60-4234-857f-b3faec45ba38
+UUID=b6d4431b-c73e-406a-9b52-90203c67f446
+UUID=b6fcc2ea-10f7-4edd-bdc8-bfc8bc7403c6
+UUID=beb2d9f2-4022-4c09-a75a-c060b350a202
+UUID=c082c684-8f7b-49b3-acf1-9bb597d6e521
+UUID=c125fdc1-519f-4bab-a2cf-46f6837deb27
+UUID=c30fd6f3-d177-4b4c-8ef1-489cf3b61d3f
+UUID=c697a44d-a88d-47d2-80ea-7326d1dcdff3
+UUID=c751dd9e-6705-4e9b-b4e6-2711f101262f
+UUID=c8203d6f-b7ed-4f3a-bad3-2a435d4c36a0
+UUID=c89f52dd-47a4-4178-9437-2f422ee32952
+UUID=c9fa6fa4-c7c9-4b42-9f81-07de5ebbafae
+UUID=cd0f64f6-e643-41b9-970b-a4e666fff237
+UUID=ce3b2cfe-5e90-482c-880b-a17b9af5b89f
+UUID=cecdd1ad-b169-47e0-8c85-eb17f2f8057e
+UUID=d680c2d4-3130-4fa5-a204-0baac37a0826
+UUID=d90e8043-6882-4cd7-8973-ba81a803c327
+UUID=da0f3a0e-ab21-455e-902f-51b6078e3f6e
+UUID=db4bb1ed-8e13-4895-a92d-cae0b39180c2
+UUID=dc5d624c-b3f3-4ac7-ab3c-3c98152a45c6
+UUID=dcc1ef42-2801-4c06-924b-03e57600601a
+UUID=ea8cfb53-2578-4582-8799-6f95a63216a2
+UUID=ebadd804-1572-4a8c-9ef2-714b2ae0d68d
+UUID=ebe340cd-cc27-41f9-8559-fbef88b255c3
+UUID=ed88444f-d296-496a-ab71-2869f404ae36
+UUID=ee8b050b-e89d-4a62-b202-754ba9468393
+UUID=efc7c124-fad0-41e8-a5ff-ca4e669b01f6
+UUID=efd2084c-d89b-4099-85f7-d98b4a941d37
+UUID=f2a16c04-f7a2-40b5-acb4-12b517bd470b
+UUID=f65bbab8-fbe3-4c8c-9534-3a751ae5a966
+UUID=f89e146d-b131-4cc9-a9ea-85e94029f162
+UUID=f8c0c8ae-c29a-4544-876f-ba39a2f8c6ca
+UUID=f990f755-b4dd-4a75-ad95-fd9856346279
+
+BACKUP_PB
+EXISTS=YES
+SIZE=16876
+SHA256=88EBF9AE728A90C077DFD29942C00A24D6DD81A2D1F2ECCD8D39A39D5D44A445
+RAW_BYTES=16876
+UUIDS_TEXT_SCAN=136
+UUID=009159b0-84ff-494d-9bc7-c4c8c2332c8e
+UUID=018b10dd-9fae-4404-b3a4-45efaa9f86ef
+UUID=028bb05f-5fdd-4d45-ab55-2666a1d952fa
+UUID=04806721-f006-4665-8e00-9a031ee132a1
+UUID=049b8365-c9cc-42ca-a229-a7922a08e9d0
+UUID=07d87ef9-6727-4b8f-a679-2d72f3ec0fc4
+UUID=08c0fb19-3440-47b0-b5d1-d562ffe92cf9
+UUID=09ee377d-3aa7-421f-b4a9-09cea7e4105b
+UUID=0a1541e8-c44e-4252-bcf9-e550fb17f0cf
+UUID=0dfb94c5-dad4-4d5f-b5d3-514abb612031
+UUID=0dfd08dc-a251-4160-921d-7098d860f818
+UUID=0ef5c7fb-7856-4dfc-8f6e-db56cdfb5435
+UUID=0f0caddc-c706-4ed5-a596-46ecdd749512
+UUID=1120d8ba-6ce8-4eb0-89b4-00632e043ecd
+UUID=128d25aa-943b-4c32-9428-10018f11e974
+UUID=12e93b22-6b36-4217-a6ba-cd68f4d463a7
+UUID=13b17ecc-4c42-46c2-acb5-a8a894b071b4
+UUID=1469933b-5db5-4364-967f-104705ba955d
+UUID=14b196be-fa6c-4d1a-8b68-d6c8384b629e
+UUID=1635d2ad-43f1-4300-88d2-4d34122b7cfc
+UUID=178d3fb3-9629-467e-af06-eb92b777a617
+UUID=18a6097f-dea2-460c-98a8-37e285677537
+UUID=1944ac21-f7a3-4809-b78e-ddca13f05b28
+UUID=1d23474b-5495-4cf3-a66c-932857094cbd
+UUID=20e3fc0d-5eaf-4b1b-a99f-f24ba79ff87a
+UUID=223e97b9-506b-41e9-8066-b0a88434ef8d
+UUID=24bd0dd4-b62c-4229-98b7-5d8a36805183
+UUID=25dc0a94-0fe4-48f1-acb1-596304f2ff08
+UUID=2665e7a1-b135-41fb-b963-3cd679bd0aa1
+UUID=27762c63-c5d4-4e58-bcd7-eaab88e80b14
+UUID=2992f223-6aed-48b3-8b83-ff6e535a1dce
+UUID=2a2e3ca7-82e4-4b96-a616-601fe58357d9
+UUID=2d4f4c42-57c2-428f-a588-6b29019bdbf2
+UUID=2d9f1d61-2d4b-4cea-abac-b8cfc3d7920c
+UUID=2e5c4d95-8ee7-4e95-a07b-da4144d08245
+UUID=2e63e1a2-14b1-48db-b957-c844131084a4
+UUID=3577ee12-97d6-4b12-90aa-c2f402efff4a
+UUID=38d8df64-263c-408f-9ed2-4b596cd8b17a
+UUID=38ff777f-d6b1-4323-918d-14259a8bbe7a
+UUID=394adb27-76ce-4e0a-856f-9731ccebfaa9
+UUID=3ae91276-83b8-4124-b99b-1942fa99c727
+UUID=3c6b7ceb-499c-45a3-9211-0b2c11699494
+UUID=3c79c87a-27d9-43a9-b692-1b1f417af7be
+UUID=3e46c188-4dfe-42ac-9fb1-581f67d3d11c
+UUID=44113961-752f-4c18-b987-bbc330c37343
+UUID=44657b22-17d2-4f88-beeb-5e2a21992d5b
+UUID=46e272c1-40b6-49a2-b44f-94e10dfebf17
+UUID=472072f9-33d2-44a2-a048-a0dad2a95897
+UUID=4a3a1c77-4cbc-43e5-a6e7-346b25131918
+UUID=4bd5a429-e343-4b22-ad21-d4cd0a3accef
+UUID=4c2a8d5a-d850-42ae-9799-741271ede221
+UUID=4e0c6008-5f34-4170-8f63-b4f09dabaf9c
+UUID=5049b5cb-4f3c-465b-b0bb-e2bffe135549
+UUID=52eeb9ec-7991-4171-83e3-aec946fa93bd
+UUID=5326939e-567b-49cd-803e-a04f5c766846
+UUID=538d90ac-6260-4718-8301-d8c9c4222661
+UUID=54af5c5e-eef2-4070-a459-3d851aef6d1e
+UUID=5cd248e8-ef94-4399-bff7-22f89238b3b2
+UUID=5dc85201-0bca-4da8-9c1d-60b64d4e6a88
+UUID=5f3a54f1-dfcf-4da6-b7eb-8e41dc5e50e1
+UUID=5fd9a862-a945-4b33-ac35-2a1cba94e971
+UUID=6145dc8f-e295-4e73-b99a-3360857c5768
+UUID=645a2d4e-1472-436c-be1d-df75e2aced8f
+UUID=652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+UUID=66fd4aa1-25f7-4863-ac25-e33dda640d58
+UUID=6724c714-82d7-410f-b797-c9b6b26501ea
+UUID=676153bc-1d25-43df-b385-5f2c4b2ff9c9
+UUID=692c2e47-296a-4e9e-b6b3-0e90534f295f
+UUID=6bbc054f-fecb-4c49-a1f1-75a9c3e6948a
+UUID=6c27f2bf-2aac-478e-82ea-30b63e00aeeb
+UUID=6db8b33c-80b1-46a1-85be-8c8eb3b0b5f2
+UUID=718617ee-ad4f-4959-9f53-4a4644176616
+UUID=73eac944-70d1-45e5-8ea4-9ce83f3cafaa
+UUID=79e5d0c0-a385-4cc4-9676-210afb9376f2
+UUID=79ff83df-cefc-4aa1-8b5d-ce2156782a60
+UUID=7a39ff7f-11b9-44de-960d-3de171d93313
+UUID=7c80c4a7-bc0a-4a3a-933d-1891dded16d8
+UUID=7ebbfac8-fac3-4781-89d0-110251a37981
+UUID=80886d7d-e7ec-4484-8802-5e47036d87f7
+UUID=815c2376-a391-4efb-b5f7-30aa8997f681
+UUID=8164acc9-1c62-4db7-8b20-5247b3eca556
+UUID=8421071a-355e-486a-ad36-74e81aff8104
+UUID=865b1168-2b28-43e7-bfd3-72903ca085cc
+UUID=8698bd3f-ac09-4c67-a6f1-4d3c83b4426a
+UUID=8c2bf13d-4fd5-4e4a-95dc-ebf9c11545f9
+UUID=8eee2561-bb4f-4794-936e-49e1d246a298
+UUID=90db9dba-9b41-4867-a06b-cbb3c623141a
+UUID=90e95f17-267d-49a5-adff-585ceaa5f00e
+UUID=9195a3f9-f0df-4670-9b00-d02ccfab21a6
+UUID=957ffe0b-8bc4-4e04-8b51-039acec7c57b
+UUID=9600bf7f-cda7-4ee5-bac9-a30b36982a0e
+UUID=9a49858f-ce5f-4345-9f2b-40e41850e987
+UUID=9d9e3451-d5ed-49c3-b810-4f017f9f1291
+UUID=9e96c4fc-9f40-4d9d-a81a-1723f84d4f18
+UUID=9eba16f3-be86-44e4-aed0-d2b08dafe1d6
+UUID=a4a7439d-a698-48da-a18f-3d756473bb49
+UUID=a5afce61-7753-4822-a844-71e17ad2c8af
+UUID=a5e69ced-07f8-4a16-b864-753f4ea0b056
+UUID=a7337196-4d7e-4750-8550-953371a8c23f
+UUID=aab1ca54-3c8d-484d-a0c5-1d3354b51f9d
+UUID=adc9691f-7d16-4b1c-8b82-d718a7d268fa
+UUID=ae7dd077-44f7-481e-a017-ba0fe7ad5667
+UUID=b13afa82-8a2d-45a2-9e9e-d7fc17009e1c
+UUID=b6ada397-8c60-4234-857f-b3faec45ba38
+UUID=b6fcc2ea-10f7-4edd-bdc8-bfc8bc7403c6
+UUID=bc745751-0cef-4c5e-8d13-56ae53a91c56
+UUID=beb2d9f2-4022-4c09-a75a-c060b350a202
+UUID=c082c684-8f7b-49b3-acf1-9bb597d6e521
+UUID=c125fdc1-519f-4bab-a2cf-46f6837deb27
+UUID=c30fd6f3-d177-4b4c-8ef1-489cf3b61d3f
+UUID=c697a44d-a88d-47d2-80ea-7326d1dcdff3
+UUID=c751dd9e-6705-4e9b-b4e6-2711f101262f
+UUID=c8203d6f-b7ed-4f3a-bad3-2a435d4c36a0
+UUID=c89f52dd-47a4-4178-9437-2f422ee32952
+UUID=c9fa6fa4-c7c9-4b42-9f81-07de5ebbafae
+UUID=cd0f64f6-e643-41b9-970b-a4e666fff237
+UUID=ce3b2cfe-5e90-482c-880b-a17b9af5b89f
+UUID=d798c690-c640-48c1-a472-fe024dbc20b6
+UUID=d90e8043-6882-4cd7-8973-ba81a803c327
+UUID=d96bd448-405d-46e3-9dfd-827560cbb3d1
+UUID=da0f3a0e-ab21-455e-902f-51b6078e3f6e
+UUID=db4bb1ed-8e13-4895-a92d-cae0b39180c2
+UUID=dc5d624c-b3f3-4ac7-ab3c-3c98152a45c6
+UUID=dcc1ef42-2801-4c06-924b-03e57600601a
+UUID=e36851f2-c837-4fa2-a8b3-81deafde0da0
+UUID=ea8cfb53-2578-4582-8799-6f95a63216a2
+UUID=ebadd804-1572-4a8c-9ef2-714b2ae0d68d
+UUID=ebe340cd-cc27-41f9-8559-fbef88b255c3
+UUID=ed88444f-d296-496a-ab71-2869f404ae36
+UUID=ee8b050b-e89d-4a62-b202-754ba9468393
+UUID=efc7c124-fad0-41e8-a5ff-ca4e669b01f6
+UUID=efd2084c-d89b-4099-85f7-d98b4a941d37
+UUID=f65bbab8-fbe3-4c8c-9534-3a751ae5a966
+UUID=f89e146d-b131-4cc9-a9ea-85e94029f162
+UUID=f8c0c8ae-c29a-4544-876f-ba39a2f8c6ca
+UUID=f990f755-b4dd-4a75-ad95-fd9856346279
+
+==============================================================================
+7. CONCLUSAO DA AUDITORIA 7.1
+==============================================================================
+Esta auditoria foi SOMENTE LEITURA.
+Nenhum arquivo foi modificado.
+O objetivo foi obter o schema SQLite REAL, os valores reais de trajectory/cascade, contagem de steps e o conteudo de state.vscdb.
+NAO EXECUTAR RESTAURACAO COM BASE NESTE RELATORIO.
+A restauracao somente sera considerada depois do cruzamento DB <-> PB <-> STATE.VSCDB.
+
+PYTHON_REPORT_DONE
+
+==============================================================================
+5. RESULTADO SQLITE REAL
+==============================================================================
+
+==============================================================================
+6. MARCADORES PARA A PROXIMA ANALISE
+==============================================================================
+TARGET=1635d2ad-43f1-4300-88d2-4d34122b7cfc
+
+IMPORTANTE:
+O relatorio deve conter pelo menos:
+
+  TARGET_STEPS_COUNT=
+  TARGET_TRAJECTORY_META_ROWS=
+  TARGET_TRAJECTORY_METADATA_BLOB_ROWS=
+  TARGET_GEN_METADATA_ROWS=
+  STATE_TABLES=
+  STATE_RELEVANT_ROW=
+
+Nao modificar state.vscdb.
+Nao substituir PB.
+Nao substituir DB.
+Nao executar qualquer rotina de recovery.
+
+===============================================================
+AUDITORIA 7.1 CONCLUIDA
+===============================================================
+
+RELATORIO:
+C:\Users\usuario\Desktop\AUDITORIA7_1_ANTIGRAVITY.txt
+
+Tambem foi gerado:
+C:\Users\usuario\Desktop\AUDITORIA7_1_PYTHON_RAW.txt
+
+NAO ALTERAMOS NENHUM ARQUIVO DO ANTIGRAVITY.
