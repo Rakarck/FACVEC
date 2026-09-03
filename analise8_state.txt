@@ -1,0 +1,2282 @@
+==============================================================================
+AUDIT 8 — RECONSTRUÇÃO DO ÍNDICE DE CONVERSAS
+==============================================================================
+Data: 2026-09-03 14:41:14
+Usuário Windows: usuario
+HOME: C:\Users\usuario
+Antigravity: C:\Users\usuario\.gemini\antigravity
+
+MODO: SOMENTE LEITURA
+Nenhum arquivo do Antigravity será modificado.
+
+==============================================================================
+1. GOLDEN SAMPLE
+==============================================================================
+Cascade ID:
+  1635d2ad-43f1-4300-88d2-4d34122b7cfc
+
+Trajectory IDs conhecidas:
+  d680c2d4-3130-4fa5-a204-0baac37a0826
+  652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+==============================================================================
+2. ESTRUTURA DO .GEMINI
+==============================================================================
+Diretório encontrado.
+
+Itens principais:
+  [DIR ] annotations
+  [DIR ] backup_conversas_pb
+  [DIR ] backup_migration_20260903_042737
+  [DIR ] bin
+  [DIR ] brain
+  [DIR ] browser_recordings
+  [DIR ] builtin
+  [DIR ] code_tracker
+  [DIR ] context_state
+  [DIR ] conversations
+  [DIR ] conversations_migradas_separadas
+  [DIR ] crashes
+  [DIR ] html_artifacts
+  [DIR ] implicit
+  [DIR ] knowledge
+  [DIR ] mcp
+  [DIR ] playground
+  [DIR ] prompting
+  [DIR ] scratch
+  [FILE] agyhub_summaries_proto.pb | 14718 bytes
+  [FILE] agyhub_summaries_proto.pb.bak | 16876 bytes
+  [FILE] antigravity_state.pbtxt | 851 bytes
+  [FILE] browserAllowlist.txt | 1177 bytes
+  [FILE] browserOnboardingStatus.txt | 0 bytes
+  [FILE] installation_id | 36 bytes
+  [FILE] instrucoes.md | 253 bytes
+  [FILE] mcp_config.json | 1027 bytes
+  [FILE] user_settings.pb | 70 bytes
+
+==============================================================================
+3. AGYHUB SUMMARIES PB
+==============================================================================
+
+------------------------------------------------------------
+PB: C:\Users\usuario\.gemini\antigravity\agyhub_summaries_proto.pb
+Tamanho: 14718 bytes
+Modificado: 09/03/2026 13:30:57
+SHA256: 27ec174e2e697529c06ad02fe7d8ed698d2069c899f87d3d6537e2a870aef42a
+UUIDs únicos encontrados: 126
+  1635d2ad-43f1-4300-88d2-4d34122b7cfc <<< GOLDEN CASCADE
+  d680c2d4-3130-4fa5-a204-0baac37a0826 <<< GOLDEN TRAJECTORY
+
+RESULTADO GOLDEN: ENCONTRADO
+
+Strings UTF-8 detectadas no PB:
+  Mfile:///c:/Users/usuario/Documents/Projetos/Historias/Historia%20de%20Drisana→R����♠►�Í�♥z♫:����♠►��޾☺�☺B�☺�☺
+  Mfile:///c:/Users/usuario/Documents/Projetos/Historias/Historia%20de%20Drisana→↕����♠►����☺→$79e5d0c0-a385-4cc4-9676-210afb9376f2:Ofile:///c%3A/Users/usuario/Documents/Projetos/Historias/Historia%20de
+  8file:///c:/Users/usuario/Documents/Projetos/GameWebBased→R���♠►����♥z♫:����♠►���☻�☺�▼�☺�☺
+  8file:///c:/Users/usuario/Documents/Projetos/GameWebBased→↕߬��♠►��Ô♥→$c082c684-8f7b-49b3-acf1-9bb597d6e521::file:///c%3A/Users/usuario/Documents/Projetos/GameWebBased�☺$80886d7d-e7ec-4484-8802-5e47036
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→R�ù�♠►��♥z�☺E�☺�☺
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→↕ϻ��♠►�ʡ�♥→$8164acc9-1c62-4db7-8b20-5247b3eca556�☺↕outside-of-project�☺♦
+  >file:///c:/Users/usuario/Documents/Projetos/Tradutor%20YouTube→R����♠►����☻z�☺�☻�☺�☺
+  >file:///c:/Users/usuario/Documents/Projetos/Tradutor%20YouTube→↕����♠►ȡ��☻→$6724c714-82d7-410f-b797-c9b6b26501ea�☺↕outside-of-project�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►��҇☺z�☺\�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►����☻→$6bbc054f-fecb-4c49-a1f1-75a9c3e6948a�☺↕outside-of-project�☺♦
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social→R����♠►越/z�☺I�☺�☺
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social→↕����♠►���)→$c30fd6f3-d177-4b4c-8ef1-489cf3b61d3f�☺↕outside-of-project�☺♦
+  2file:///c:/Users/usuario/Documents/Projetos/Client→R���♠►�ͮ�♥z�☺�♠�☺�☺
+  2file:///c:/Users/usuario/Documents/Projetos/Client→↕����♠►�羙☻→$3c79c87a-27d9-43a9-b692-1b1f417af7be�☺↕outside-of-project�☺♦
+  <file:///c:/Users/usuario/Documents/Projetos/Tradutor%20Hilar→R����♠►ܑ��☺z♫:ގ��♠►����☺�☺�♣�☺�☺
+  <file:///c:/Users/usuario/Documents/Projetos/Tradutor%20Hilar→↕����♠►����♥→$2665e7a1-b135-41fb-b963-3cd679bd0aa1:>file:///c%3A/Users/usuario/Documents/Projetos/Tradutor%20Hilar�☺$5f3a54f1-dfcf-4da6-b7
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R՛��♠►�Χ�♥z�☺�♠�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►���♥→$f65bbab8-fbe3-4c8c-9534-3a751ae5a966�☺↕outside-of-project�☺♦
+  ↨file:///d:/Projetos/n8n→R����♠►�Ӓaz‼
+  ↨file:///d:/Projetos/n8n→↕ڞ��♠►Ȕê☺→$6c290734-c8ef-4258-ac35-d5572912176a2$33cc6c37-7243-4173-ad70-20bcf473dcf1:↓file:///d%3A/Projetos/n8n�☺$6a3ea2bd-9a6c-4063-b8df-2408e914d37f�☺♦
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social→R����♠►���/z♫:����♠►����☻�☺♫�☺�☺
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social→↕����♠►Ԏ�@→$38ff777f-d6b1-4323-918d-14259a8bbe7a�☺↕outside-of-project�☺♦
+  #Recuperação De Histórico Perdido►�♦→����♠►���☻"$f2a16c04-f7a2-40b5-acb4-12b517bd470b(☺:����♠►���☻R����♠►���↓z3
+  #Recuperação De Histórico Perdido:����♠►����♥�☺�♥�☺o↕����♠►���☻→$b6d4431b-c73e-406a-9b52-90203c67f4462$7f1ac345-6c2e-4bea-99df-40c56fbc7f47�☺↕outside-of-project�☺♦
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→R���♠►Ĵ��☺z�☺�☺�☺�☺
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→↕���♠►����☺→$13b17ecc-4c42-46c2-acb5-a8a894b071b4�☺↕outside-of-project�☺♦
+  =file:///c:/Users/usuario/Documents/Projetos/Ca%C3%A7a-Manager→R���♠►��՘☻z♫:����♠►����☺�☺�♫�☺�☺
+  =file:///c:/Users/usuario/Documents/Projetos/Ca%C3%A7a-Manager→↕���♠►���[→$c89f52dd-47a4-4178-9437-2f422ee32952:?file:///c%3A/Users/usuario/Documents/Projetos/Ca%C3%A7a-Manager�☺$5049b5cb-4f3c-465b-b0
+  >file:///c:/Users/usuario/Documents/Projetos/Tradutor%20YouTube→R����♠►��ͣ☺z�☺�♥�☺�☺
+  >file:///c:/Users/usuario/Documents/Projetos/Tradutor%20YouTube→↕����♠►����☺→$04806721-f006-4665-8e00-9a031ee132a1�☺↕outside-of-project�☺♦
+  2file:///c:/Users/usuario/Documents/Projetos/Mumble→R׃��♠►���☺z♫:�߳�♠►����☻�☺�♣�☺�☺
+  2file:///c:/Users/usuario/Documents/Projetos/Mumble→↕Ô��♠►���+→$3ae91276-83b8-4124-b99b-1942fa99c727:4file:///c%3A/Users/usuario/Documents/Projetos/Mumble�☺$beb2d9f2-4022-4c09-a75a-c060b350a202�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►�֭uz► ☺:����♠►����☻�☺�♥�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►���☻→$d90e8043-6882-4cd7-8973-ba81a803c327:=file:///c%3A/Users/usuario/Documents/Projetos/WorldBuilderPro�☺$0a1541e8-c44e-4252-bcf9-
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e→R����♠►����♥z♫:���♠►����☻�☺p�☺�☺
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e→↕ɓ��♠►���☻→$da0f3a0e-ab21-455e-902f-51b6078e3f6e�☺↕outside-of-project�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►��_z�☺�♥�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►�ބ�♥→$f89e146d-b131-4cc9-a9ea-85e94029f162�☺↕outside-of-project�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►����☻z�☺�☻�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►����♥→$ed88444f-d296-496a-ab71-2869f404ae36�☺↕outside-of-project�☺♦
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→R�ˑ�♠►�ơ;z�☺K�☺�☺
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→↕�ɑ�♠►����☺→$1469933b-5db5-4364-967f-104705ba955d�☺↕outside-of-project�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►�ڻ-z�☺�☺�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕Ȗ��♠►��˔♥→$676153bc-1d25-43df-b385-5f2c4b2ff9c9�☺↕outside-of-project�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►���☺z�☺9�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►�؛∟→$b13afa82-8a2d-45a2-9e9e-d7fc17009e1c�☺↕outside-of-project�☺♦
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e→R����♠►脤iz♫:���♠►����☻�☺�♥�☺�☺
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e→↕����♠►���A→$efc7c124-fad0-41e8-a5ff-ca4e669b01f6�☺↕outside-of-project�☺♦
+  ▼Restaurar Histórico de Projeto►�♠→����♠►���☻"$d680c2d4-3130-4fa5-a204-0baac37a0826(☺:����♠►���♥R����♠►�°�☻z.
+  ▼Restaurar Histórico de Projeto:����♠►���5�☺�♣�☺o↕����♠►���♥→$1120d8ba-6ce8-4eb0-89b4-00632e043ecd2$1635d2ad-43f1-4300-88d2-4d34122b7cfc�☺↕outside-of-project�☺♦
+  ↑n8n Telegram -> Whatsapp►�♠→���Ø����☺"$762265e7-9a12-43a6-a9f6-639f65285960(☺z'
+  ↑n8n Telegram -> Whatsapp:����♠►���-�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►�த♥z�☺↑�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►����☺→$128d25aa-943b-4c32-9428-10018f11e974�☺↕outside-of-project�☺♦
+  &file:///c:/Users/usuario/Downloads/n8n→R����♠►����☻z♫:���♠►��Ɏ☺�☺�♥�☺�☺
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►ԛ��☻→$07d87ef9-6727-4b8f-a679-2d72f3ec0fc4:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  2file:///c:/Users/usuario/Documents/Projetos/Client→R����♠►�ա|z�☺�☺�☺
+  2file:///c:/Users/usuario/Documents/Projetos/Client→↕����♠►���j→$3c6b7ceb-499c-45a3-9211-0b2c11699494�☺↕outside-of-project�☺♦
+  7file:///c:/Users/usuario/Documents/Projetos/Recuperador→R����♠►���6z�☺�☺�☺�☺
+  7file:///c:/Users/usuario/Documents/Projetos/Recuperador→↕����♠►����☺→$9d9e3451-d5ed-49c3-b810-4f017f9f1291�☺↕outside-of-project�☺♦
+  &file:///c:/Users/usuario/Downloads/n8n→R����♠►�߇�☺z�☺�☺�☻
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►���|→$538d90ac-6260-4718-8301-d8c9c4222661"
+  earch*$0dfd08dc-a251-4160-921d-7098d860f818:&file:///c:/Users/usuario/Downloads/n8nB3
+
+------------------------------------------------------------
+PB: C:\Users\usuario\.gemini\antigravity\agyhub_summaries_proto.pb.bak
+Tamanho: 16876 bytes
+Modificado: 09/03/2026 07:40:57
+SHA256: 88ebf9ae728a90c077dfd29942c00a24d6dd81a2d1f2eccd8d39a39d5d44a445
+UUIDs únicos encontrados: 136
+  1635d2ad-43f1-4300-88d2-4d34122b7cfc <<< GOLDEN CASCADE
+  652a9623-4bbc-46c2-8aca-d811c3b7d6eb <<< GOLDEN TRAJECTORY
+
+RESULTADO GOLDEN: ENCONTRADO
+
+Strings UTF-8 detectadas no PB:
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e→R����♠►����♥z♫:���♠►����☻�☺p�☺�☺
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e→↕ɓ��♠►���☻→$da0f3a0e-ab21-455e-902f-51b6078e3f6e�☺↕outside-of-project�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►�ڻ-z�☺�☺�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕Ȗ��♠►��˔♥→$676153bc-1d25-43df-b385-5f2c4b2ff9c9�☺↕outside-of-project�☺♦
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social→R����♠►���/z♫:����♠►����☻�☺♫�☺�☺
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social→↕����♠►Ԏ�@→$38ff777f-d6b1-4323-918d-14259a8bbe7a�☺↕outside-of-project�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►����☻z�☺�☻�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►����♥→$ed88444f-d296-496a-ab71-2869f404ae36�☺↕outside-of-project�☺♦
+  2file:///c:/Users/usuario/Documents/Projetos/Client→R����♠►�ա|z�☺�☺�☺
+  2file:///c:/Users/usuario/Documents/Projetos/Client→↕����♠►���j→$3c6b7ceb-499c-45a3-9211-0b2c11699494�☺↕outside-of-project�☺♦
+  &file:///c:/Users/usuario/Downloads/n8n→R����♠►�߇�☺z�☺�☺�☻
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►���|→$538d90ac-6260-4718-8301-d8c9c4222661"
+  earch*$0dfd08dc-a251-4160-921d-7098d860f818:&file:///c:/Users/usuario/Downloads/n8nB3
+  "Integrating Evolution API With N8N►�◄→���♠►����♥"$25dc0a94-0fe4-48f1-acb1-596304f2ff08(☺:����♠►���XJ*
+  &file:///c:/Users/usuario/Downloads/n8n→R���♠►���^z♫:�ۡ�♠►����☺�☺�◄�☺�☺
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►���X→$73eac944-70d1-45e5-8ea4-9ce83f3cafaa:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  &file:///c:/Users/usuario/Downloads/n8n→Rᤱ�♠►���♥z
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►���<→$27762c63-c5d4-4e58-bcd7-eaab88e80b14:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  2file:///c:/Users/usuario/Documents/Projetos/Client→R���♠►�ͮ�♥z�☺�♠�☺�☺
+  2file:///c:/Users/usuario/Documents/Projetos/Client→↕����♠►�羙☻→$3c79c87a-27d9-43a9-b692-1b1f417af7be�☺↕outside-of-project�☺♦
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→R�ù�♠►��♥z�☺E�☺�☺
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→↕ϻ��♠►�ʡ�♥→$8164acc9-1c62-4db7-8b20-5247b3eca556�☺↕outside-of-project�☺♦
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e→R����♠►脤iz♫:���♠►����☻�☺�♥�☺�☺
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e→↕����♠►���A→$efc7c124-fad0-41e8-a5ff-ca4e669b01f6�☺↕outside-of-project�☺♦
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→R�ˑ�♠►�ơ;z�☺K�☺�☺
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→↕�ɑ�♠►����☺→$1469933b-5db5-4364-967f-104705ba955d�☺↕outside-of-project�☺♦
+  Mfile:///c:/Users/usuario/Documents/Projetos/Historias/Historia%20de%20Drisana→R����♠►�Í�♥z♫:����♠►��޾☺�☺B�☺�☺
+  Mfile:///c:/Users/usuario/Documents/Projetos/Historias/Historia%20de%20Drisana→↕����♠►����☺→$79e5d0c0-a385-4cc4-9676-210afb9376f2:Ofile:///c%3A/Users/usuario/Documents/Projetos/Historias/Historia%20de
+  7file:///c:/Users/usuario/Documents/Projetos/Recuperador→R����♠►���6z�☺�☺�☺�☺
+  7file:///c:/Users/usuario/Documents/Projetos/Recuperador→↕����♠►����☺→$9d9e3451-d5ed-49c3-b810-4f017f9f1291�☺↕outside-of-project�☺♦
+  >file:///c:/Users/usuario/Documents/Projetos/Tradutor%20YouTube→R����♠►��ͣ☺z�☺�♥�☺�☺
+  >file:///c:/Users/usuario/Documents/Projetos/Tradutor%20YouTube→↕����♠►����☺→$04806721-f006-4665-8e00-9a031ee132a1�☺↕outside-of-project�☺♦
+  &file:///c:/Users/usuario/Downloads/n8n→R����♠►����☻z♫:���♠►��Ɏ☺�☺�♥�☺�☺
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►ԛ��☻→$07d87ef9-6727-4b8f-a679-2d72f3ec0fc4:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  2file:///c:/Users/usuario/Documents/Projetos/Mumble→R׃��♠►���☺z♫:�߳�♠►����☻�☺�♣�☺�☺
+  2file:///c:/Users/usuario/Documents/Projetos/Mumble→↕Ô��♠►���+→$3ae91276-83b8-4124-b99b-1942fa99c727:4file:///c%3A/Users/usuario/Documents/Projetos/Mumble�☺$beb2d9f2-4022-4c09-a75a-c060b350a202�☺♦
+  ▲Locating N8N Project Directory►/→����♠►����☻"$14b196be-fa6c-4d1a-8b68-d6c8384b629e(☺:����♠►�Э�☻J*
+  &file:///c:/Users/usuario/Downloads/n8n→R����♠►���♥z :�ۡ�♠►���]�☺&�☺�☺
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►�Э�☻→$54af5c5e-eef2-4070-a459-3d851aef6d1e:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social→R����♠►越/z�☺I�☺�☺
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social→↕����♠►���)→$c30fd6f3-d177-4b4c-8ef1-489cf3b61d3f�☺↕outside-of-project�☺♦
+  &file:///c:/Users/usuario/Downloads/n8n→R���♠►Я�,z▬
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►���▼→$4c2a8d5a-d850-42ae-9799-741271ede221:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  =file:///c:/Users/usuario/Documents/Projetos/Ca%C3%A7a-Manager→R���♠►��՘☻z♫:����♠►����☺�☺�♫�☺�☺
+  =file:///c:/Users/usuario/Documents/Projetos/Ca%C3%A7a-Manager→↕���♠►���[→$c89f52dd-47a4-4178-9437-2f422ee32952:?file:///c%3A/Users/usuario/Documents/Projetos/Ca%C3%A7a-Manager�☺$5049b5cb-4f3c-465b-b0
+  ↑n8n Telegram -> Whatsapp►�►→�ޒ�♠►Ԡх☺"$d798c690-c640-48c1-a472-fe024dbc20b6(☺:���♠►����♥J*
+  &file:///c:/Users/usuario/Downloads/n8n→R�ܒ�♠►���☺z'
+  ↑n8n Telegram -> Whatsapp:�ۡ�♠►���§�☺�►�☺�☺
+  &file:///c:/Users/usuario/Downloads/n8n→↕���♠►����♥→$5fd9a862-a945-4b33-ac35-2a1cba94e971:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►�த♥z�☺↑�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►����☺→$128d25aa-943b-4c32-9428-10018f11e974�☺↕outside-of-project�☺♦
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→R���♠►Ĵ��☺z�☺�☺�☺�☺
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→↕���♠►����☺→$13b17ecc-4c42-46c2-acb5-a8a894b071b4�☺↕outside-of-project�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R՛��♠►�Χ�♥z�☺�♠�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►���♥→$f65bbab8-fbe3-4c8c-9534-3a751ae5a966�☺↕outside-of-project�☺♦
+  >file:///c:/Users/usuario/Documents/Projetos/Tradutor%20YouTube→R����♠►����☻z�☺�☻�☺�☺
+  >file:///c:/Users/usuario/Documents/Projetos/Tradutor%20YouTube→↕����♠►ȡ��☻→$6724c714-82d7-410f-b797-c9b6b26501ea�☺↕outside-of-project�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►���☺z�☺9�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►�؛∟→$b13afa82-8a2d-45a2-9e9e-d7fc17009e1c�☺↕outside-of-project�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►��_z�☺�♥�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►�ބ�♥→$f89e146d-b131-4cc9-a9ea-85e94029f162�☺↕outside-of-project�☺♦
+  4file:///c:/Users/usuario/Documents/Projetos/SW-Tools→R����♠►�ǆtz♫:����♠►����☺�☺�♦�☺�☺
+  4file:///c:/Users/usuario/Documents/Projetos/SW-Tools→↕����♠►覿�☻→$9e96c4fc-9f40-4d9d-a81a-1723f84d4f18:6file:///c%3A/Users/usuario/Documents/Projetos/SW-Tools�☺$bc745751-0cef-4c5e-8d13-56ae53a91c56�☺♦
+  <file:///c:/Users/usuario/Documents/Projetos/Tradutor%20Hilar→R����♠►ܑ��☺z♫:ގ��♠►����☺�☺�♣�☺�☺
+  <file:///c:/Users/usuario/Documents/Projetos/Tradutor%20Hilar→↕����♠►����♥→$2665e7a1-b135-41fb-b963-3cd679bd0aa1:>file:///c%3A/Users/usuario/Documents/Projetos/Tradutor%20Hilar�☺$5f3a54f1-dfcf-4da6-b7
+  ▼Restaurar Histórico de Projeto►�♥→����♠►����☺"$652a9623-4bbc-46c2-8aca-d811c3b7d6eb(☻:����♠►���♥R����♠►���uz/
+  ▼Restaurar Histórico de Projeto:���♠►����☺�☺�♥�☺o↕����♠►���♥→$1120d8ba-6ce8-4eb0-89b4-00632e043ecd2$1635d2ad-43f1-4300-88d2-4d34122b7cfc�☺↕outside-of-project�☺☺�☺♦
+  &file:///c:/Users/usuario/Downloads/n8n→R����♠►�硏☺z :����♠►���C�☺�►�☺�☺
+  &file:///c:/Users/usuario/Downloads/n8n→↕�ݖ�♠►Ԗ��♥→$d96bd448-405d-46e3-9dfd-827560cbb3d1:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  &file:///c:/Users/usuario/Downloads/n8n→R���♠►���☺z↑
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►ȑ�P→$9195a3f9-f0df-4670-9b00-d02ccfab21a6:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  &file:///c:/Users/usuario/Downloads/n8n→RŒ��♠►Ĝ��☺z¶
+  &file:///c:/Users/usuario/Downloads/n8n→↕�ٜ�♠►����♥→$a7337196-4d7e-4750-8550-953371a8c23f:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►��҇☺z�☺\�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►����☻→$6bbc054f-fecb-4c49-a1f1-75a9c3e6948a�☺↕outside-of-project�☺♦
+  8file:///c:/Users/usuario/Documents/Projetos/GameWebBased→R���♠►����♥z♫:����♠►���☻�☺�▼�☺�☺
+  8file:///c:/Users/usuario/Documents/Projetos/GameWebBased→↕߬��♠►��Ô♥→$c082c684-8f7b-49b3-acf1-9bb597d6e521::file:///c%3A/Users/usuario/Documents/Projetos/GameWebBased�☺$80886d7d-e7ec-4484-8802-5e47036
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►�֭uz► ☺:����♠►����☻�☺�♥�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►���☻→$d90e8043-6882-4cd7-8973-ba81a803c327:=file:///c%3A/Users/usuario/Documents/Projetos/WorldBuilderPro�☺$0a1541e8-c44e-4252-bcf9-
+
+------------------------------------------------------------
+PB: C:\Users\usuario\.gemini\antigravity\backup_migration_20260903_042737\agyhub_summaries_proto.pb
+Tamanho: 17260 bytes
+Modificado: 09/03/2026 04:24:53
+SHA256: afddd32927b19a2824990a9bcb8178c8c2a00a0e6f5312d3e17ddcbe47a2dfce
+UUIDs únicos encontrados: 140
+
+RESULTADO GOLDEN: NÃO ENCONTRADO
+
+Strings UTF-8 detectadas no PB:
+  7file:///c:/Users/usuario/Documents/Projetos/Recuperador→R����♠►���6z�☺�☺�☺�☺
+  7file:///c:/Users/usuario/Documents/Projetos/Recuperador→↕����♠►����☺→$9d9e3451-d5ed-49c3-b810-4f017f9f1291�☺↕outside-of-project�☺♦
+  Mfile:///c:/Users/usuario/Documents/Projetos/Historias/Historia%20de%20Drisana→R����♠►�Í�♥z♫:����♠►��޾☺�☺B�☺�☺
+  Mfile:///c:/Users/usuario/Documents/Projetos/Historias/Historia%20de%20Drisana→↕����♠►����☺→$79e5d0c0-a385-4cc4-9676-210afb9376f2:Ofile:///c%3A/Users/usuario/Documents/Projetos/Historias/Historia%20de
+  4file:///c:/Users/usuario/Documents/Projetos/SW-Tools→R����♠►�ǆtz♫:����♠►����☺�☺�♦�☺�☺
+  4file:///c:/Users/usuario/Documents/Projetos/SW-Tools→↕����♠►覿�☻→$9e96c4fc-9f40-4d9d-a81a-1723f84d4f18:6file:///c%3A/Users/usuario/Documents/Projetos/SW-Tools�☺$bc745751-0cef-4c5e-8d13-56ae53a91c56�☺♦
+  &file:///c:/Users/usuario/Downloads/n8n→RŒ��♠►Ĝ��☺z¶
+  &file:///c:/Users/usuario/Downloads/n8n→↕�ٜ�♠►����♥→$a7337196-4d7e-4750-8550-953371a8c23f:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→R�ù�♠►��♥z�☺E�☺�☺
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→↕ϻ��♠►�ʡ�♥→$8164acc9-1c62-4db7-8b20-5247b3eca556�☺↕outside-of-project�☺♦
+  Bmudei a pasta n8n de local e acabou sumindo toda a nossa conversa.►
+  ↔file:///d:/Users/Download/n8n→R����♠►�譓☻z :�ķ�♠►���<�☺�☺�☺
+  ↔file:///d:/Users/Download/n8n→↕��♠►��k→$b7558d16-9cfb-431a-bea0-ec34e55c71a1:▼file:///d%3A/Users/Download/n8n�☺$a87ac774-fbb0-447d-8e07-2fe981cc53f1�☺♦
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e→R����♠►����♥z♫:���♠►����☻�☺p�☺�☺
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e→↕ɓ��♠►���☻→$da0f3a0e-ab21-455e-902f-51b6078e3f6e�☺↕outside-of-project�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►�த♥z�☺↑�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►����☺→$128d25aa-943b-4c32-9428-10018f11e974�☺↕outside-of-project�☺♦
+  &file:///c:/Users/usuario/Downloads/n8n→R����♠►�硏☺z♫:����♠►����☺�☺�►�☺�☺
+  &file:///c:/Users/usuario/Downloads/n8n→↕�ݖ�♠►Ԗ��♥→$d96bd448-405d-46e3-9dfd-827560cbb3d1:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→R���♠►Ĵ��☺z�☺�☺�☺�☺
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→↕���♠►����☺→$13b17ecc-4c42-46c2-acb5-a8a894b071b4�☺↕outside-of-project�☺♦
+  "Integrating Evolution API With N8N►�◄→���♠►����♥"$25dc0a94-0fe4-48f1-acb1-596304f2ff08(☺:����♠►���XJ*
+  &file:///c:/Users/usuario/Downloads/n8n→R���♠►���^z♫:�ۡ�♠►����☺�☺�◄�☺�☺
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►���X→$73eac944-70d1-45e5-8ea4-9ce83f3cafaa:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  ▲Locating N8N Project Directory►/→����♠►����☻"$14b196be-fa6c-4d1a-8b68-d6c8384b629e(☺:����♠►�Э�☻J*
+  &file:///c:/Users/usuario/Downloads/n8n→R����♠►���♥z :�ۡ�♠►���]�☺&�☺�☺
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►�Э�☻→$54af5c5e-eef2-4070-a459-3d851aef6d1e:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  &file:///c:/Users/usuario/Downloads/n8n→Rᤱ�♠►���♥z
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►���<→$27762c63-c5d4-4e58-bcd7-eaab88e80b14:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►��_z�☺�♥�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►�ބ�♥→$f89e146d-b131-4cc9-a9ea-85e94029f162�☺↕outside-of-project�☺♦
+  >file:///c:/Users/usuario/Documents/Projetos/Tradutor%20YouTube→R����♠►����☻z�☺�☻�☺�☺
+  >file:///c:/Users/usuario/Documents/Projetos/Tradutor%20YouTube→↕����♠►ȡ��☻→$6724c714-82d7-410f-b797-c9b6b26501ea�☺↕outside-of-project�☺♦
+  &file:///c:/Users/usuario/Downloads/n8n→R���♠►Я�,z▬
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►���▼→$4c2a8d5a-d850-42ae-9799-741271ede221:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►��҇☺z�☺\�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►����☻→$6bbc054f-fecb-4c49-a1f1-75a9c3e6948a�☺↕outside-of-project�☺♦
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social→R����♠►���/z♫:����♠►����☻�☺♫�☺�☺
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social→↕����♠►Ԏ�@→$38ff777f-d6b1-4323-918d-14259a8bbe7a�☺↕outside-of-project�☺♦
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→R�ˑ�♠►�ơ;z�☺K�☺�☺
+  7file:///c:/Users/usuario/Documents/Projetos/EditorVideo→↕�ɑ�♠►����☺→$1469933b-5db5-4364-967f-104705ba955d�☺↕outside-of-project�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R՛��♠►�Χ�♥z�☺�♠�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►���♥→$f65bbab8-fbe3-4c8c-9534-3a751ae5a966�☺↕outside-of-project�☺♦
+  &file:///c:/Users/usuario/Downloads/n8n→R����♠►����☻z♫:���♠►��Ɏ☺�☺�♥�☺�☺
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►ԛ��☻→$07d87ef9-6727-4b8f-a679-2d72f3ec0fc4:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e→R����♠►脤iz♫:���♠►����☻�☺�♥�☺�☺
+  6file:///c:/Users/usuario/Documents/Projetos/FichaD&D5e→↕����♠►���A→$efc7c124-fad0-41e8-a5ff-ca4e669b01f6�☺↕outside-of-project�☺♦
+  <file:///c:/Users/usuario/Documents/Projetos/Tradutor%20Hilar→R����♠►ܑ��☺z♫:ގ��♠►����☺�☺�♣�☺�☺
+  <file:///c:/Users/usuario/Documents/Projetos/Tradutor%20Hilar→↕����♠►����♥→$2665e7a1-b135-41fb-b963-3cd679bd0aa1:>file:///c%3A/Users/usuario/Documents/Projetos/Tradutor%20Hilar�☺$5f3a54f1-dfcf-4da6-b7
+  >file:///c:/Users/usuario/Documents/Projetos/Tradutor%20YouTube→R����♠►��ͣ☺z�☺�♥�☺�☺
+  >file:///c:/Users/usuario/Documents/Projetos/Tradutor%20YouTube→↕����♠►����☺→$04806721-f006-4665-8e00-9a031ee132a1�☺↕outside-of-project�☺♦
+  8file:///c:/Users/usuario/Documents/Projetos/GameWebBased→R���♠►����♥z♫:����♠►���☻�☺�▼�☺�☺
+  8file:///c:/Users/usuario/Documents/Projetos/GameWebBased→↕߬��♠►��Ô♥→$c082c684-8f7b-49b3-acf1-9bb597d6e521::file:///c%3A/Users/usuario/Documents/Projetos/GameWebBased�☺$80886d7d-e7ec-4484-8802-5e47036
+  &file:///c:/Users/usuario/Downloads/n8n→R���♠►���☺z↑
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►ȑ�P→$9195a3f9-f0df-4670-9b00-d02ccfab21a6:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  =file:///c:/Users/usuario/Documents/Projetos/Ca%C3%A7a-Manager→R���♠►��՘☻z♫:����♠►����☺�☺�♫�☺�☺
+  =file:///c:/Users/usuario/Documents/Projetos/Ca%C3%A7a-Manager→↕���♠►���[→$c89f52dd-47a4-4178-9437-2f422ee32952:?file:///c%3A/Users/usuario/Documents/Projetos/Ca%C3%A7a-Manager�☺$5049b5cb-4f3c-465b-b0
+  2file:///c:/Users/usuario/Documents/Projetos/Client→R���♠►�ͮ�♥z�☺�♠�☺�☺
+  2file:///c:/Users/usuario/Documents/Projetos/Client→↕����♠►�羙☻→$3c79c87a-27d9-43a9-b692-1b1f417af7be�☺↕outside-of-project�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►�ڻ-z�☺�☺�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕Ȗ��♠►��˔♥→$676153bc-1d25-43df-b385-5f2c4b2ff9c9�☺↕outside-of-project�☺♦
+  2file:///c:/Users/usuario/Documents/Projetos/Mumble→R׃��♠►���☺z♫:�߳�♠►����☻�☺�♣�☺�☺
+  2file:///c:/Users/usuario/Documents/Projetos/Mumble→↕Ô��♠►���+→$3ae91276-83b8-4124-b99b-1942fa99c727:4file:///c%3A/Users/usuario/Documents/Projetos/Mumble�☺$beb2d9f2-4022-4c09-a75a-c060b350a202�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►����☻z�☺�☻�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►����♥→$ed88444f-d296-496a-ab71-2869f404ae36�☺↕outside-of-project�☺♦
+  &file:///c:/Users/usuario/Downloads/n8n→R����♠►�߇�☺z�☺�☺�☻
+  &file:///c:/Users/usuario/Downloads/n8n→↕����♠►���|→$538d90ac-6260-4718-8301-d8c9c4222661"
+  earch*$0dfd08dc-a251-4160-921d-7098d860f818:&file:///c:/Users/usuario/Downloads/n8nB3
+  ↑n8n Telegram -> Whatsapp►�►→�ޒ�♠►Ԡх☺"$d798c690-c640-48c1-a472-fe024dbc20b6(☺:���♠►����♥J*
+  &file:///c:/Users/usuario/Downloads/n8n→R�ܒ�♠►���☺z'
+  ↑n8n Telegram -> Whatsapp:�ۡ�♠►���§�☺�►�☺�☺
+  &file:///c:/Users/usuario/Downloads/n8n→↕���♠►����♥→$5fd9a862-a945-4b33-ac35-2a1cba94e971:(file:///c%3A/Users/usuario/Downloads/n8n�☺$223e97b9-506b-41e9-8066-b0a88434ef8d�☺♦
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social→R����♠►越/z�☺I�☺�☺
+  9file:///c:/Users/usuario/Documents/Projetos/Rede%20Social→↕����♠►���)→$c30fd6f3-d177-4b4c-8ef1-489cf3b61d3f�☺↕outside-of-project�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►���☺z�☺9�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►�؛∟→$b13afa82-8a2d-45a2-9e9e-d7fc17009e1c�☺↕outside-of-project�☺♦
+  2file:///c:/Users/usuario/Documents/Projetos/Client→R����♠►�ա|z�☺�☺�☺
+  2file:///c:/Users/usuario/Documents/Projetos/Client→↕����♠►���j→$3c6b7ceb-499c-45a3-9211-0b2c11699494�☺↕outside-of-project�☺♦
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→R����♠►�֭uz► ☺:����♠►����☻�☺�♥�☺�☺
+  ;file:///c:/Users/usuario/Documents/Projetos/WorldBuilderPro→↕����♠►���☻→$d90e8043-6882-4cd7-8973-ba81a803c327:=file:///c%3A/Users/usuario/Documents/Projetos/WorldBuilderPro�☺$0a1541e8-c44e-4252-bcf9-
+
+==============================================================================
+4. STATE.VSCDB
+==============================================================================
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\globalStorage\state.vscdb
+Tamanho: 397312 bytes
+Modificado: 09/03/2026 13:41:22
+SHA256: 1d38295e6048992c900aede90919191fba2e54c85fc548af7dadf038a3795ee2
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  =☺releaseNotes/lastVersion "♥I☺workbench.telemetryOptOutShown▼*♥Y☺~remote.forwardedPortsContainer.hidden▲%♥O☺workbench.view.debug.state.hidden↔→♥9☺perf/lastRunningCommit∟↓♥7☺memento/customEditors▼♥ ☺chat.ChatSessionStore.index→↕♥)☺colorThemeData↓◄♥'☺iconThemeData↑↑♥5☺productIconThemeData↨,♥]☺editorGroupAntigravityWelcomeKeybindings▬&♥Q☺workbench.view.remote.state.hidden§∟♥=☺storage.serviceMachineId¶%♥O☺workbench.panel.placeholderPanels‼ ♥E☺workbench.panel.pinnedPanel↕‼♥+☺terminal.hidden♀!♥G☺workbench.panel.output.h☼ne`♦�A☻antigravity.notification.agent-finished-689c0159-68b4-4388-8ad5-fafacb873321-1788420324557�8D♦�♂☺antigravity.notification.24689c0159-68b4-4388-8ad5-fafacb873321cY(♥S☻extensionsAssistant/rec☻@☼�☼�☼e☻@♂7♫�♀�♀n♂�ntigravity.notification.963ad7684f-e18b-48ef-92a1-d9cbec901030�9C♦� ☺antigravity.notification.4689c0159-68b4-4388-8ad5-fafacb873321B
+
+TRAJECTORY SUMMARIES
+  Key encontrada.
+  Contexto bruto:
+  rencesT5♥o☺antigravityUnifiedStateSync.enterprisePreferencesS.♥a☺antigravityUnifiedStateSync.tabPreferencesR1♥g☺antigravityUnifiedStateSync.editorPreferencesQ2♥i☺antigravityUnifiedStateSync.browserPreferencesP0♥e☺antigravityUnifiedStateSync.agentPreferencesO%♥O☺antigravityUnifiedStateSync.themeN3♥k☺antigravityUnifiedStateSync.trajectorySummariesM▲♥A☺commandPalette.mru.counterL∟♥=☺commandPalette.mru.cacheK#♥K☺extensions.recommendedList.sizeJ-♥_☺workbench.views.extensions.installed.sizeI*♥Y☺workbench.view.extensions.state.hiddenH(♥U☺memento/workbench.editor.keybindingsG"♥I☺workbench.quickInput.viewStateFD♦�♂☺antigravity.notification.11689c0159-68b4-4388-8ad5-fafacb873321EC♦�       ☺antigravity.notification.9689c0159-68b4-4388-8ad5-fafacb873321D_♦�A☺antigravity.notification.agent-finished-689c0159-68b4-4388-8ad5-fafacb873321-1788418676413CC♦�  ☺antigravity.notification.4689c0159-68b4-4388-8ad5-fafacb873321B4♥m☺antigravity.notification.didAskUserForPermissionA▼♥C☺editorOverrideService.cache^♫♥!☺vscode.git?♥☺content.trust.model.key>8♥u☺workbench.view.extension.containersView.state.hidden=↕♥)☺editorFontInfo; ♥E☺extensions.trustedPublishers:↓♥7☺antigravityOnboarding9'♥S☺antigravityAnalytics.lastUploadTime8→♥9☺antigravity.profileUrl7'♥S☺terminal.history.timestamp.commands6%♥O☺terminal.history.entries.commands5+♥[☺notifications.perSourceDoNotDisturbMode4▬♥1☺google.antigravity3#♥K☺terminal.history.timestamp.dirs2!♥G☺terminal.history.entries.dirs1.♥a☺extensionTips/lastPromptedMediumImpExeTime0 ♥E☺chat.participantNameRegistry/%♥O☺trusted-publishers-init-migration.▲♥A☺remote.wslFeatureInstalled-▼♥C☺workbench.panel.repl.hidden,#♥K☺initializing-default-extensions+↨♥3☺sync.productQuality*↔♥?☺workbench.panel.alignment) ♥E☺workbench.auxiliaryBar.empty(/♥c☺workbench.auxiliaryBar.lastNonMaximizedSize')♥W☺workbench.panel.lastNonMaximizedWidth&*♥Y☺workbench.panel.lastNonMaximizedHeight%↑♥5☺workbench.panel.size$▼♥C☺workbench.auxiliaryBar.size#→♥9☺workbench.sideBar.size"♣e→♥9☺chat.workspaceTransfer<∟♥=☺releaseNotes/lastVersion "♥I☺workbench.telemetryOptOutShown▼*♥Y☺~remote.forwardedPortsContainer.hidden▲%♥O☺workbench.view.debug.state.hidden↔→♥9☺perf/lastRunningCommit∟↓♥7☺memento/customEditors▼♥ ☺chat.ChatSessionStore.index→↕♥)☺colorThemeData↓◄♥'☺iconThemeData↑↑♥5☺productIconThemeData↨,♥]☺editorGroupAntigravityWelcomeKeybindings▬&♥Q☺workbench.view.remote.state.hidden§∟♥=☺storage.serviceMachineId¶%♥O☺workbench.panel.placeholderPanels‼ ♥E☺workbench.panel.pinnedPanels↕*♥Y☺workbench.activity.placeholderViewlets◄&♥Q☺workbench.activity.pinnedViewlets2►$♥M☺antigravityChangelog/lastVersion☼☺‼♥+☺terminal.hidden♀!♥G☺workbench.panel.output.h☼ne`♦�A☻antigravity.notification.agent-finished-689c0159-68b4-4388-8ad5-fafacb873321-1788420324557�8D♦�♂☺antigravity.notification.24689c0159-68b4-4388-8ad5-fafacb873321cY(♥S☻extensionsAssistant/rec☻@☼�☼�☼e☻@♂7♫�♀�♀n♂��t♦♦=�=__$__targetStorageMarker{"history.recentlyOpenedPathsList":1,"antigravityAnalytics.lastUploadTime":1,"antigravityUnifiedStateSync.trajectorySummaries":0,"antigravityUnifiedStateSync.theme":0,"antigravityUnifiedStateSync.agentPreferences":0,"antigravityUnifiedStateSync.browserPreferences":0,"antigravityUnifiedStateSync.editorPreferences":0,"antigravityUnifiedStateSync.tabPreferences":0,"antigravityUnifiedStateSync.enterprisePreferences":0,"antigravityUnifiedStateSync.windowPreferences":0,"antigravityUnifiedStateSync.seenNuxIds":0,"antigravityUnifiedStateSync.sidebarWorkspaces":0,"antigravityUnifiedStateSync.modelPreferences":0,"antigravityUnifiedStateSync.artifactReview":0,"antigravityUnifiedStateSync.userStatus":0,"antigravityUnifiedStateSync.oauthToken":0,"antigravityUnifiedStateSync.overrideStore":0,"antigravityUnifiedStateSync.modelCredits":0,"workbench.activityBar.location":0,"antigravityChangelog/lastVersion":1,"workbench.activity.placeholderViewlets":1,"workbench.panel.placeholderPanels":1,"antigravity.profileUrl":0,"chat.workspaceTransfer":1,"editorGroupAntigravityWelcomeKeybindings":0,"memento/notebookEditors":1,"productIconThemeData":1,"iconThemeData":1,"colorThemeData":0,"memento/customEditors":1,"releaseNotes/lastVersion":1,"chat.participantNameRegistry":1,"vscode.git":1,"terminal.history.entries.dirs":1,"
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  ItemType Directory -Force -Path \"C:\\Users\\usuario\\AppData\\Roaming\\Antigravity IDE\\User\"; Copy-Item -Force \"$env:APPDATA\\Antigravity\\User\\settings.json\" \"$env:APPDATA\\Antigravity IDE\\User\\\"avity\\x5cUser\\x5csettings.json\" \"$env:APPDATA\\x5cAntigravity IDE\\x5cUser\\x5c\";fb042c2c-c793-46cb-aef3-ea171affd0ee","value":{"shellType":"pwsh"}},{"key":"agy manager .\n","value":{"shellType":"pwsh"}}]}�+3♦1�7google.antigravity{"antigravity.hasShownIdeMigrationNudge":true,"antigravity.workspaceCascadeMap":{"file:///d%3A/Projetos/n8n":"e3af8518-2344-4d36-b1c4-583d64645d4c"}}(.♥O§trusted-publishers-init-migrationtrue!-♥A§remote.wslFeatureInstalledtrue�u:♦E�7extensions.trustedPublishers{"codeium":{"publisher":"codeium","publisherDisplayName":"Codeium"},"antigravity":{"publisher":"antigravity","publisherDisplayName":"Antigravity"},"ms-python":{"publisher":"ms-python","publisherDisplayName":"ms-python"},"llvm-vs-code-extensions":{"publisher":"llvm-vs-code-extensions","publisherDisplayName":"llvm-vs-code-extensions"},"meta":{"publisher":"meta","publisherDisplayName":"meta"},"shopify":{"publisher":"Shopify","publisherDisplayName":"Shopify"},"golang":{"publisher":"golang","publisherDisplayName":"golang"},"ms-ceintl":{"publisher":"MS-CEINTL","publisherDisplayName":"MS-CEINTL"}}∟9♥7§antigravityOnboardingtrue38♥S'antigravityAnalytics.lastUploadTime1788453327055z7♦9�Mantigravity.profileUrlhttps://lh3.googleusercontent.com/a/ACg8ocJAGaLDbbLiHrP3-hm-6BYIU_HXusSUdN8N0gZUlmy98Wc8NQ=s96-c36♥S'terminal.history.timestamp.commands1788431239129☺�O�5terminal.history.entries.commands{"entries":[{"key":"Copy-Item -Recurse -Force ~\\.antigravity\\extensions ~\\.antigravity-ide\\; New-Item -ItemType Directory -Force -Path \"C:\\Users\\usuario\\AppData\\Roaming\\Antigravity IDE\\User\"; Copy-Item -Force \"$env:APPDATA\\Antigravity\\User\\settings.json\" \"$env:APPDATA\\Antigravity IDE\\User\\\"avity\\x5cUser\\x5csettings.json\" \"$env:APPDATA\\x5cAntigravity IDE\\x5cUser\\x5c\";fb04�n4♦[�‼notifications.perSourceDoNotDisturbMode[{"id":"google.antigravity","label":"Antigravity","filter":0},{"id":"ms-python.python","label":"Python","filter":0},{"id":"ms-python.vscode-python-envs","label":"Python Environments","filter":0}]/2♥K'terminal.history.timestamp.dirs1788453048385}1♦G�Eterminal.history.entries.dirs{"entries":[{"key":"D:\\Projetos\\n8n","value":{}},{"key":"C:\\Users\\usuario","value":{}}]}:0♥a'extensionTips/lastPromptedMediumImpExeTime1788416735443�S/♦E�schat.participantNameRegistry{"vscode":["github"],"workspace":["github"],"terminal":["github"],"github":["github"],"azure":["ms-azuretools"],"teams":["teamsdevapp"],"quantum":["quantum"],"apicenter":["apidev"],"stripe":["stripe"],"mongodb":["mongodb"],"databricks":["databricks"],"playwright":["ms-playwright"],"figma":["figma"],"cuda":["nvidia"],"shopify":["shopify"],"liquid":["shopify"],"1es":["msft-1es"],"office":["teamsdevapp"],"dotnet":["ms-dotnettools"],"nuget":["ms-dotnettools"],"blazor":["ms-dotnettools"
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\globalStorage\state.vscdb
+Tamanho: 589824 bytes
+Modificado: 09/03/2026 13:41:16
+SHA256: 5724d03dfc6ca236a21a28ad9f9094209763ca8fcf0482f4941d1d3dd2d2f6a0
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  g/lastVersion":1,"workbench.activity.pinnedViewlets2":0,"workbench.activity.placeholderViewlets":1,"workbench.panel.pinnedPanels":0,"workbench.panel.placeholderPanels":1,"storage.serviceMachineId":1,"chat.ChatSessionStore.index":1}0♣♥K)history.recentlyOpenedPathsList{"entries":[]}
+)♂☼$__6♀-♥��♠)�}↑♣x♠X♣�♥�♣�♠�♠�9♣�♠�rminal","isHidden":false}]▲♥♥;§__$__isNewStorageMarkertrue<☻♥EGteSqF◄LgGHHI♣=B<OoI>K[♣      <7;&EGD@C?=8_∟J_7!▼♠►♦♦☻☺☼�\☼�♦`☻�☻�♥►  G♦�
+⌂♂�♦�♦�♀�
+I♀�☼�☼�♣Z♫c☺I♂�♀�♀↓♫$☺�♥T♥�♦♀♂V♂�♀�♂q
+�☺!
+�♫@0♥E☺m�       �
+f♂�☼    b       �       �♫�♫w
+&♣7♫�
+♥☺�♥j☻Y♀`♫�☺�♂�0♥e☺terminal.integrated.showTerminalConfigPromptt'♥S☺terminal.history.timestamp.commandsr%♥O☺terminal.history.entries.commandsq◄♥'☺vscode.githubo#♥K☺extensions.recommendedList.sizen-♥_☺workbench.views.extensions.installed.sizem#♥K☺ms-azuretools.vscode-containersk8♥u☺workbench.view.extension.containersView.state.hiddeni(♥U☺extensionTips/promptedExecutableTipsh*♥Y☺workbench.view.extensions.state.hiddengF♦�☼☺antigravity.notification.2467fd457f42-c2e1-481f-af7d-69a3164102ebeD♦�♂☺antigravity.notification.15ae88c814-5973-45da-980e-a966ff9c0061d4♥m☺antigravity.notification.didAskUserForPermissionc♫♥!☺vscode.gita§♥/☺ms-python.debugpy_.♥a☺workbench.view.extension.test.state.hidden^¶♥-☺ms-python.python]2♥i☺antigravityUnifiedStateSync.agentManagerWindow[*♥Y☺an
+
+TRAJECTORY SUMMARIES
+  Key encontrada.
+  Contexto bruto:
+  rencesD5♥o☺antigravityUnifiedStateSync.enterprisePreferencesC.♥a☺antigravityUnifiedStateSync.tabPreferencesB1♥g☺antigravityUnifiedStateSync.editorPreferencesA2♥i☺antigravityUnifiedStateSync.browserPreferences@0♥e☺antigravityUnifiedStateSync.agentPreferences?%♥O☺antigravityUnifiedStateSync.theme>3♥k☺antigravityUnifiedStateSync.trajectorySummaries='♥S☺vscode.typescript-language-features<'♥S☺antigravityAnalytics.lastUploadTime:▼♥C☺editorOverrideService.cacheu♥☺content.trust.model.key8↕♥)☺editorFontInfo6 ♥E☺extensions.trustedPublishers5↓♥7☺antigravityOnboarding4→♥9☺antigravity.profileUrl3↔♥?☺workbench.panel.alignment2 ♥E☺workbench.auxiliaryBar.empty1/♥c☺workbench.auxiliaryBar.lastNonMaximizedSize0)♥W☺workbench.panel.lastNonMaximizedWidth/*♥Y☺workbench.panel.lastNonMaximizedHeight.↑♥5☺workbench.panel.size-▼♥C☺workbench.auxiliaryBar.size,→♥9☺workbench.sideBar.size+♣e→♥9☺chat.workspaceTransfer7#♥K☺terminal.history.timestamp.dirs)!♥G☺terminal.history.entries.dirs(.♥a☺extensionTips/lastPromptedMediumImpExeTime' ♥E☺chat.participantNameRegistry&%♥O☺trusted-publishers-init-migration%→♥9☺perf/lastRunningCommit$▲♥A☺remote.wslFeatureInstalled#↕♥)☺colorThemeData"▼♥C☺workbench.panel.repl.hidden!◄♥'☺iconThemeData ↑♥5☺productIconThemeData▼*♥Y☺~remote.forwardedPortsContainer.hidden▲↓♥7☺memento/customEditors↔,♥]☺editorGroupAntigravityWelcomeKeybindings∟&♥Q☺workbench.view.remote.state.hidden♥☺initializing-default-extensions→↨♥3☺sync.productQuality↓∟♥=☺releaseNotes/lastVersion↑"♥I☺workbench.telemetryOptOutShown↨%♥O☺workbench.view.debug.state.hidden▬▼♥C☺chat.ChatSessionStore.index§∟♥=☺storage.serviceMachineId¶%♥O☺workbench.panel.placeholderPanels‼ ♥E☺wo‼♥+☺terminal.hidden♀!♥G☺workbench.panel.output.hidden♂"♥I☺workbench.panel.markers.hiddenvity.pinnedViewlets2►$♥M☺antigravityChangelog/lastVersion☼♥☺memento/notebookEditors♫"♥I☺workbench.activityBar.location
+$♥M☺workbench.scm.views.state.hidden    &♥Q☺workbench.view.search.state.hidde)♥W☺workbench.explorer.views.state.hidden1♥g☺antigravity.agentViewContainerId.state.hidden♠#♥K☺history.recentlyOpenedPathsList♣∟♥=☺__$__targetStorageMarker♦♥☺__♦♥k☼�☼�☼e♥k(♦NK�]history.recentlyOpenedPathsList{"entries":[{"folderUri":"file:///d%3A/Projetos/MonitoramentoPro"},{"folderUri":"file:///d%3A/Projetos/n8n"},{"folderUri":"file:///d%3A/Projetos/Foudry%20Tunnel"},{"folderUri":"file:///d%3A/Projetos/NetPro"},{"folderUri":"file:///c%3A/Users/usuario/Documents/Projetos/MonitorInternet"},{"folderUri":"file:///d%3A/Projetos/Luz%20Automatica"},{"folderUri":"file:///c%3A/Users/usuario/Documents/Projetos/Visualizador"},{"folderUri":"file:///c%3A/Users/usuario/Documents/Projetos/Viagens"},{"folderUri":"file:///d%3A/Projetos/Jogo"},{"folderUri":"file:///d%3A/Projetos/TS"},{"folderUri":"file:///d%3A/Projetos/Shadowbroker"},{"folderUri":"file:///d%3A/Projetos/LiveCam"},{"folderUri":"file:///d%3A/Projetos/Zaza%20World%20Build"},{"folderUri":"file:///c%3A/Users/usuario/Documents/Projetos/Antivirus"}�w♦♦=�C__$__targetStorageMarker{"history.recentlyOpenedPathsList":1,"antigravityAnalytics.lastUploadTime":1,"antigravityUnifiedStateSync.trajectorySummaries":0,"antigravityUnifiedStateSync.theme":0,"antigravityUnifiedStateSync.agentPreferences":0,"antigravityUnifiedStateSync.browserPreferences":0,"antigravityUnifiedStateSync.editorPreferences":0,"antigravityUnifiedStateSync.tabPreferences":0,"antigravityUnifiedStateSync.enterprisePreferences":0,"antigravityUnifiedStateSync.windowPreferences":0,"antigravityUnifiedStateSync.seenNuxIds":0,"antigravityUnifiedStateSync.sidebarWorkspaces":0,"antigravityUnifiedStateSync.modelPreferences":0,"antigravityUnifiedStateSync.artifactReview":0,"antigravityUnifiedStateSync.userStatus":0,"antigravityUnifiedStateSync.oauthToken":0,"antigravityUnifiedStateSync.overrideStore":0,"antigravityUnifiedStateSync.modelCredits":0,"antigravityAnalytics.clearcutBuffer":1,"workbench.activityBar.location":0,"antigravityChangelog/lastVersion":1,"workbench.activity.placeholderViewlets":1,"workbench.panel.placeholderPanels":1,"antigravity.profileUrl":0,"editorGroupAntigravityWelcomeKeybindings":0,"memento/notebookEditors":1,"productIconThemeData":1,"chat.workspaceTransfer":1,"memento/customEditors":1,"releaseNotes/lastVersion":1,"chat.participantNameRegistry":1,"terminal.history.entries.dirs":1,"terminal.history.timestamp.dirs":1,"workbench.sideBar.size":1,"workbench.auxiliaryBar.size":1,"workbench.panel.size":1,"workbench.panel.lastNonMaximizedHeight":1,"workbench.panel.lastNonMaximizedWidth":1,"workbench.auxiliaryBar.lastNonMaximizedSize":1,"workbench.auxiliaryBar.empty":1,"workbench.panel.alignment":0,"workbench.editor.languageDetectionOpenedLanguages.global":1,"vscode.typescript-language-features":1,"antigravity.mcpConfigFileInfoWidget.collapseState":0,"editorFontInfo":1,"sync.productQua
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\workspaceStorage\1788453027312\state.vscdb
+Tamanho: 36864 bytes
+Modificado: 09/03/2026 13:41:22
+SHA256: f5efe89d2e745b7dfd1feef10bdbe24add38db2f2cd615720c528aee67db8444
+
+CHAT SESSION STORE
+  Key NÃO encontrada no blob bruto.
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\workspaceStorage\6a435284564353f2c62ee0b07f89deab\state.vscdb
+Tamanho: 24576 bytes
+Modificado: 09/03/2026 07:30:13
+SHA256: f7572e1b2e91c48da8b82b2a875f14e65a73091618643ccacbc56ba1939c17eb
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  >◄♥1_debug.selectedrootfile:///d%3A/Projetos/.vscode/launch.json8►♥CAchat.ChatSessionStore.index{"version":1,"entries":{}}�⌂☻♦=�S__$__targetStorageMarker{"antigravity.agentViewContainerId.state":1,"workbench.explorer.views.state":1,"workbench.view.search.state":1,"workbench.scm.views.state":1,"workbench.panel.markers":1,"workbench.panel.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"workbench.view.remote.state":1,"workbench.view.extension.containersView.state":1,"chat.ChatSessionStore.index":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1,"~remote.forwardedPortsContainer":1}�#☼♦g�qworkbench.view.extension.containersView.state{"vscode-containers.views.containers":{"collapsed":false,"isHidden":true},"vscode-containers.views.images":{"collapsed":false,"isHidden":true},"vscode-containers.views.registries":{"collapsed":false,"isHidden":true},"vscode-containers.views.networks":{"collapsed":true,"isHidden":true},"vscode-containers.views.volumes":{"collapsed":true,"isHidden":true},"vscode-containers.views.dockerContexts":{"collapsed":true,"isHidden":true},"vscode-containers.views.help":{"collapsed":false,"isHidden":true}}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.ag
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\workspaceStorage\93b4648aef2695faca6223ffbb57ead7\state.vscdb
+Tamanho: 118784 bytes
+Modificado: 09/03/2026 13:26:23
+SHA256: 366143eba5278edfbb379055e3cc8a09ba86aaa1951a34ec6cd46c6d29195428
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  el.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"chat.ChatSessionStore.index":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1,"workbench.view.remote.state":1,"workbench.view.extension.containersView.state":1,"~remote.forwardedPortsContainer":1}�*‼♦g�⌂workbench.view.extension.containersView.state{"vscode-containers.views.containers":{"collapsed":false,"isHidden":false},"vscode-containers.views.images":{"collapsed":false,"isHidden":false},"vscode-containers.views.registries":{"collapsed":false,"isHidden":false},"vscode-containers.views.networks":{"collapsed":true,"isHidden":false},"vscode-containers.views.volumes":{"collapsed":true,"isHidden":false},"vscode-containers.views.dockerContexts":{"collapsed":true,"isHidden":false},"vscode-containers.views.help":{"collapsed":false,"isHidden":false}}�3
+♦_�↓workbench.activity.viewletsWorkspaceState[{"id":"workbench.view.explorer","visible":true},{"id":"workbench.view.search","visible":true},{"id":"workbench.view.scm","visible":true},{"id":"workbench.view.debug","visible":true},{"id":"workbench.view.remote","visible":true},{"id":"workbench.view.extensions","visible":true},{"id":"workbench.view.chat.sessions","visible":false},{"id":"workbench.view.extension.test","visible":false},{"id":"workbench.view.extension.references-view","visible":false},{"id":"workbe
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\051108a066ab6bbd5fd751d32076f435\state.vscdb
+Tamanho: 61440 bytes
+Modificado: 09/03/2026 13:26:15
+SHA256: b2a8f5e893984f106b1c3f2625dfad2d8a5c8dc3b763664b8a77280d50913344
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  J◄♥1wdebug.selectedrootfile:///d%3A/Projetos/Wake-on-lan/.vscode/launch.json8►♥CAchat.ChatSessionStore.index{"version":1,"entries":{}}�[☻♦=�♂__$__targetStorageMarker{"antigravity.agentViewContainerId.state":1,"workbench.explorer.views.state":1,"workbench.view.search.state":1,"workbench.scm.views.state":1,"workbench.panel.markers":1,"workbench.panel.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"workbench.view.remote.state":1,"workbench.view.extension.containersView.state":1,"chat.ChatSessionStore.index":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1}�#☼♦g�qworkbench.view.extension.containersView.state{"vscode-containers.views.containers":{"collapsed":false,"isHidden":true},"vscode-containers.views.images":{"collapsed":false,"isHidden":true},"vscode-containers.views.registries":{"collapsed":false,"isHidden":true},"vscode-containers.views.networks":{"collapsed":true,"isHidden":true},"vscode-containers.views.volumes":{"collapsed":true,"isHidden":true},"vscode-containers.views.dockerContexts":{"collapsed":true,"isHidden":true},"vscode-containers.views.help":{"collapsed":false,"isHidden":true}}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.agentViewContainerId�v♂♦e�↓workbench.p
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\0d2adf54d1fb1b06b14a480a042f8d8a\state.vscdb
+Tamanho: 57344 bytes
+Modificado: 09/03/2026 12:16:38
+SHA256: 4b1e91e711924f11e52dc692fc8410d5d664a1bb5192748b8a56628e580217e3
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  ench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"workbench.view.remote.state":1,"chat.ChatSessionStore.index":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1,"~remote.forwardedPortsContainer":1,"workbench.panel.repl":1,"debug.uxstate":1,"terminal.integrated.environmentVariableCollectionsV2":1,"vscode.git":1}▬§♥'↓debug.uxstatesimpleY¶♦5�☼workbench.panel.repl{"workbench.panel.repl.view":{"collapsed":false,"isHidden":true}}a‼♦K�   ~remote.forwardedPortsContainer{"~remote.forwardedPorts":{"collapsed":false,"isHidden":true}}∟↕♥5↨output.activechanneltasks�♦A�↔workbench.view.debug.state{"workbench.debug.welcome":{"collapsed":false,"isHidden":true},"workbench.debug.variablesView":{"collapsed":false,"isHidden":true},"workbench.debug.watchExpressionsView":{"collapsed":false,"isHidden":true},"workbench.debug.callStackView":{"collapsed":false,"isHidden":true},"workbench.debug.loadedScriptsView":{"collapsed":true,"isHidden":true},"workbench.debug.breakPointsView":{"collapsed":false,"isHidden":true},"jsBrowserBreakpoints":{"collapsed":true,"isHidden":true},"jsExcludedCallers":{"collapsed":true,"isHidden":true},"jsDebugNetworkTree":{"collapsed":true,"isHidden":true}}K►♥1ydebug.selectedrootfile:///d%3A/Projetos/Shadowbroker/.vscode/launch.json8☼♥CAchat.ChatSessionStore.index{"version":1,"entries":{}}�♫♦ �♣workbench.view.remote.state{"antigra
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\249f23a9a6fe18e98411f53f7bc5e76d\state.vscdb
+Tamanho: 126976 bytes
+Modificado: 08/13/2026 18:01:06
+SHA256: 6e7f1bfd10f056cd76ac572a5c13347248d5656a2299865b0f443aabfee3cce7
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  el.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"chat.ChatSessionStore.index":1,"workbench.view.remote.state":1,"workbench.view.extension.containersView.state":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1,"~remote.forwardedPortsContainer":1}�#►♦g�qworkbench.view.extension.containersView.state{"vscode-containers.views.containers":{"collapsed":false,"isHidden":true},"vscode-containers.views.images":{"collapsed":false,"isHidden":true},"vscode-containers.views.registries":{"collapsed":false,"isHidden":true},"vscode-containers.views.networks":{"collapsed":true,"isHidden":true},"vscode-containers.views.volumes":{"collapsed":true,"isHidden":true},"vscode-containers.views.dockerContexts":{"collapsed":true,"isHidden":true},"vscode-containers.views.help":{"collapsed":false,"isHidden":true}}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.agentViewContainerId�v♂♦e�↓workbench.panel.viewContainersWorkspaceState[{"id":"workbench.panel.markers","visible":true},{"id":"workbench.panel.output","visible":true},{"id":"workbench.panel.repl","visible":false},{"id":"terminal","visible":true},{"id":"workbench.panel.testResults","visible":false},{"id":"~remote.forwardedPortsContainer","visible":false},{"id":"refactorPreview","visible":false}]�l
+♦_�♂workbench.activity.viewletsWorkspaceState[{"id":"workbench.view.e
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\25c57414d7672932de88bfaa2f68f10d\state.vscdb
+Tamanho: 36864 bytes
+Modificado: 07/17/2026 20:58:21
+SHA256: a5ff2c020e9597a1a021e9cf3e30c2c573e353d5362dca330c7648dff7ed65f0
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  d↕♦1�)debug.selectedrootfile:///c%3A/Users/usuario/Documents/Projetos/Visualizador/.vscode/launch.json∟◄♥5↨output.activechanneltasks8►♥CAchat.ChatSessionStore.index{"version":1,"entries":{}}�[☻♦=�♂__$__targetStorageMarker{"antigravity.agentViewContainerId.state":1,"workbench.explorer.views.state":1,"workbench.view.search.state":1,"workbench.scm.views.state":1,"workbench.panel.markers":1,"workbench.panel.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"workbench.view.remote.state":1,"workbench.view.extension.containersView.state":1,"chat.ChatSessionStore.index":1,"output.activechannel":1,"debug.selectedroot":1,"workbench.view.debug.state":1}�#☼♦g�qworkbench.view.extension.containersView.state{"vscode-containers.views.containers":{"collapsed":false,"isHidden":true},"vscode-containers.views.images":{"collapsed":false,"isHidden":true},"vscode-containers.views.registries":{"collapsed":false,"isHidden":true},"vscode-containers.views.networks":{"collapsed":true,"isHidden":true},"vscode-containers.views.volumes":{"collapsed":true,"isHidden":true},"vscode-containers.views.dockerContexts":{"collapsed":true,"isHidden":true},"vscode-containers.views.help":{"collapsed":false,"isHidden":true}}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.agentViewContainerId�v♂♦e�↓workbench.p
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\343b096f834a5a42c52426dc0a5e0c02\state.vscdb
+Tamanho: 77824 bytes
+Modificado: 07/09/2026 17:35:13
+SHA256: f7223bc0d2e2c667f46a5206c8cf4b706eacbc19b6106edb4cbf1d8b116c0ed5
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  T◄♦1� debug.selectedrootfile:///d%3A/Projetos/Zaza%20World%20Build/.vscode/launch.json8►♥CAchat.ChatSessionStore.index{"version":1,"entries":{}}�[☻♦=�♂__$__targetStorageMarker{"antigravity.agentViewContainerId.state":1,"workbench.explorer.views.state":1,"workbench.view.search.state":1,"workbench.scm.views.state":1,"workbench.panel.markers":1,"workbench.panel.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"workbench.view.remote.state":1,"workbench.view.extension.containersView.state":1,"chat.ChatSessionStore.index":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1}�#☼♦g�qworkbench.view.extension.containersView.state{"vscode-containers.views.containers":{"collapsed":false,"isHidden":true},"vscode-containers.views.images":{"collapsed":false,"isHidden":true},"vscode-containers.views.registries":{"collapsed":false,"isHidden":true},"vscode-containers.views.networks":{"collapsed":true,"isHidden":true},"vscode-containers.views.volumes":{"collapsed":true,"isHidden":true},"vscode-containers.views.dockerContexts":{"collapsed":true,"isHidden":true},"vscode-containers.views.help":{"collapsed":false,"isHidden":true}}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.agentViewContainerId�v♂♦e�↓workbench.p
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\35dcf2196f95c644c46c2308c3ebb9d0\state.vscdb
+Tamanho: 53248 bytes
+Modificado: 07/18/2026 21:35:10
+SHA256: b84d694c9b0119dcfdf8da29c0ada9d7b7e9bd2dd189ee34387298ac09f4f83f
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  el.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"chat.ChatSessionStore.index":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1,"workbench.view.remote.state":1,"~remote.forwardedPortsContainer":1}∟◄♥5↨output.activechanneltasks�=►♦A�Kworkbench.view.debug.state{"workbench.debug.welcome":{"collapsed":false,"isHidden":true},"workbench.debug.variablesView":{"collapsed":false,"isHidden":true},"workbench.debug.watchExpressionsView":{"collapsed":false,"isHidden":true},"workbench.debug.callStackView":{"collapsed":false,"isHidden":true},"workbench.debug.loadedScriptsView":{"collapsed":true,"isHidden":true},"workbench.debug.breakPointsView":{"collapsed":false,"isHidden":true}}P☼♦1�☺debug.selectedrootfile:///d%3A/Projetos/Luz%20Automatica/.vscode/launch.json8♫♥CAcha♥M{workbench.explorer.treeViewState{"focus":[],"selection":[],"expanded":[],"scrollTop":0}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.agentViewContainerId�v♂♦e�↓workbench.panel.viewContainersWorkspaceState[{"id":"workbench.panel.markers","visible":true},{"id":"workbench.panel.output","visible":true},{"id":"workbench.panel.repl","visible":false},{"id":"terminal","visible":true},{"id":"workbench.panel.testResults","visible":false},{"id":"~remote.forwardedPortsContainer","visible":false},{"i
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\399462301b0de660480d9247fe17aa28\state.vscdb
+Tamanho: 53248 bytes
+Modificado: 07/17/2026 20:57:55
+SHA256: c9250ba39402648f870c51baadc89e4c1fadec44f7500fef3c10b0b370622d4d
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  el.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"chat.ChatSessionStore.index":1,"workbench.view.remote.state":1,"workbench.view.extension.containersView.state":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1,"~remote.forwardedPortsContainer":1}�#►♦g�qworkbench.view.extension.containersView.state{"vscode-containers.views.containers":{"collapsed":false,"isHidden":true},"vscode-containers.views.images":{"collapsed":false,"isHidden":true},"vscode-containers.views.registries":{"collapsed":false,"isHidden":true},"vscode-containers.views.networks":{"collapsed":true,"isHidden":true},"vscode-containers.views.volumes":{"collapsed":true,"isHidden":true},"vscode-containers.views.dockerContexts":{"collapsed":true,"isHidden":true},"vscode-containers.views.help":{"collapsed":false,"isHidden":true}}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.agentViewContainerId�v♂♦e�↓workbench.panel.viewContainersWorkspaceState[{"id":"workbench.panel.markers","visible":true},{"id":"workbench.panel.output","visible":true},{"id":"workbench.panel.repl","visible":false},{"id":"terminal","visible":true},{"id":"workbench.panel.testResults","visible":false},{"id":"~remote.forwardedPortsContainer","visible":false},{"id":"refactorPreview","visible":false}]�l
+♦_�♂workbench.activity.viewletsWorkspaceState[{"id":"workbench.view.e
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\48049651211848cd27c26a0c2eb832c1\state.vscdb
+Tamanho: 45056 bytes
+Modificado: 08/15/2026 15:25:20
+SHA256: 9f65d7328d6dea9b011cf1caf67054d5a37befbb986eab7b320922af17b32365
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  N◄♥1⌂debug.selectedrootfile:///d%3A/Projetos/Foudry%20Tunnel/.vscode/launch.json8►♥CAchat.ChatSessionStore.index{"version":1,"entries":{}}�⌂☻♦=�S__$__targetStorageMarker{"antigravity.agentViewContainerId.state":1,"workbench.explorer.views.state":1,"workbench.view.search.state":1,"workbench.scm.views.state":1,"workbench.panel.markers":1,"workbench.panel.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"workbench.view.remote.state":1,"workbench.view.extension.containersView.state":1,"chat.ChatSessionStore.index":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1,"~remote.forwardedPortsContainer":1}�#☼♦g�qworkbench.view.extension.containersView.state{"vscode-containers.views.containers":{"collapsed":false,"isHidden":true},"vscode-containers.views.images":{"collapsed":false,"isHidden":true},"vscode-containers.views.registries":{"collapsed":false,"isHidden":true},"vscode-containers.views.networks":{"collapsed":true,"isHidden":true},"vscode-containers.views.volumes":{"collapsed":true,"isHidden":true},"vscode-containers.views.dockerContexts":{"collapsed":true,"isHidden":true},"vscode-containers.views.help":{"collapsed":false,"isHidden":true}}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.ag
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\4f6db591e7b2484909631d003286b75a\state.vscdb
+Tamanho: 98304 bytes
+Modificado: 07/17/2026 20:58:10
+SHA256: c117e5e3a18e4f8b801835885e0f01709c476e8fd48e4a54aaeb010cc3327422
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  _↕♦1�▼debug.selectedrootfile:///c%3A/Users/usuario/Documents/Projetos/Viagens/.vscode/launch.json∟◄♥5↨output.activechanneltasks8►♥CAchat.ChatSessionStore.index{"version":1,"entries":{}}�[☻♦=�♂__$__targetStorageMarker{"antigravity.agentViewContainerId.state":1,"workbench.explorer.views.state":1,"workbench.view.search.state":1,"workbench.scm.views.state":1,"workbench.panel.markers":1,"workbench.panel.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"workbench.view.remote.state":1,"workbench.view.extension.containersView.state":1,"chat.ChatSessionStore.index":1,"output.activechannel":1,"debug.selectedroot":1,"workbench.view.debug.state":1}�#☼♦g�qworkbench.view.extension.containersView.state{"vscode-containers.views.containers":{"collapsed":false,"isHidden":true},"vscode-containers.views.images":{"collapsed":false,"isHidden":true},"vscode-containers.views.registries":{"collapsed":false,"isHidden":true},"vscode-containers.views.networks":{"collapsed":true,"isHidden":true},"vscode-containers.views.volumes":{"collapsed":true,"isHidden":true},"vscode-containers.views.dockerContexts":{"collapsed":true,"isHidden":true},"vscode-containers.views.help":{"collapsed":false,"isHidden":true}}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.agentViewContainerId�v♂♦e↓workbench.p
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\5bdd3bf10c672adf10613eea55031d47\state.vscdb
+Tamanho: 49152 bytes
+Modificado: 08/31/2026 08:36:15
+SHA256: 7d8ac1977ee9947dfe74d9e944353d910ff5a7b7bd252c3da8a7eb5c279bb55c
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  S↕♦1�debug.selectedrootfile:///d%3A/Projetos/Editor%20de%20Video/.vscode/launch.json∟◄♥5↨output.activechanneltasks8►♥CAchat.ChatSessionStore.index{"version":1,"entries":{}}�⌂☻♦=�S__$__targetStorageMarker{"antigravity.agentViewContainerId.state":1,"workbench.explorer.views.state":1,"workbench.view.search.state":1,"workbench.scm.views.state":1,"workbench.panel.markers":1,"workbench.panel.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"workbench.view.remote.state":1,"workbench.view.extension.containersView.state":1,"chat.ChatSessionStore.index":1,"output.activechannel":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"~remote.forwardedPortsContainer":1}�#☼♦g�qworkbench.view.extension.containersView.state{"vscode-containers.views.containers":{"collapsed":false,"isHidden":true},"vscode-containers.views.images":{"collapsed":false,"isHidden":true},"vscode-containers.views.registries":{"collapsed":false,"isHidden":true},"vscode-containers.views.networks":{"collapsed":true,"isHidden":true},"vscode-containers.views.volumes":{"collapsed":true,"isHidden":true},"vscode-containers.views.dockerContexts":{"collapsed":true,"isHidden":true},"vscode-containers.views.help":{"collapsed":false,"isHidden":true}}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.ag
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\5f370cc89b7e1c964b40139b46c488b1\state.vscdb
+Tamanho: 36864 bytes
+Modificado: 06/10/2026 22:21:44
+SHA256: 6bc558568dc22705dc99bd16070d32445f7517e873c584f86d40ed956f0f80c7
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  el.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"chat.ChatSessionStore.index":1,"workbench.view.remote.state":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1,"~remote.forwardedPortsContainer":1,"workbench.panel.repl":1,"debug.uxstate":1,"terminal.integrated.environmentVariableCollectionsV2":1,"vscode.git":1}▬§♥'↓debug.uxstatesimpleY¶♦5�☼workbench.panel.repl{"workbench.panel.repl.view":{"collapsed":false,"isHidden":true}}a‼♦K�   ~remote.forwardedPortsContainer{"~remote.forwardedPorts":{"collapsed":false,"isHidden":true}♥5↨output.activechanneltasks�f◄♦A�↔workbench.view.debug.state{"workbench.debug.welcome":{"collapsed":false,"isHidden":true},"workbench.debug.variablesView":{"collapsed":false,"isHidden":true},"workbench.debug.watchExpressionsView":{"collapsed":false,"isHidden":true},"workbench.debug.callStackView":{"collapsed":false,"isHidden":true},"workbench.debug.loadedScriptsView":{"collapsed":true,"isHidden":true},"workbench.debug.breakPointsView":{"collapsed":false,"isHidden":true},"jsBrowserBreakpoints":{"collapsed":true,"isHidden":true},"jsExcludedCallers":{"collapsed":true,"isHidden":true},"jsDebugNetworkTree":{"collapsed":true,"isHidden":true}}B►♥1gdebug.selectedrootfile:///d%3A/Projetos/ver/.vscode/launch.json�☼♦ �♣workbench.view.remote.state{"antigravityDevContainers":{"collapsed":fal
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\663425537a0d70af2c009f7c903ad281\state.vscdb
+Tamanho: 73728 bytes
+Modificado: 07/09/2026 17:32:23
+SHA256: dcbe1b8fa4604d1b3cee622a41b3b817f3fa4a533ce90352080b9887c8f66507
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  ench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"workbench.view.remote.state":1,"chat.ChatSessionStore.index":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1,"~remote.forwardedPortsContainer":1,"workbench.panel.repl":1,"debug.uxstate":1,"terminal.integrated.environmentVariableCollectionsV2":1,"vscode.git":1}▬§♥'↓debug.uxstatesimpleY¶♦5�☼workbench.panel.repl{"workbench.panel.repl.view":{"collapsed":false,"isHidden":true}}a‼♦K�   ~remote.forwardedPortsContainer{"~remote.forwardedPorts":{"collapsed":false,"isHidden":true}}∟↕♥5↨output.activechanneltasks�♦A�↔workbench.view.debug.state{"workbench.debug.welcome":{"collapsed":false,"isHidden":true},"workbench.debug.variablesView":{"collapsed":false,"isHidden":true},"workbench.debug.watchExpressionsView":{"collapsed":false,"isHidden":true},"workbench.debug.callStackView":{"collapsed":false,"isHidden":true},"workbench.debug.loadedScriptsView":{"collapsed":true,"isHidden":true},"workbench.debug.breakPointsView":{"collapsed":false,"isHidden":true},"jsBrowserBreakpoints":{"collapsed":true,"isHidden":true},"jsExcludedCallers":{"collapsed":true,"isHidden":true},"jsDebugNetworkTree":{"collapsed":true,"isHidden":true}}�,
+♦_�♂workbench.activity.viewletsWorkspaceState[{"id":"workbench.view.explorer","visible":true},{"id":"workbench.view.search","visible":true},{"id":"workbench.view.scm","visible
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\6c88c020b13e9827695f4137a62d3586\state.vscdb
+Tamanho: 69632 bytes
+Modificado: 08/29/2026 08:35:43
+SHA256: bbf005e29f46facf3706654269aab0a667b2de87daa4385469e0aab098061451
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  N◄♥1⌂debug.selectedrootfile:///d%3A/Projetos/Energy%20Engine/.vscode/launch.json8►♥CAchat.ChatSessionStore.index{"version":1,"entries":{}}�[☻♦=�♂__$__targetStorageMarker{"antigravity.agentViewContainerId.state":1,"workbench.explorer.views.state":1,"workbench.view.search.state":1,"workbench.scm.views.state":1,"workbench.panel.markers":1,"workbench.panel.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"workbench.view.remote.state":1,"workbench.view.extension.containersView.state":1,"chat.ChatSessionStore.index":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1}�#☼♦g�qworkbench.view.extension.containersView.state{"vscode-containers.views.containers":{"collapsed":false,"isHidden":true},"vscode-containers.views.images":{"collapsed":false,"isHidden":true},"vscode-containers.views.registries":{"collapsed":false,"isHidden":true},"vscode-containers.views.networks":{"collapsed":true,"isHidden":true},"vscode-containers.views.volumes":{"collapsed":true,"isHidden":true},"vscode-containers.views.dockerContexts":{"collapsed":true,"isHidden":true},"vscode-containers.views.help":{"collapsed":false,"isHidden":true}}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.agentViewContainerId�v♂♦e�↓workbench.p
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\808d6b42bd6367a0b476cf71df7163a2\state.vscdb
+Tamanho: 45056 bytes
+Modificado: 07/09/2026 17:31:14
+SHA256: 4044bfeaf9b9b446a1e3a731e99fffded5053d43bb5be50d97c99c0fc94f9d00
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  a◄♦1�#debug.selectedrootfile:///c%3A/Users/usuario/Documents/Projetos/Antivirus/.vscode/launch.json8►♥CAchat.ChatSessionStore.index{"version":1,"entries":{}}�⌂☻♦=�S__$__targetStorageMarker{"antigravity.agentViewContainerId.state":1,"workbench.explorer.views.state":1,"workbench.view.search.state":1,"workbench.scm.views.state":1,"workbench.panel.markers":1,"workbench.panel.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"workbench.view.remote.state":1,"workbench.view.extension.containersView.state":1,"chat.ChatSessionStore.index":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1,"~remote.forwardedPortsContainer":1}�#☼♦g�qworkbench.view.extension.containersView.state{"vscode-containers.views.containers":{"collapsed":false,"isHidden":true},"vscode-containers.views.images":{"collapsed":false,"isHidden":true},"vscode-containers.views.registries":{"collapsed":false,"isHidden":true},"vscode-containers.views.networks":{"collapsed":true,"isHidden":true},"vscode-containers.views.volumes":{"collapsed":true,"isHidden":true},"vscode-containers.views.dockerContexts":{"collapsed":true,"isHidden":true},"vscode-containers.views.help":{"collapsed":false,"isHidden":true}}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.ag
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\93b4648aef2695faca6223ffbb57ead7\state.vscdb
+Tamanho: 176128 bytes
+Modificado: 09/03/2026 13:41:16
+SHA256: 70644ae1f3dc54c6b716d7432dc76b66b472e4c0ef34d08c8978cd6fe115262f
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  el.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"chat.ChatSessionStore.index":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1,"workbench.view.remote.state":1,"~remote.forwardedPortsContainer":1,"workbench.panel.repl":1,"debug.uxstate":1,"terminal.integrated.environmentVariableCollectionsV2":1,"vscode.git":1}a‼♦K�      ~remote.forwardedPortsContainer{"~remote.forwardedPorts":{"collapsed":false,"isHidden":true}}�↕♦ �♣workbench.view.remote.state{"antigravityDevContainers":{"collapsed":false,"isHidden":false},"antigravitySS♥M{workbench.explorer.treeViewState{"focus":[],"selection":[],"expanded":[],"scrollTop":0}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.agentViewContainerId�t♂♦e�§workbench.panel.viewContainersWorkspaceState[{"id":"workbench.panel.markers","visible":true},{"id":"workbench.panel.output","visible":true},{"id":"workbench.panel.repl","visible":true},{"id":"terminal","visible":true},{"id":"workbench.panel.testResults","visible":false},{"id":"~remote.forwardedPortsContainer","visible":true},{"id":"refactorPreview","visible":false}]}]�,
+♦_�♂workbench.activity.viewletsWorkspaceState[{"i
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\aaa4237567250019c15b447801edd957\state.vscdb
+Tamanho: 77824 bytes
+Modificado: 08/16/2026 13:38:28
+SHA256: 9c7924ef7f8d4acb1430c475640cfe2fe547e8fd2ed990774082b86c38261e99
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  el.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"chat.ChatSessionStore.index":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1,"workbench.view.remote.state":1,"workbench.view.extension.containersView.state":1,"~remote.forwardedPortsContainer":1}�=►♦A�Kworkbench.view.debug.state{"workbench.debug.welcome":{"collapsed":false,"isHidden":true},"workbench.debug.variablesView":{"collapsed":false,"isHidden":true},"workbench.debug.watchExpressionsView":{"collapsed":false,"isHidden":true},"workbench.debug.callStackView":{"collapsed":false,"isHidden":true},"workbench.debug.loadedScriptsView":{"collapsed":true,"isHidden":true},"workbench.debug.breakPointsView":{"collapsed":false,"isHidden":true}}♫h☺n=�g__$__targetStorageMarker{"antigravity.agentViewContainerId.state":1,"workbench.explorer.views.state":1,"workbench.view.search.state":1,"workbench.scm.views.state":1,"workbench.panel.markers":1,"workbench.panel.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activep�↕♦ �♣workbench.view.remote.state{"antigravityDevContainers":{"collapsed":false,"isHidden":false},"antigravitySSHHosts":{"collapsed":false,"isHidden":false}}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.agentViewContainerId�v♂♦e�↓workbench.panel.view
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\b1cf5306df7a9f03b6080c83a9528c09\state.vscdb
+Tamanho: 40960 bytes
+Modificado: 06/25/2026 09:25:11
+SHA256: 25ee8cd2f4be55cf9fa69ccd392d0776b2664af34a94adb28db038f46674a937
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  el.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"chat.ChatSessionStore.index":1,"workbench.view.remote.state":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1,"~remote.forwardedPortsContainer":1,"workbench.panel.repl":1,"debug.uxstate":1,"terminal.integrated.environmentVariableCollectionsV2":1,"vscode.git":1}▬§♥'↓debug.uxstatesimpleY¶♦5�☼workbench.panel.repl{"workbench.panel.repl.view":{"collapsed":false,"isHidden":true}}a‼♦K�   ~remote.forwardedPortsContainer{"~remote.forwardedPorts":{"collapsed":false,"isHidden":true}♥5↨output.activechanneltasks�f◄♦A�↔workbench.view.debug.state{"workbench.debug.welcome":{"collapsed":false,"isHidden":true},"workbench.debug.variablesView":{"collapsed":false,"isHidden":true},"workbench.debug.watchExpressionsView":{"collapsed":false,"isHidden":true},"workbench.debug.callStackView":{"collapsed":false,"isHidden":true},"workbench.debug.loadedScriptsView":{"collapsed":true,"isHidden":true},"workbench.debug.breakPointsView":{"collapsed":false,"isHidden":true},"jsBrowserBreakpoints":{"collapsed":true,"isHidden":true},"jsExcludedCallers":{"collapsed":true,"isHidden":true},"jsDebugNetworkTree":{"collapsed":true,"isHidden":true}}D►♥1kdebug.selectedrootfile:///d%3A/Projetos/casas/.vscode/launch.json�☼♦ �♣workbench.view.remote.state{"antigravityDevContainers":{"collapsed":f
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\bd23c15ed00b0efa819cebb0625a53e8\state.vscdb
+Tamanho: 57344 bytes
+Modificado: 06/22/2026 12:24:14
+SHA256: 4793f9411e440c5344a433bbd3e3aa772ca8798b848524c6a88200b395b83cf4
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  l.integrated.environmentVariableCollectionsV2'◄♥'☺debug.uxstate&↑♥5☺workbench.panel.repl%↑♥5☺output.activechannel$1♥g☺workbench.view.extension.containersView.state#▼♥C☺workbench.view.remote.state"▼♥C☺chat.ChatSessionStore.index!9♥w☺antigravity.agentViewContainerId.numberOfVisibleViews 0♥e☺workbench.view.explorer.numberOfVisibleViews▼▲♥A☺workbench.statusBar.hidden▲!♥G☺workbench.auxiliaryBar.hidden↔→♥9☺workbench.panel.hidden∟♥☺workbench.editor.hidden∟♥☺workbench.sideBar.hidden→)♥W☺workbench.auxiliaryActivityBar.hidden↓ ♥E☺workbench.activityBar.hidden↑∟♥=☺workbench.panel.position↨▲♥A☺workbench.sideBar.position▬5♥o☺workbench.auxiliaryBar.lastNonMaximizedVisibility§+♥[☺workbench.auxiliaryBar.wasLastMaximi(♥U☺workbench.auxiliarybar.activepanelid♀0♥e☺workbench.panel.viewContainersWorkspaceState♂-♥_☺workbench.activity.viewletsWorkspaceStateworkbench.view.debug.state☼▬♥1☺debug.selectedroot♫$♥M☺workbench.explorer.treeViewState
+♀♥↔☺terminal    →♥9☺workbench.panel.outpu♥☺workbench.panel.markers↔♥?☺workbench.scm.views.state♠▼♥C☺workbench.view.search.state♣"♥I☺workbench.explorer.views.state♦*♥Y☺antigravity.agentViewContainerId.state♥∟♥=☺__$__targetStorageMarker☻→♥;       __$__isNewStorageMarker
+☺�☺☼�♥�☼g
+?☺�     ♫7
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\c1fdc488fee6b0ea9cd2538135197c46\state.vscdb
+Tamanho: 102400 bytes
+Modificado: 09/03/2026 13:27:20
+SHA256: 1bc1e4a2481f03053adb6361ec3601b08f85a746f4492b3270a7d08b935d95e0
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  d▲$♥M☺workbench.panel.wasLastMaximized↔▲♥A☺workbench.zenMode.exitInfo∟∟♥=☺workbench.zenMode.active↔♥☺workbench.editor.centered→♂lifecyl¶♥-☺chat.customModes-"♥I☺terminal.integrated.layoutInfo↑▼♥C☺chat.ChatSessionStore.index↨♫♥!☺vscode.git▬8♥u☺terminal.integrated.environmentVariableCollectionsV2§◄♥'☺debug.uxstate¶↑♥5☺workbench.panel.repl‼▲♥A☺workbench.view.debug.state↕↑♥5☺output.activechannel◄▬♥1☺debug.selectedroot►1♥g☺workbench.view.extension.containersView.state☼▼♥C☺w(♥U☺workbench.auxiliarybar.activepanelid♀0♥e☺workbench.panel.viewContainersWorkspaceState♂-♥_☺workbench.activity.viewletsWorkspaceState
+♀♥↔☺terminal    →♥9☺workbench.panel.outpu♥☺workbench.panel.markers↔♥?☺workbench.scm.views.state♠▼♥C☺workbench.view.search.state♣"♥I☺workbench.explorer.views.state♦*♥Y☺antigravity.agentViewContainerId.state♥∟♥=☺__$__targetStorageMarker☻→♥;       __$__isNewStorageMarker
+K♀�♀�♀S☻�♫{♫↔
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\cc31aec15709cd25869dce0b14d040a3\state.vscdb
+Tamanho: 53248 bytes
+Modificado: 08/13/2026 11:37:43
+SHA256: f70262346615106422bc98cfd9bd422f72c675de1baf8bd2cf9bcd7e4416561f
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  ▼$♥M☺workbench.panel.wasLastMaximized▲▲♥A☺workbench.zenMode.exitInfo↔∟♥=☺workbench.zenMode.active∟↔♥?☺workbench.editor.centered♂ifecyl¶♥-☺ms-python.python.#♥K☺~remote.forwardedPortsContainer↓▼♥C☺chat.ChatSessionStore.index↑"♥I☺terminal.integrated.layoutInfo5♫♥!☺vscode.git▬8♥u☺terminal.integrated.environmentVariableCollectionsV2§◄♥'☺debug.uxstate¶↑♥5☺workbench.panel.repl‼▲♥A☺workbench.view.debug.state↕↑♥5☺output.activechannel◄▬♥1☺debug.selectedroot►1♥g☺workbench.view.e(♥U☺workbench.auxiliarybar.activepanelid♀0♥e☺workbench.panel.viewContainersWorkspaceState♂-♥_☺workbench.activity.viewletsWorkspaceState
+♀♥↔☺terminal    →♥9☺workbench.panel.outpu♥☺workbench.panel.markers↔♥?☺workbench.scm.views.state♠▼♥C☺workbench.view.search.state♣"♥I☺workbench.explorer.views.state♦*♥Y☺antigravity.agentViewContainerId.state♥∟♥=☺__$__targetStorageMarker☻→♥♦♥�♥�♦Y☼g♀�♀t♂�♂AwStorageMarker
+�
+<♠�
+�=�)__$__targetStorageMarker{"antigravity.agentViewContainerId.state":1,"workbench.explorer.views.state":1,"workbench.view.search.state":1,"workbench.scm.views.state":1,"workbench.panel.markers":1,"workbench.panel.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"workbench.view.remote.
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\d09c2d065bc3973a4ce637a92edbf838\state.vscdb
+Tamanho: 36864 bytes
+Modificado: 08/27/2026 03:30:30
+SHA256: e875f71facd114493c6ffc85b0a7103cb59c5075b650787ab478c26e143ef0fa
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  el.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"chat.ChatSessionStore.index":1,"workbench.view.remote.state":1,"workbench.view.extension.containersView.state":1,"output.activechannel":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"~remote.forwardedPortsContainer":1}�#►♦g�qworkbench.view.extension.containersView.state{"vscode-containers.views.containers":{"collapsed":false,"isHidden":true},"vscode-containers.views.images":{"collapsed":false,"isHidden":true},"vscode-containers.views.registries":{"collapsed":false,"isHidden":true},"vscode-containers.views.networks":{"collapsed":true,"isHidden":true},"vscode-containers.views.volumes":{"collapsed":true,"isHidden":true},"vscode-containers.views.dockerContexts":{"collapsed":true,"isHidden":true},"vscode-containers.views.help":{"collapsed":false,"isHidden":true}}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.agentViewContainerId�v♂♦e�↓workbench.panel.viewContainersWorkspaceState[{"id":"workbench.panel.markers","visible":true},{"id":"workbench.panel.output","visible":true},{"id":"workbench.panel.repl","visible":false},{"id":"terminal","visible":true},{"id":"workbench.panel.testResults","visible":false},{"id":"~remote.forwardedPortsContainer","visible":false},{"id":"refactorPreview","visible":false}]�l
+♦_�♂workbench.activity.viewletsWorkspaceState[{"id":"workbench.view.e
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\df6528e14a31eba51089ee6b1be336d2\state.vscdb
+Tamanho: 36864 bytes
+Modificado: 06/22/2026 08:26:10
+SHA256: 588f420499b5e5f64f56884b225ac9e6dc7a73eeeec4e2e43b0f6b6911fc0f9a
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  K↕♥1ydebug.selectedrootfile:///d%3A/Projetos/SW%20Builder/.vscode/launch.json∟◄♥5↨output.activechanneltasks8►♥CAchat.ChatSessionStore.index{"version":1,"entries":{}}�[☻♦=�♂__$__targetStorageMarker{"antigravity.agentViewContainerId.state":1,"workbench.explorer.views.state":1,"workbench.view.search.state":1,"workbench.scm.views.state":1,"workbench.panel.markers":1,"workbench.panel.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"workbench.view.remote.state":1,"workbench.view.extension.containersView.state":1,"chat.ChatSessionStore.index":1,"output.activechannel":1,"debug.selectedroot":1,"workbench.view.debug.state":1}�#☼♦g�qworkbench.view.extension.containersView.state{"vscode-containers.views.containers":{"collapsed":false,"isHidden":true},"vscode-containers.views.images":{"collapsed":false,"isHidden":true},"vscode-containers.views.registries":{"collapsed":false,"isHidden":true},"vscode-containers.views.networks":{"collapsed":true,"isHidden":true},"vscode-containers.views.volumes":{"collapsed":true,"isHidden":true},"vscode-containers.views.dockerContexts":{"collapsed":true,"isHidden":true},"vscode-containers.views.help":{"collapsed":false,"isHidden":true}}G♀♥UMworkbench.auxiliarybar.activepanelidantigravity.agentViewContainerId�v♂♦e�↓workbench.p
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\e1e667c3f6fa97972c62640fc5c54cab\state.vscdb
+Tamanho: 28672 bytes
+Modificado: 08/29/2026 08:39:00
+SHA256: 036a1ea3050e3021946346078ffa0f5fbb0e35c8397c718a0f481d2cdfb45ebc
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  d▲$♥M☺workbench.panel.wasLastMaximized↔▲♥A☺workbench.zenMode.exitInfo∟∟♥=☺workbench.zenMode.active↔♥☺workbench.editor.centered→♂lifecyl¶♥-☺chat.customModes-"♥I☺terminal.integrated.layoutInfo↑▼♥C☺chat.ChatSessionStore.index↨♫♥!☺vscode.git▬8♥u☺terminal.integrated.environmentVariableCollectionsV2§◄♥'☺debug.uxstate¶↑♥5☺workbench.panel.repl‼▲♥A☺workbench.view.debug.state↕↑♥5☺output.activechannel◄▬♥1☺debug.selectedroot►1♥g☺workbench.view.extension.containersView.state☼▼♥C☺w(♥U☺workbench.auxiliarybar.activepanelid♀0♥e☺workbench.panel.viewContainersWorkspaceState♂-♥_☺workbench.activity.viewletsWorkspaceState
+♀♥↔☺terminal    →♥9☺workbench.panel.outpu♥☺workbench.panel.markers↔♥?☺workbench.scm.views.state♠▼♥C☺workbench.view.search.state♣"♥I☺workbench.explorer.views.state♦*♥Y☺antigravity.agentViewContainerId.state♥∟♥=☺__$__targetStorageMarker☻→♥♀☺↕♦☼�  ���♠�♠^♠♦♣�☻�☺↕♣}�t♂♦e�§workbench.panel.viewContainersWorkspaceState[{"id":"workbench.panel.markers","visible":true},{"id":"workbench.panel.output","visible":true},{"id":"workbench.panel.repl","visible":true},{"id":"terminal","visible":true},{"id":"workbench.panel.testResults","visible":false},{"id":"
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+STATE: C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\ec75c87ea04077c90097e55d3016b7e6\state.vscdb
+Tamanho: 45056 bytes
+Modificado: 06/14/2026 17:47:56
+SHA256: a6c7febf1558a665a4d282991de41c94410d60823274de0f5d28912592391f10
+
+CHAT SESSION STORE
+  Key encontrada.
+  Contexto:
+  el.output":1,"terminal":1,"workbench.activity.viewletsWorkspaceState":1,"workbench.panel.viewContainersWorkspaceState":1,"workbench.auxiliarybar.activepanelid":1,"workbench.explorer.treeViewState":1,"chat.ChatSessionStore.index":1,"debug.selectedroot":1,"workbench.view.debug.state":1,"output.activechannel":1,"workbench.view.remote.state":1,"~remote.forwardedPortsContainer":1,"workbench.panel.repl":1,"debug.uxstate":1,"terminal.integrated.environmentVariableCollectionsV2":1,"vscode.git":1}▬§♥'↓debug.uxstatesimple�f►♦A�↔workbench.view.debug.state{"workbench.debug.welcome":{"collapsed":false,"isHidden":true},"workbench.debug.variablesView":{"collapsed":false,"isHidden":true},"workbench.debug.watchExpressionsView":{"collapsed":false,"isHidden":true},"workbench.debug.callStackView":{"collapsed":false,"isHidden":true},"workbench.debug.loadedScriptsView":{"collapsed":true,"isHidden":true},"workbench.debug.breakPointsView":{"collapsed":false,"isHidden":true},"jsBrowserBreakpoints":{"collapsed":true,"isHidden":true},"jsExcludedCallers":{"collapsed":true,"isHidden":true},"jsDebugNetworkTree":{"collapsed":true,"isHidden":true}}Y¶♦5�☼workbench.panel.repl{"workbench.panel.repl.view":{"collapsed":false,"isHidden":true}}a‼♦K� ~remote.forwardedPortsContainer{"~remote.forwardedPorts":{"collapsed":false,"isHidden":true}}�↕♦ �♣workbench.view.remote.state{"antigravityDevContainers":{"collapsed":false,"isHidden":false},"antigravitySSHHosts":{"collapsed":false,"isHidden":false}}∟◄♥5↨output.active
+
+TRAJECTORY SUMMARIES
+  Key NÃO encontrada como UTF-8 direto.
+
+GOLDEN UUID SEARCH NO STATE
+  NÃO encontrado: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  NÃO encontrado: d680c2d4-3130-4fa5-a204-0baac37a0826
+  NÃO encontrado: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+WORKSPACE CASCADE MAP
+  Não encontrado diretamente.
+
+==============================================================================
+5. DATABASES DE CONVERSAÇÃO
+==============================================================================
+DBs encontrados: 89
+
+sqlite3.exe NÃO encontrado no PATH.
+Será feita análise binária/UUID dos DBs.
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\028bb05f-5fdd-4d45-ab55-2666a1d952fa.db
+Tamanho: 57344
+SHA256: e2b10cd2473dc7a68b4b8d0519543373e704e398ddf7359b288a6f32b3730fce
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\049b8365-c9cc-42ca-a229-a7922a08e9d0.db
+Tamanho: 192512
+SHA256: 6f6144be949e8525d7289b3ebe5406f4b6a12e3393f0c2b5c5b11223fb0a2dad
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\08c49e68-7526-431a-b0c0-0050f4ecf647.db
+Tamanho: 86016
+SHA256: 583eb64ed4b3897bd7f438275bb1d669d94ee4cd86bef46ce68623473911338d
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\09893f72-895d-47b8-98e1-bd173b5a5769.db
+Tamanho: 176128
+SHA256: 1fc2ee16648243722d5ceb196f51e007144b189c8762b8bf3f9d271339e77e08
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\0dfb94c5-dad4-4d5f-b5d3-514abb612031.db
+Tamanho: 57344
+SHA256: 551a4235f44ad1c6b7eb3c43bda9390ead0d1b52db09ff041fd25537ccd536ad
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\0dfd08dc-a251-4160-921d-7098d860f818.db
+Tamanho: 6397952
+SHA256: ed01df3def84e84cb9ae18ff286f5e22c4f45a249bc44b970bc20874e15066f3
+UUIDs encontrados: 258
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\0ef5c7fb-7856-4dfc-8f6e-db56cdfb5435.db
+Tamanho: 57344
+SHA256: 25c413f974ddbec33528161bfb9193a69fd1e3cd906443c1b1c2c535abc9a08e
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\0f0caddc-c706-4ed5-a596-46ecdd749512.db
+Tamanho: 49152
+SHA256: 94843f4dc9c6463aebd8806e35f2168594d1a1c89adb8881b0bcd9f550cf3c9f
+UUIDs encontrados: 3
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\11714e14-f5b9-485d-a0b5-071b79f363ea.db
+Tamanho: 372736
+SHA256: ed0f43382e27f3cee1d3a5e7a990c21e0dfd09967c91d8dd696a774522f3277a
+UUIDs encontrados: 3
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\12e93b22-6b36-4217-a6ba-cd68f4d463a7.db
+Tamanho: 57344
+SHA256: ed404d142dd336d403c2cce56a803b34b30a69be188d8c612ca064aa0b9f7446
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\1635d2ad-43f1-4300-88d2-4d34122b7cfc.db
+Tamanho: 8720384
+SHA256: 63f2143f898d5ed411222f5de6306863982275cada960fd5e9325d6706fa3c9c
+UUIDs encontrados: 721
+  1635d2ad-43f1-4300-88d2-4d34122b7cfc <<< GOLDEN
+  652a9623-4bbc-46c2-8aca-d811c3b7d6eb <<< GOLDEN
+  d680c2d4-3130-4fa5-a204-0baac37a0826 <<< GOLDEN
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\17646095-68d6-4cf4-8290-ca9232bd17cf.db
+Tamanho: 479232
+SHA256: 43fa44492d2bde9da498381760f9e2fc8d5b0473973c39fc2ba8530477ba8659
+UUIDs encontrados: 4
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\178d3fb3-9629-467e-af06-eb92b777a617.db
+Tamanho: 57344
+SHA256: 9f0f3b0e97e51bc4ba04b24b1c3b020e4f6f5ee5bf14bedcb294734e4e9381a1
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\1d23474b-5495-4cf3-a66c-932857094cbd.db
+Tamanho: 57344
+SHA256: 5067d7fcbd99865abf9e99815ea14e7774038699414092709b3de1fcc7be477d
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\1dff3c14-5aa5-4024-ae7a-84552507812b.db
+Tamanho: 135168
+SHA256: 8bb5939aa1f4d843f4d924120c591022044c1129e56d7a644df5f5e950e77553
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\20e3fc0d-5eaf-4b1b-a99f-f24ba79ff87a.db
+Tamanho: 57344
+SHA256: 33b9db339e35380a892c680838df2663a069f4e8c0229a82f756a568752796b7
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\27506737-900f-4796-a1f1-6c97a8237595.db
+Tamanho: 57344
+SHA256: 5d9857ba607a22be8ee93f63352b52dfd86a6b17c531d23dd5f8e4fbb10e56eb
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\293a0f5a-1e48-4990-bea8-e0cfa2a3b076.db
+Tamanho: 1064960
+SHA256: 8aba617810fb435742ed0abe4a8cb47899287181cc1412c22d1d8311c5716d21
+UUIDs encontrados: 70
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\2992f223-6aed-48b3-8b83-ff6e535a1dce.db
+Tamanho: 5791744
+SHA256: eb4cecc9af70b451d10c5627771084e0e5efb5300b74790604761a63413040ec
+UUIDs encontrados: 47
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\2a2e3ca7-82e4-4b96-a616-601fe58357d9.db
+Tamanho: 49152
+SHA256: ace7385b31735a7d8bdd33c621d2bc47062e2952f95f75a8b8b01b4775765a68
+UUIDs encontrados: 3
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\2d4f4c42-57c2-428f-a588-6b29019bdbf2.db
+Tamanho: 110592
+SHA256: eb7f9eb71dc261e7a570d5478210b4137f865c626d162394871bcc50844c9a29
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\33cc6c37-7243-4173-ad70-20bcf473dcf1.db
+Tamanho: 294912
+SHA256: 5254ea3fa6aabc8d8cd5907ba7d90c8cc9da010868f4ee9a68f88869a7387ca9
+UUIDs encontrados: 15
+  1635d2ad-43f1-4300-88d2-4d34122b7cfc <<< GOLDEN
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\3577ee12-97d6-4b12-90aa-c2f402efff4a.db
+Tamanho: 57344
+SHA256: 7b484369041c916e08c6f39a2ef21f16fd2b60421392b8ba685c0af98b739355
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\38d8df64-263c-408f-9ed2-4b596cd8b17a.db
+Tamanho: 57344
+SHA256: c48a9944231c86e4914d44c151be69874de19defec834831886889b1c7e4e4f1
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\394adb27-76ce-4e0a-856f-9731ccebfaa9.db
+Tamanho: 94208
+SHA256: 3164e6cef125275dd3e30b1b2794db05fdab83b134921668a46396c494aa881f
+UUIDs encontrados: 3
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\3e46c188-4dfe-42ac-9fb1-581f67d3d11c.db
+Tamanho: 57344
+SHA256: 4869fc98f3a416ec950613061acb89b4062450a99a681eb1a03cc126310dd5cb
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\4101889e-ac77-4410-91f4-aaaca54f639d.db
+Tamanho: 135168
+SHA256: 57401632dee58b91f6ff33c3de774c71fe9215e031e8cef292e491ee61449ac7
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\44113961-752f-4c18-b987-bbc330c37343.db
+Tamanho: 126976
+SHA256: 78dbf07a31c515d6cf3bd0af56f07f10b0889d89614e1f0773422aae42b09d0d
+UUIDs encontrados: 3
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\46e272c1-40b6-49a2-b44f-94e10dfebf17.db
+Tamanho: 217088
+SHA256: ecc3b62a5e53d86485264b6c7550169677c0abfe165e8e2a10675e2ec03e9f75
+UUIDs encontrados: 3
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\52eeb9ec-7991-4171-83e3-aec946fa93bd.db
+Tamanho: 57344
+SHA256: edec321a22d4f787cae71249aa11c243d881865cbe0a7664a8a92eff1826462e
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\66ad5a3d-1543-4fac-b8e1-32d99160caf8.db
+Tamanho: 57344
+SHA256: 8217b614af8777eb4483e5df96d7b5e578b7033425426976cb035543d5b9473c
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\689c0159-68b4-4388-8ad5-fafacb873321.db
+Tamanho: 1175552
+SHA256: 107b97c9add86510aea1ef103b59a7419d776ba82137662900075dba0fe1fcea
+UUIDs encontrados: 198
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\6c27f2bf-2aac-478e-82ea-30b63e00aeeb.db
+Tamanho: 57344
+SHA256: 5edac364e26e673593ac0f894bbf57aebf8f772430df957f1d42c521f01b8210
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\75209559-1dee-4a32-8031-d80097b97bf6.db
+Tamanho: 69632
+SHA256: 074da3abe7ba9c004ef8ca07a34a9ca0c734e2105358b0fc350514811789cc6f
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\7a39ff7f-11b9-44de-960d-3de171d93313.db
+Tamanho: 57344
+SHA256: 3b47d144b98b3c91f4a3b140c60e6453698dfdb67952df833a8de02872f51cc9
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\7c80c4a7-bc0a-4a3a-933d-1891dded16d8.db
+Tamanho: 57344
+SHA256: 241e4a9f75ccb17e34c1b4ecbca826868b4d7041a7a002d871332ce19e6fef74
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\7f1ac345-6c2e-4bea-99df-40c56fbc7f47.db
+Tamanho: 5263360
+SHA256: bc81ffc424486bc468e4e53cfe4f50f4c18c172f2738491f05e65dfd30709e41
+UUIDs encontrados: 573
+  1635d2ad-43f1-4300-88d2-4d34122b7cfc <<< GOLDEN
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\8421071a-355e-486a-ad36-74e81aff8104.db
+Tamanho: 196608
+SHA256: 122bef6692016077f9f03e87cd0a0a21b65749bf972f8e14207fe13a9faafd6c
+UUIDs encontrados: 3
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\8eee2561-bb4f-4794-936e-49e1d246a298.db
+Tamanho: 61440
+SHA256: a3d44203cc5f8991c7b9b497b68896d348730870c0f495a13f12aa941892a7fd
+UUIDs encontrados: 3
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\8f9fdd77-caf6-486e-8b3b-281d0bddb00c.db
+Tamanho: 57344
+SHA256: 0291287ca4adb563b0d8e971ba08cf860dd21e47c97c3c9d0bc8afcf264505d5
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\911306bc-5d91-4452-8665-cc78dd598dae.db
+Tamanho: 266240
+SHA256: a8e0977c2c5524a8b8a2bd3ec897aada9f5e08b42fbc474c9f15a2ac9c18be93
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\95c60e1c-c32b-4cbe-8015-e0525b26cea6.db
+Tamanho: 675840
+SHA256: 3fcaf3cf9db056c326397d21dea38304efee609d9915f775637ad9a4a9b2f4a4
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\9a49858f-ce5f-4345-9f2b-40e41850e987.db
+Tamanho: 57344
+SHA256: 7df47c4fab992df1994a21dc3c6b3311179a68a7aa3c78d3b1677b48e2a94c37
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\9ab11487-0a5c-40ec-849e-d6a49f7594af.db
+Tamanho: 102400
+SHA256: 16d1c5273095d32ef73359c18ed9fedb0ec27ce82d824c22db7ba0a85fff267c
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\9cd7f3e7-1ef6-40c4-9967-a387059dde1a.db
+Tamanho: 102400
+SHA256: 5a2d6c510835f02466a375296163db6cc74feb3269cece421bfcc1d981178390
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\9eba16f3-be86-44e4-aed0-d2b08dafe1d6.db
+Tamanho: 57344
+SHA256: d5b5510cbe0f58b807559a0ecfcb10f60f98cee4f7ef260b811cfd6fbfbef362
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\a2b4fead-a3d2-47ae-bb60-03e685371f62.db
+Tamanho: 110592
+SHA256: 9d10acfd53a9e583fe8fdffcecde8f948c37f960217569cb0e74ec7a60048adf
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\a5afce61-7753-4822-a844-71e17ad2c8af.db
+Tamanho: 57344
+SHA256: fe94efea685d703689e73c6b43d047ea9ee79eeccb378ccc0cc9eab2dd671073
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\aab1ca54-3c8d-484d-a0c5-1d3354b51f9d.db
+Tamanho: 376832
+SHA256: 429307d69baa2f9220d3d049e67e18c6df615a44dceeb7e6c2934b1a4d51231f
+UUIDs encontrados: 5
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\ae88c814-5973-45da-980e-a966ff9c0061.db
+Tamanho: 176128
+SHA256: 6b1a081cdfe70d5a0774fcfb4b4f0f03e8ef4eee068533f4b79b5ad5dbbff9c3
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\b36720da-2a28-4cf3-a625-232c3e23c150.db
+Tamanho: 69632
+SHA256: 3fdf4db67d0a0c6d46929964ce904614bafc628d4d3898a2826827dfd9a8b921
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\b6ada397-8c60-4234-857f-b3faec45ba38.db
+Tamanho: 57344
+SHA256: 114b6be279b1db9c01b5479f3b485dfbe044befff98fb8de71d7ccc119ea1dc9
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\ba8e22fb-b3dc-4aaf-9c5f-528ee3df7ecc.db
+Tamanho: 323584
+SHA256: 9d3351f8c73ffe705a418d86a98331ac056b5a04c57528fa599105158ae4317a
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\bcf392b0-9e68-486f-8d90-f729ad9e55d1.db
+Tamanho: 167936
+SHA256: 49926f6b0382d87d951037271f8282776cd712b0de75dd631e3edc48fe88fc08
+UUIDs encontrados: 3
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\c125fdc1-519f-4bab-a2cf-46f6837deb27.db
+Tamanho: 57344
+SHA256: 2cbc9a90c52479156ed1ede5c37245045139987ced2a40fc9448df6bcf74e279
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\c8203d6f-b7ed-4f3a-bad3-2a435d4c36a0.db
+Tamanho: 57344
+SHA256: d1fc52e8657626466c9f6c10d63439a3f89813711bdb58156ccf3fb2d3679787
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\c97edbd6-4d0d-4353-b7ba-9266cc49c879.db
+Tamanho: 307200
+SHA256: 5cc08c7ad6b3dbda7a29ea876b0747588dbf6c7e261793a937e9c5faaa47872c
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\cb3834a9-7acd-44a9-95eb-cdcb799fa8dc.db
+Tamanho: 77824
+SHA256: 7de3510c870520d72ec03a90a1bfc95e54b8cbb727635d85466ab598f6fed34c
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\ce3b2cfe-5e90-482c-880b-a17b9af5b89f.db
+Tamanho: 57344
+SHA256: eddbd573166855584a9e12ed3537a40e5d0c64c8594bfcb418e36f33b0999178
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\db04872d-1616-4b9c-b045-805006a768b1.db
+Tamanho: 233472
+SHA256: 327fed18f5c4b1e5be8193a4b66acb25bd4f9a3a186add2c64b8893b975b214e
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\db4bb1ed-8e13-4895-a92d-cae0b39180c2.db
+Tamanho: 57344
+SHA256: afc97b3f5a23312c0d72e2b00fe86e6be85ad67f14fc3273540d5552956859dc
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\dc5d624c-b3f3-4ac7-ab3c-3c98152a45c6.db
+Tamanho: 57344
+SHA256: 84c0289c60e5a48481690d94ffd2245a0f6cfbf10f423a22e7b1f6fd05ee9674
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\dcc1ef42-2801-4c06-924b-03e57600601a.db
+Tamanho: 77824
+SHA256: 41d2080ff6c3af82f85602e977e0373d05b87d72e5cf84ead068f987e465cd4a
+UUIDs encontrados: 3
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\ddb820be-120e-4f6d-8666-a72ad9077981.db
+Tamanho: 57344
+SHA256: 4e3044ac8931da5f62522e6ded1a1e37014af81f2a2b2d24bd7bad7495c9223f
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\e14b8548-ca4a-41a1-9efc-bd7ea6e2f436.db
+Tamanho: 118784
+SHA256: b35e1a2983f934f39a8b11e06739885eaf24aab5cae0ac7be2fba49559cb062e
+UUIDs encontrados: 5
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\e3af8518-2344-4d36-b1c4-583d64645d4c.db
+Tamanho: 786432
+SHA256: 7fea4e7319d2834510f632a3218784e5749d1b6f82648cc46b63822f3a5da5d7
+UUIDs encontrados: 30
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\e78faea2-ce98-4ac0-aab8-0fa314c27acd.db
+Tamanho: 102400
+SHA256: 563b95c54c454d59b1642a7e8366a2532f83fe37f96d757bab6a50af747dd216
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\e892189f-e664-4ba7-a7a2-3f13a5e0b723.db
+Tamanho: 69632
+SHA256: b9e3a3f6b733381b6f7c9d77a754099c927d1309c318fff786059e7c28371941
+UUIDs encontrados: 4
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\ea8cfb53-2578-4582-8799-6f95a63216a2.db
+Tamanho: 57344
+SHA256: 41d102191d1c540461e7ae5adf2db5b635a94908156c5458db6ba16d76396534
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\ebadd804-1572-4a8c-9ef2-714b2ae0d68d.db
+Tamanho: 57344
+SHA256: 984e56be4e10c44b3a8d8aadb98d99852bbfd885150356765873ae07efaead53
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\ebe340cd-cc27-41f9-8559-fbef88b255c3.db
+Tamanho: 57344
+SHA256: 43e3a67853776d4083180119296027e7520eaae6c9d44a3f69c47c7432ca427f
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\efd2084c-d89b-4099-85f7-d98b4a941d37.db
+Tamanho: 57344
+SHA256: a1dbc0bc6fcfcce7c8e555f4ab711fa3c41449f94e90050c69b7d1e111395b73
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\f07d81c0-a6f6-4fdc-ab18-fe9827df09a7.db
+Tamanho: 249856
+SHA256: ad6565ee0f4a105083651141c3a5b4398be5a496982b67d038d4025f8a38fee0
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\f2f5fa1a-3d5f-4410-9473-6dffd0853d5a.db
+Tamanho: 233472
+SHA256: aa766da2aab94815a845bc6164c04fc229367f772ff11e31e54aebec7f6bf00d
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\f420524e-5296-4d94-9e50-a16c145ab0a5.db
+Tamanho: 217088
+SHA256: c06d68fb2e93c9774d58c05278e2c2197b2160d2b9a0bef746f69d05655ad0cc
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\f7ebf566-fe91-4f0c-9d1e-3d25c3a75efa.db
+Tamanho: 167936
+SHA256: 73f623f1e27f1904e23712f3dbb82a2fcc42c47343e5445c13efe75daf988001
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\f8c0c8ae-c29a-4544-876f-ba39a2f8c6ca.db
+Tamanho: 651264
+SHA256: 0fe8f38888db8cb357eb397176b091371f6fba4a3029cae4bc50b34f30089ab5
+UUIDs encontrados: 4
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\fa090ae4-be73-4c36-ba42-512a729847eb.db
+Tamanho: 135168
+SHA256: 9213882daaf06cda2abb02e9651508da20afb7c0093c7722d7623d3e5521a717
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations\fd457f42-c2e1-481f-af7d-69a3164102eb.db
+Tamanho: 233472
+SHA256: 8e18021529ce6652760ab29b1303324389faaf02cd081c8193e5083b9d1127b7
+UUIDs encontrados: 2
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations_migradas_separadas\0dfd08dc-a251-4160-921d-7098d860f818.db
+Tamanho: 6397952
+SHA256: 231b169cec0320fea78b680d7cd762475cd55a9f7c56b849896ceb3edae2ea12
+UUIDs encontrados: 258
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations_migradas_separadas\1635d2ad-43f1-4300-88d2-4d34122b7cfc.db
+Tamanho: 6086656
+SHA256: e9b7376408006f6b2f6b78c34e54ef2dd169436819c4c61a160cad199c888f42
+UUIDs encontrados: 521
+  1635d2ad-43f1-4300-88d2-4d34122b7cfc <<< GOLDEN
+  652a9623-4bbc-46c2-8aca-d811c3b7d6eb <<< GOLDEN
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations_migradas_separadas\293a0f5a-1e48-4990-bea8-e0cfa2a3b076.db
+Tamanho: 1064960
+SHA256: d3835461a31b463c1d9e7f894997b4939ac3a91ca2900766b0b4874c556ca2cc
+UUIDs encontrados: 70
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations_migradas_separadas\2992f223-6aed-48b3-8b83-ff6e535a1dce.db
+Tamanho: 5791744
+SHA256: 0690778b5d09cde2bd19e40be3629ad60c1623012821b74651ad656f933f0871
+UUIDs encontrados: 47
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations_migradas_separadas\33cc6c37-7243-4173-ad70-20bcf473dcf1.db
+Tamanho: 294912
+SHA256: 1f645af65a1861ff4f2bb513b61868d758334ed4363f5bbf0dcf4b90470fbab7
+UUIDs encontrados: 15
+  1635d2ad-43f1-4300-88d2-4d34122b7cfc <<< GOLDEN
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations_migradas_separadas\689c0159-68b4-4388-8ad5-fafacb873321.db
+Tamanho: 1175552
+SHA256: dd5916280a40aee00599dcf7f10dbff5c55968ce568b4d2c440f52a0b5dc6a44
+UUIDs encontrados: 198
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\conversations_migradas_separadas\e3af8518-2344-4d36-b1c4-583d64645d4c.db
+Tamanho: 786432
+SHA256: 4aaaf8b920b7580644a8e50a897a2f327223f3d44cf3d6a4893ac6b43947b14d
+UUIDs encontrados: 30
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\backup_migration_20260903_042737\0dfd08dc-a251-4160-921d-7098d860f818.db
+Tamanho: 6397952
+SHA256: 06daee8bd56eb22df3fa29650b264eab00d88d5f60b80df6b20e80461587a0b5
+UUIDs encontrados: 258
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\backup_migration_20260903_042737\2992f223-6aed-48b3-8b83-ff6e535a1dce.db
+Tamanho: 5791744
+SHA256: 742fa594e0357564f2598cb62d7ca6f365eead9775ed91b7616929d05c803ee5
+UUIDs encontrados: 47
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+------------------------------------------------------------
+DB: C:\Users\usuario\.gemini\antigravity\backup_migration_20260903_042737\b9a2da1f-43b2-49db-a983-6b93d78b755c.db
+Tamanho: 196608
+SHA256: 1940bffc2a0e23da1b5f88ea1be41b9cdf4601bce2a3d661a66c2350cdb470f6
+UUIDs encontrados: 6
+  String SQLite encontrada: trajectory_id
+  String SQLite encontrada: cascade_id
+  String SQLite encontrada: trajectory_type
+  String SQLite encontrada: source
+  String SQLite encontrada: trajectory_meta
+
+==============================================================================
+6. GOLDEN SAMPLE — DATABASE CROSS CHECK
+==============================================================================
+DBs contendo UUIDs do Golden Sample: 5
+
+DB: C:\Users\usuario\.gemini\antigravity\conversations\1635d2ad-43f1-4300-88d2-4d34122b7cfc.db
+SHA256: 63f2143f898d5ed411222f5de6306863982275cada960fd5e9325d6706fa3c9c
+UUIDs Golden:
+  1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+  d680c2d4-3130-4fa5-a204-0baac37a0826
+
+DB: C:\Users\usuario\.gemini\antigravity\conversations\33cc6c37-7243-4173-ad70-20bcf473dcf1.db
+SHA256: 5254ea3fa6aabc8d8cd5907ba7d90c8cc9da010868f4ee9a68f88869a7387ca9
+UUIDs Golden:
+  1635d2ad-43f1-4300-88d2-4d34122b7cfc
+
+DB: C:\Users\usuario\.gemini\antigravity\conversations\7f1ac345-6c2e-4bea-99df-40c56fbc7f47.db
+SHA256: bc81ffc424486bc468e4e53cfe4f50f4c18c172f2738491f05e65dfd30709e41
+UUIDs Golden:
+  1635d2ad-43f1-4300-88d2-4d34122b7cfc
+
+DB: C:\Users\usuario\.gemini\antigravity\conversations_migradas_separadas\1635d2ad-43f1-4300-88d2-4d34122b7cfc.db
+SHA256: e9b7376408006f6b2f6b78c34e54ef2dd169436819c4c61a160cad199c888f42
+UUIDs Golden:
+  1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+DB: C:\Users\usuario\.gemini\antigravity\conversations_migradas_separadas\33cc6c37-7243-4173-ad70-20bcf473dcf1.db
+SHA256: 1f645af65a1861ff4f2bb513b61868d758334ed4363f5bbf0dcf4b90470fbab7
+UUIDs Golden:
+  1635d2ad-43f1-4300-88d2-4d34122b7cfc
+
+==============================================================================
+7. MATRIZ DE PRESENÇA DOS GOLDEN UUIDs
+==============================================================================
+
+TARGET: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+
+  PBs:
+    [YES] C:\Users\usuario\.gemini\antigravity\agyhub_summaries_proto.pb
+    [YES] C:\Users\usuario\.gemini\antigravity\agyhub_summaries_proto.pb.bak
+    [NO ] C:\Users\usuario\.gemini\antigravity\backup_migration_20260903_042737\agyhub_summaries_proto.pb
+
+  DBs:
+    [YES] C:\Users\usuario\.gemini\antigravity\conversations\1635d2ad-43f1-4300-88d2-4d34122b7cfc.db
+    [YES] C:\Users\usuario\.gemini\antigravity\conversations\33cc6c37-7243-4173-ad70-20bcf473dcf1.db
+    [YES] C:\Users\usuario\.gemini\antigravity\conversations\7f1ac345-6c2e-4bea-99df-40c56fbc7f47.db
+    [YES] C:\Users\usuario\.gemini\antigravity\conversations_migradas_separadas\1635d2ad-43f1-4300-88d2-4d34122b7cfc.db
+    [YES] C:\Users\usuario\.gemini\antigravity\conversations_migradas_separadas\33cc6c37-7243-4173-ad70-20bcf473dcf1.db
+
+  STATE:
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\globalStorage\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\globalStorage\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\workspaceStorage\1788453027312\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\workspaceStorage\6a435284564353f2c62ee0b07f89deab\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\workspaceStorage\93b4648aef2695faca6223ffbb57ead7\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\051108a066ab6bbd5fd751d32076f435\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\0d2adf54d1fb1b06b14a480a042f8d8a\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\249f23a9a6fe18e98411f53f7bc5e76d\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\25c57414d7672932de88bfaa2f68f10d\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\343b096f834a5a42c52426dc0a5e0c02\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\35dcf2196f95c644c46c2308c3ebb9d0\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\399462301b0de660480d9247fe17aa28\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\48049651211848cd27c26a0c2eb832c1\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\4f6db591e7b2484909631d003286b75a\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\5bdd3bf10c672adf10613eea55031d47\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\5f370cc89b7e1c964b40139b46c488b1\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\663425537a0d70af2c009f7c903ad281\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\6c88c020b13e9827695f4137a62d3586\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\808d6b42bd6367a0b476cf71df7163a2\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\93b4648aef2695faca6223ffbb57ead7\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\aaa4237567250019c15b447801edd957\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\b1cf5306df7a9f03b6080c83a9528c09\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\bd23c15ed00b0efa819cebb0625a53e8\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\c1fdc488fee6b0ea9cd2538135197c46\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\cc31aec15709cd25869dce0b14d040a3\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\d09c2d065bc3973a4ce637a92edbf838\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\df6528e14a31eba51089ee6b1be336d2\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\e1e667c3f6fa97972c62640fc5c54cab\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\ec75c87ea04077c90097e55d3016b7e6\state.vscdb
+
+TARGET: d680c2d4-3130-4fa5-a204-0baac37a0826
+
+  PBs:
+    [YES] C:\Users\usuario\.gemini\antigravity\agyhub_summaries_proto.pb
+    [NO ] C:\Users\usuario\.gemini\antigravity\agyhub_summaries_proto.pb.bak
+    [NO ] C:\Users\usuario\.gemini\antigravity\backup_migration_20260903_042737\agyhub_summaries_proto.pb
+
+  DBs:
+    [YES] C:\Users\usuario\.gemini\antigravity\conversations\1635d2ad-43f1-4300-88d2-4d34122b7cfc.db
+
+  STATE:
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\globalStorage\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\globalStorage\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\workspaceStorage\1788453027312\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\workspaceStorage\6a435284564353f2c62ee0b07f89deab\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\workspaceStorage\93b4648aef2695faca6223ffbb57ead7\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\051108a066ab6bbd5fd751d32076f435\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\0d2adf54d1fb1b06b14a480a042f8d8a\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\249f23a9a6fe18e98411f53f7bc5e76d\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\25c57414d7672932de88bfaa2f68f10d\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\343b096f834a5a42c52426dc0a5e0c02\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\35dcf2196f95c644c46c2308c3ebb9d0\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\399462301b0de660480d9247fe17aa28\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\48049651211848cd27c26a0c2eb832c1\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\4f6db591e7b2484909631d003286b75a\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\5bdd3bf10c672adf10613eea55031d47\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\5f370cc89b7e1c964b40139b46c488b1\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\663425537a0d70af2c009f7c903ad281\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\6c88c020b13e9827695f4137a62d3586\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\808d6b42bd6367a0b476cf71df7163a2\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\93b4648aef2695faca6223ffbb57ead7\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\aaa4237567250019c15b447801edd957\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\b1cf5306df7a9f03b6080c83a9528c09\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\bd23c15ed00b0efa819cebb0625a53e8\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\c1fdc488fee6b0ea9cd2538135197c46\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\cc31aec15709cd25869dce0b14d040a3\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\d09c2d065bc3973a4ce637a92edbf838\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\df6528e14a31eba51089ee6b1be336d2\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\e1e667c3f6fa97972c62640fc5c54cab\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\ec75c87ea04077c90097e55d3016b7e6\state.vscdb
+
+TARGET: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+  PBs:
+    [NO ] C:\Users\usuario\.gemini\antigravity\agyhub_summaries_proto.pb
+    [YES] C:\Users\usuario\.gemini\antigravity\agyhub_summaries_proto.pb.bak
+    [NO ] C:\Users\usuario\.gemini\antigravity\backup_migration_20260903_042737\agyhub_summaries_proto.pb
+
+  DBs:
+    [YES] C:\Users\usuario\.gemini\antigravity\conversations\1635d2ad-43f1-4300-88d2-4d34122b7cfc.db
+    [YES] C:\Users\usuario\.gemini\antigravity\conversations_migradas_separadas\1635d2ad-43f1-4300-88d2-4d34122b7cfc.db
+
+  STATE:
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\globalStorage\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\globalStorage\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\workspaceStorage\1788453027312\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\workspaceStorage\6a435284564353f2c62ee0b07f89deab\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity IDE\User\workspaceStorage\93b4648aef2695faca6223ffbb57ead7\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\051108a066ab6bbd5fd751d32076f435\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\0d2adf54d1fb1b06b14a480a042f8d8a\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\249f23a9a6fe18e98411f53f7bc5e76d\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\25c57414d7672932de88bfaa2f68f10d\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\343b096f834a5a42c52426dc0a5e0c02\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\35dcf2196f95c644c46c2308c3ebb9d0\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\399462301b0de660480d9247fe17aa28\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\48049651211848cd27c26a0c2eb832c1\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\4f6db591e7b2484909631d003286b75a\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\5bdd3bf10c672adf10613eea55031d47\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\5f370cc89b7e1c964b40139b46c488b1\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\663425537a0d70af2c009f7c903ad281\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\6c88c020b13e9827695f4137a62d3586\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\808d6b42bd6367a0b476cf71df7163a2\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\93b4648aef2695faca6223ffbb57ead7\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\aaa4237567250019c15b447801edd957\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\b1cf5306df7a9f03b6080c83a9528c09\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\bd23c15ed00b0efa819cebb0625a53e8\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\c1fdc488fee6b0ea9cd2538135197c46\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\cc31aec15709cd25869dce0b14d040a3\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\d09c2d065bc3973a4ce637a92edbf838\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\df6528e14a31eba51089ee6b1be336d2\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\e1e667c3f6fa97972c62640fc5c54cab\state.vscdb
+    [NO ] C:\Users\usuario\AppData\Roaming\Antigravity\User\workspaceStorage\ec75c87ea04077c90097e55d3016b7e6\state.vscdb
+
+==============================================================================
+8. COMPARAÇÃO DOS PBs
+==============================================================================
+
+A: C:\Users\usuario\.gemini\antigravity\agyhub_summaries_proto.pb
+B: C:\Users\usuario\.gemini\antigravity\agyhub_summaries_proto.pb.bak
+SHA A: 27ec174e2e697529c06ad02fe7d8ed698d2069c899f87d3d6537e2a870aef42a
+SHA B: 88ebf9ae728a90c077dfd29942c00a24d6dd81a2d1f2eccd8d39a39d5d44a445
+RESULTADO: DIFERENTES
+
+UUIDs somente em A: 13
+  A-only: 1930f03c-e72c-4154-afe8-7e37d13351ab
+  A-only: 2a9e33ae-0e86-460d-8572-530a4aa30bd1
+  A-only: 33cc6c37-7243-4173-ad70-20bcf473dcf1
+  A-only: 6a3ea2bd-9a6c-4063-b8df-2408e914d37f
+  A-only: 6c290734-c8ef-4258-ac35-d5572912176a
+  A-only: 6c584bd5-1f03-4c65-8716-94621eede571
+  A-only: 762265e7-9a12-43a6-a9f6-639f65285960
+  A-only: 78416862-e2a3-484d-96ce-aeb7709eb6d0
+  A-only: 7f1ac345-6c2e-4bea-99df-40c56fbc7f47
+  A-only: b6d4431b-c73e-406a-9b52-90203c67f446
+  A-only: cecdd1ad-b169-47e0-8c85-eb17f2f8057e
+  A-only: d680c2d4-3130-4fa5-a204-0baac37a0826
+  A-only: f2a16c04-f7a2-40b5-acb4-12b517bd470b
+
+UUIDs somente em B: 23
+  B-only: 14b196be-fa6c-4d1a-8b68-d6c8384b629e
+  B-only: 1944ac21-f7a3-4809-b78e-ddca13f05b28
+  B-only: 25dc0a94-0fe4-48f1-acb1-596304f2ff08
+  B-only: 27762c63-c5d4-4e58-bcd7-eaab88e80b14
+  B-only: 2d9f1d61-2d4b-4cea-abac-b8cfc3d7920c
+  B-only: 4c2a8d5a-d850-42ae-9799-741271ede221
+  B-only: 4e0c6008-5f34-4170-8f63-b4f09dabaf9c
+  B-only: 54af5c5e-eef2-4070-a459-3d851aef6d1e
+  B-only: 5dc85201-0bca-4da8-9c1d-60b64d4e6a88
+  B-only: 5fd9a862-a945-4b33-ac35-2a1cba94e971
+  B-only: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+  B-only: 692c2e47-296a-4e9e-b6b3-0e90534f295f
+  B-only: 6db8b33c-80b1-46a1-85be-8c8eb3b0b5f2
+  B-only: 73eac944-70d1-45e5-8ea4-9ce83f3cafaa
+  B-only: 7ebbfac8-fac3-4781-89d0-110251a37981
+  B-only: 9195a3f9-f0df-4670-9b00-d02ccfab21a6
+  B-only: 9600bf7f-cda7-4ee5-bac9-a30b36982a0e
+  B-only: 9e96c4fc-9f40-4d9d-a81a-1723f84d4f18
+  B-only: a7337196-4d7e-4750-8550-953371a8c23f
+  B-only: bc745751-0cef-4c5e-8d13-56ae53a91c56
+  B-only: d798c690-c640-48c1-a472-fe024dbc20b6
+  B-only: d96bd448-405d-46e3-9dfd-827560cbb3d1
+  B-only: e36851f2-c837-4fa2-a8b3-81deafde0da0
+
+A: C:\Users\usuario\.gemini\antigravity\agyhub_summaries_proto.pb
+B: C:\Users\usuario\.gemini\antigravity\backup_migration_20260903_042737\agyhub_summaries_proto.pb
+SHA A: 27ec174e2e697529c06ad02fe7d8ed698d2069c899f87d3d6537e2a870aef42a
+SHA B: afddd32927b19a2824990a9bcb8178c8c2a00a0e6f5312d3e17ddcbe47a2dfce
+RESULTADO: DIFERENTES
+
+UUIDs somente em A: 15
+  A-only: 1120d8ba-6ce8-4eb0-89b4-00632e043ecd
+  A-only: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  A-only: 1930f03c-e72c-4154-afe8-7e37d13351ab
+  A-only: 2a9e33ae-0e86-460d-8572-530a4aa30bd1
+  A-only: 33cc6c37-7243-4173-ad70-20bcf473dcf1
+  A-only: 6a3ea2bd-9a6c-4063-b8df-2408e914d37f
+  A-only: 6c290734-c8ef-4258-ac35-d5572912176a
+  A-only: 6c584bd5-1f03-4c65-8716-94621eede571
+  A-only: 762265e7-9a12-43a6-a9f6-639f65285960
+  A-only: 78416862-e2a3-484d-96ce-aeb7709eb6d0
+  A-only: 7f1ac345-6c2e-4bea-99df-40c56fbc7f47
+  A-only: b6d4431b-c73e-406a-9b52-90203c67f446
+  A-only: cecdd1ad-b169-47e0-8c85-eb17f2f8057e
+  A-only: d680c2d4-3130-4fa5-a204-0baac37a0826
+  A-only: f2a16c04-f7a2-40b5-acb4-12b517bd470b
+
+UUIDs somente em B: 29
+  B-only: 14b196be-fa6c-4d1a-8b68-d6c8384b629e
+  B-only: 18fbb440-350b-4c55-a55a-9aa524fe9da4
+  B-only: 1944ac21-f7a3-4809-b78e-ddca13f05b28
+  B-only: 25dc0a94-0fe4-48f1-acb1-596304f2ff08
+  B-only: 27762c63-c5d4-4e58-bcd7-eaab88e80b14
+  B-only: 2d9f1d61-2d4b-4cea-abac-b8cfc3d7920c
+  B-only: 4c2a8d5a-d850-42ae-9799-741271ede221
+  B-only: 4e0c6008-5f34-4170-8f63-b4f09dabaf9c
+  B-only: 54af5c5e-eef2-4070-a459-3d851aef6d1e
+  B-only: 5675a684-ccdc-474d-97fa-c6585ce0c445
+  B-only: 5dc85201-0bca-4da8-9c1d-60b64d4e6a88
+  B-only: 5fd9a862-a945-4b33-ac35-2a1cba94e971
+  B-only: 692c2e47-296a-4e9e-b6b3-0e90534f295f
+  B-only: 6db8b33c-80b1-46a1-85be-8c8eb3b0b5f2
+  B-only: 73eac944-70d1-45e5-8ea4-9ce83f3cafaa
+  B-only: 7ebbfac8-fac3-4781-89d0-110251a37981
+  B-only: 9195a3f9-f0df-4670-9b00-d02ccfab21a6
+  B-only: 9600bf7f-cda7-4ee5-bac9-a30b36982a0e
+  B-only: 9e96c4fc-9f40-4d9d-a81a-1723f84d4f18
+  B-only: a7337196-4d7e-4750-8550-953371a8c23f
+  B-only: a87ac774-fbb0-447d-8e07-2fe981cc53f1
+  B-only: b7558d16-9cfb-431a-bea0-ec34e55c71a1
+  B-only: b9a2da1f-43b2-49db-a983-6b93d78b755c
+  B-only: bc745751-0cef-4c5e-8d13-56ae53a91c56
+  B-only: c3e59ff7-8e55-4c14-a428-b5445eae0f4a
+  B-only: d798c690-c640-48c1-a472-fe024dbc20b6
+  B-only: d96bd448-405d-46e3-9dfd-827560cbb3d1
+  B-only: ddb820be-120e-4f6d-8666-a72ad9077981
+  B-only: e36851f2-c837-4fa2-a8b3-81deafde0da0
+
+A: C:\Users\usuario\.gemini\antigravity\agyhub_summaries_proto.pb.bak
+B: C:\Users\usuario\.gemini\antigravity\backup_migration_20260903_042737\agyhub_summaries_proto.pb
+SHA A: 88ebf9ae728a90c077dfd29942c00a24d6dd81a2d1f2eccd8d39a39d5d44a445
+SHA B: afddd32927b19a2824990a9bcb8178c8c2a00a0e6f5312d3e17ddcbe47a2dfce
+RESULTADO: DIFERENTES
+
+UUIDs somente em A: 3
+  A-only: 1120d8ba-6ce8-4eb0-89b4-00632e043ecd
+  A-only: 1635d2ad-43f1-4300-88d2-4d34122b7cfc
+  A-only: 652a9623-4bbc-46c2-8aca-d811c3b7d6eb
+
+UUIDs somente em B: 7
+  B-only: 18fbb440-350b-4c55-a55a-9aa524fe9da4
+  B-only: 5675a684-ccdc-474d-97fa-c6585ce0c445
+  B-only: a87ac774-fbb0-447d-8e07-2fe981cc53f1
+  B-only: b7558d16-9cfb-431a-bea0-ec34e55c71a1
+  B-only: b9a2da1f-43b2-49db-a983-6b93d78b755c
+  B-only: c3e59ff7-8e55-4c14-a428-b5445eae0f4a
+  B-only: ddb820be-120e-4f6d-8666-a72ad9077981
+
+==============================================================================
+9. BACKUPS E MIGRAÇÃO
+==============================================================================
+
+OK: C:\Users\usuario\.gemini\antigravity\conversations
+Arquivos: 237
+
+OK: C:\Users\usuario\.gemini\antigravity\conversations_migradas_separadas
+Arquivos: 21
+
+OK: C:\Users\usuario\.gemini\antigravity\backup_migration_20260903_042737
+Arquivos: 82
+
+==============================================================================
+10. DIAGNÓSTICO AUTOMÁTICO
+==============================================================================
+
+[OK] Golden Sample encontrado nos DBs.
+[OK] Golden Cascade encontrado nos PBs.
+[ATENÇÃO] Golden UUID NÃO encontrado no state.vscdb.
+
+==============================================================================
+11. CONCLUSÃO
+==============================================================================
+
+O Audit 8 NÃO executou recuperação.
+Nenhum DB, PB ou state.vscdb foi alterado.
+
+O objetivo deste relatório é determinar:
+
+  1. Onde o Golden Sample ainda existe.
+  2. Se os PBs possuem os históricos.
+  3. Se o state.vscdb possui as referências.
+  4. Se os UUIDs antigos ainda estão presentes.
+  5. Quais backups diferem do estado atual.
+
+IMPORTANTE:
+NÃO modificar nenhum arquivo com base neste Audit 8.
+A estratégia de recuperação será definida depois da análise.
